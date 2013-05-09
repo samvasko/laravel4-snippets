@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::send(${1:\$view}, ${2:\$data}, ${3:\$callback})]]></content>
+    <tabTrigger>Mail-send</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::put(${1:\$pattern}, ${2:\$action})]]></content>
+    <tabTrigger>Route-put</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

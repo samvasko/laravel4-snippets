@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Artisan::call(${1:\$command}, ${2:\$parameters}, ${3:\$output})]]></content>
+    <tabTrigger>Art-call</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

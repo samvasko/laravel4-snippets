@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::forever(${1:\$name}, ${2:\$value}, ${3:\$path}, ${4:\$domain}, ${5:\$secure}, ${6:\$httpOnly})]]></content>
+    <tabTrigger>Cookie-forever</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

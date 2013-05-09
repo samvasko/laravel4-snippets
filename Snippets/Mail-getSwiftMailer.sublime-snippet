@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::getSwiftMailer()]]></content>
+    <tabTrigger>Mail-gsm</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

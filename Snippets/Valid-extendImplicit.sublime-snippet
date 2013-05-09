@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Validator::extendImplicit(${1:\$rule}, ${2:\$extension})]]></content>
+    <tabTrigger>Valid-ei</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

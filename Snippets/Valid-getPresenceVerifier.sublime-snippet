@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Validator::getPresenceVerifier()]]></content>
+    <tabTrigger>Valid-gpv</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redirect::back(${1:\$status}, ${2:\$headers})]]></content>
+    <tabTrigger>Redir-back</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

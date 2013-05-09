@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::only(${1:\$keys})]]></content>
+    <tabTrigger>Input-only</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

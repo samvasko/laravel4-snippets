@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::setInspector(${1:\$inspector})]]></content>
+    <tabTrigger>Route-si</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

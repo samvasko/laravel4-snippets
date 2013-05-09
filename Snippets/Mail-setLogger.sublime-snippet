@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::setLogger(${1:\$logger})]]></content>
+    <tabTrigger>Mail-sl</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

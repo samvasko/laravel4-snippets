@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::getLoader()]]></content>
+    <tabTrigger>Config-gl</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

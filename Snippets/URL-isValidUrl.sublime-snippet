@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::isValidUrl(${1:\$path})]]></content>
+    <tabTrigger>URL-ivu</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

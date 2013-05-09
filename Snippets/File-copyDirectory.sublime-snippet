@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::copyDirectory(${1:\$directory}, ${2:\$destination}, ${3:\$options})]]></content>
+    <tabTrigger>File-cd</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

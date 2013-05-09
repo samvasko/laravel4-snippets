@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::getEncrypter()]]></content>
+    <tabTrigger>Cookie-ge</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

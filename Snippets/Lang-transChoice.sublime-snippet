@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::transChoice(${1:\$id}, ${2:\$number}, ${3:\$parameters}, ${4:\$domain}, ${5:\$locale})]]></content>
+    <tabTrigger>Lang-tc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

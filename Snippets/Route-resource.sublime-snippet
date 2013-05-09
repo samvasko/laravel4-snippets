@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::resource(${1:\$resource}, ${2:\$controller}, ${3:\$options})]]></content>
+    <tabTrigger>Route-resource</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

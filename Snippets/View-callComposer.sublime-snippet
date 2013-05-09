@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::callComposer(${1:\$view})]]></content>
+    <tabTrigger>View-cc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

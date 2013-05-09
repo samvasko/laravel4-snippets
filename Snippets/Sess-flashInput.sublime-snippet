@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::flashInput(${1:\$value})]]></content>
+    <tabTrigger>Sess-fi</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

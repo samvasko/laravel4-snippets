@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::getViewEnvironment()]]></content>
+    <tabTrigger>Mail-gve</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

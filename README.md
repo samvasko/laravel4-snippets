@@ -1,4 +1,13 @@
-laravel4-snippets
+Laravel 4 snippets
 =================
 
-Emmet style Laravel snippets for Sublime Text 2
+Emmet style Laravel snippets for __Sublime Text 2__. I used Laravel source to create nice collection of snippets. For longer names there are handy tab-trigger abrriviations. So for `Paginator::getCurrentUrl()` you can just use `Pagin-gcu` or only `P-gcu`.
+
+Installation
+---------------
+
+For now just git clone this repo into your Packages folder.
+
+    git clone https://github.com/bliker/laravel4-snippets.git
+
+I am working on package manager. Like right now.

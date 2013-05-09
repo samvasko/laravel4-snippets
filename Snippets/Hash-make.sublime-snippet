@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Hash::make(${1:\$value}, ${2:\$options})]]></content>
+    <tabTrigger>Hash-make</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

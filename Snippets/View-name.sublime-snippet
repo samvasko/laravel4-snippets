@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::name(${1:\$view}, ${2:\$name})]]></content>
+    <tabTrigger>View-name</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

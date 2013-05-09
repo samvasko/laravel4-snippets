@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::close()]]></content>
+    <tabTrigger>Form-close</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

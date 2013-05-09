@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::setLoader(${1:\$loader})]]></content>
+    <tabTrigger>Config-sl</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

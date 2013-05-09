@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::flashOnly(${1:\$keys})]]></content>
+    <tabTrigger>Req-fo</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

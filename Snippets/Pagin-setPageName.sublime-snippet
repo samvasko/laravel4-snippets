@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setPageName(${1:\$pageName})]]></content>
+    <tabTrigger>Pagin-spn</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

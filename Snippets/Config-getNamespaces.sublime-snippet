@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::getNamespaces()]]></content>
+    <tabTrigger>Config-gn</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

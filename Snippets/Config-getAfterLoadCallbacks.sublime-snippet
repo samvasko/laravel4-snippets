@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::getAfterLoadCallbacks()]]></content>
+    <tabTrigger>Config-galc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setBaseUrl(${1:\$baseUrl})]]></content>
+    <tabTrigger>Pagin-sbu</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

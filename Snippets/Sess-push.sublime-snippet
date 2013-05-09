@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::push(${1:\$key}, ${2:\$value})]]></content>
+    <tabTrigger>Sess-push</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

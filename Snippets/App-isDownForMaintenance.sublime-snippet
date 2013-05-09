@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::isDownForMaintenance()]]></content>
+    <tabTrigger>App-idfm</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

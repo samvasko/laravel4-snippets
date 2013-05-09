@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::getProviderRepository()]]></content>
+    <tabTrigger>App-gpr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

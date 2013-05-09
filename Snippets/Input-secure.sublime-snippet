@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::secure()]]></content>
+    <tabTrigger>Input-secure</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

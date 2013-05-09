@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::getCurrentRoute()]]></content>
+    <tabTrigger>Route-gcr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

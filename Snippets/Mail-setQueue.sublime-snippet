@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::setQueue(${1:\$queue})]]></content>
+    <tabTrigger>Mail-sq</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

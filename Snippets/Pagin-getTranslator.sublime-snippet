@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::getTranslator()]]></content>
+    <tabTrigger>Pagin-gt</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

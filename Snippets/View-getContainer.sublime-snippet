@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::getContainer()]]></content>
+    <tabTrigger>View-gc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

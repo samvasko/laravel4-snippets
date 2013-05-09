@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::header(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Input-header</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

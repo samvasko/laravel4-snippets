@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::queueOn(${1:\$queue}, ${2:\$view}, ${3:\$data}, ${4:\$callback})]]></content>
+    <tabTrigger>Mail-qo</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

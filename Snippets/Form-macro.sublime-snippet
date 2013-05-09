@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::macro(${1:\$name}, ${2:\$macro})]]></content>
+    <tabTrigger>Form-macro</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

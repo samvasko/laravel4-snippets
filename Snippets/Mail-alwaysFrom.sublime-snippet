@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::alwaysFrom(${1:\$address}, ${2:\$name})]]></content>
+    <tabTrigger>Mail-af</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

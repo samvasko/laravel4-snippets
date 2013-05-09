@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::afterLoading(${1:\$namespace}, ${2:\$callback})]]></content>
+    <tabTrigger>Config-al</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

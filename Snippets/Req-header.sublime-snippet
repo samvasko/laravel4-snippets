@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::header(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Req-header</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

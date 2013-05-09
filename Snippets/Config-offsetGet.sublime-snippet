@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::offsetGet(${1:\$key})]]></content>
+    <tabTrigger>Config-og</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

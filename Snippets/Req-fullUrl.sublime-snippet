@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::fullUrl()]]></content>
+    <tabTrigger>Req-fu</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

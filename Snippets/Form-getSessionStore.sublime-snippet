@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::getSessionStore()]]></content>
+    <tabTrigger>Form-gss</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

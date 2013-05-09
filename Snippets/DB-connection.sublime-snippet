@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::connection(${1:\$name})]]></content>
+    <tabTrigger>DB-connection</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

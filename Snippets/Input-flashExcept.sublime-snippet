@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::flashExcept(${1:\$keys})]]></content>
+    <tabTrigger>Input-fe</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::offsetExists(${1:\$key})]]></content>
+    <tabTrigger>Config-oe</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

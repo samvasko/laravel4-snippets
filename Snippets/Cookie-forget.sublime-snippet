@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::forget(${1:\$name})]]></content>
+    <tabTrigger>Cookie-forget</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

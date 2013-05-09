@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::getSections()]]></content>
+    <tabTrigger>View-gs</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

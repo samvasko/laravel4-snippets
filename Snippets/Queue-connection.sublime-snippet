@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Queue::connection(${1:\$name})]]></content>
+    <tabTrigger>Queue-connection</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

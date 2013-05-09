@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getDefaultConnection()]]></content>
+    <tabTrigger>DB-gdc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

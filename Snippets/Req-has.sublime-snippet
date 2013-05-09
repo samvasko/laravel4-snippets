@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::has(${1:\$key})]]></content>
+    <tabTrigger>Req-has</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

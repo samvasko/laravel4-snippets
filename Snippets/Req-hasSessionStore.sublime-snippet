@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::hasSessionStore()]]></content>
+    <tabTrigger>Req-hss</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

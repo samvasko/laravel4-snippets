@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::save()]]></content>
+    <tabTrigger>Sess-save</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::addNamespace(${1:\$namespace}, ${2:\$hints})]]></content>
+    <tabTrigger>View-an</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

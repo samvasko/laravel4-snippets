@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::make(${1:\$items}, ${2:\$total}, ${3:\$perPage})]]></content>
+    <tabTrigger>Pagin-make</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

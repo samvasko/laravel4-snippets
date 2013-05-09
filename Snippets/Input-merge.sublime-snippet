@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::merge(${1:\$input})]]></content>
+    <tabTrigger>Input-merge</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::getDispatcher()]]></content>
+    <tabTrigger>View-gd</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::getNames()]]></content>
+    <tabTrigger>View-gn</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::mailto(${1:\$email}, ${2:\$title}, ${3:\$attributes})]]></content>
+    <tabTrigger>HTML-mailto</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

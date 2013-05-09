@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::getSelector()]]></content>
+    <tabTrigger>Lang-gs</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

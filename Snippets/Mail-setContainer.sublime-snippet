@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::setContainer(${1:\$container})]]></content>
+    <tabTrigger>Mail-sc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

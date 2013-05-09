@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::hasFile(${1:\$key})]]></content>
+    <tabTrigger>Input-hf</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

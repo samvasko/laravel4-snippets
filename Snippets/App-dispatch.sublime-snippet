@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::dispatch(${1:\$request})]]></content>
+    <tabTrigger>App-dispatch</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

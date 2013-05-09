@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::getExtensions()]]></content>
+    <tabTrigger>View-ge</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

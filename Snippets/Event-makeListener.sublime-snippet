@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::makeListener(${1:\$listener})]]></content>
+    <tabTrigger>Event-ml</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

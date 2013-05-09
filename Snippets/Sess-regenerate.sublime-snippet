@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::regenerate()]]></content>
+    <tabTrigger>Sess-regenerate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

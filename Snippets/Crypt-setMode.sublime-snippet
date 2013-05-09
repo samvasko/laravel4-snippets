@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Crypt::setMode(${1:\$mode})]]></content>
+    <tabTrigger>Crypt-sm</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::runningInConsole()]]></content>
+    <tabTrigger>App-ric</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

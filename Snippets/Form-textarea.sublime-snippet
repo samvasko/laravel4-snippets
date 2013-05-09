@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::textarea(${1:\$name}, ${2:\$value}, ${3:\$options})]]></content>
+    <tabTrigger>Form-textarea</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

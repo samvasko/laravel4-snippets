@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::extend(${1:\$name}, ${2:\$resolver})]]></content>
+    <tabTrigger>DB-extend</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

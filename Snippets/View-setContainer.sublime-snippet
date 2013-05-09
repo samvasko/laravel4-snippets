@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::setContainer(${1:\$container})]]></content>
+    <tabTrigger>View-sc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

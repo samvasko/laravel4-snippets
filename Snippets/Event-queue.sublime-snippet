@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::queue(${1:\$event}, ${2:\$payload})]]></content>
+    <tabTrigger>Event-queue</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

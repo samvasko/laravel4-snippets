@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Queue::addConnector(${1:\$driver}, ${2:\$resolver})]]></content>
+    <tabTrigger>Queue-ac</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

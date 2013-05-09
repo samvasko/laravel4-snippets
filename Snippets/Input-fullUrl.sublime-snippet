@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::fullUrl()]]></content>
+    <tabTrigger>Input-fu</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

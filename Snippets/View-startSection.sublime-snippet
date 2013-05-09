@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::startSection(${1:\$section}, ${2:\$content})]]></content>
+    <tabTrigger>View-ss</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

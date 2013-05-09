@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::detectEnvironment(${1:\$environments})]]></content>
+    <tabTrigger>App-de</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

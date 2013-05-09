@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::getResourceUri(${1:\$resource})]]></content>
+    <tabTrigger>Route-gru</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

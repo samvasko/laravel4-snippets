@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::current()]]></content>
+    <tabTrigger>URL-current</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

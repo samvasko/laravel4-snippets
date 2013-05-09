@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::shutdown(${1:\$callback})]]></content>
+    <tabTrigger>App-shutdown</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

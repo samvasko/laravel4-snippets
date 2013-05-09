@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::setGenerator(${1:\$generator})]]></content>
+    <tabTrigger>URL-sg</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::abort(${1:\$code}, ${2:\$message}, ${3:\$headers})]]></content>
+    <tabTrigger>App-abort</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redirect::route(${1:\$route}, ${2:\$parameters}, ${3:\$status}, ${4:\$headers})]]></content>
+    <tabTrigger>Redir-route</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

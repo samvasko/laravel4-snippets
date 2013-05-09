@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::flashOnly(${1:\$keys})]]></content>
+    <tabTrigger>Input-fo</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

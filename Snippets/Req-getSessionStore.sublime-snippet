@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::getSessionStore()]]></content>
+    <tabTrigger>Req-gss</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::makeDirectory(${1:\$path}, ${2:\$mode}, ${3:\$recursive})]]></content>
+    <tabTrigger>File-md</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

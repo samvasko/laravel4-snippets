@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::setRequestForConsoleEnvironment()]]></content>
+    <tabTrigger>App-srfce</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::before(${1:\$callback})]]></content>
+    <tabTrigger>Route-before</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

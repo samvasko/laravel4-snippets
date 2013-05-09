@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::callFinishFilter(${1:\$request}, ${2:\$response})]]></content>
+    <tabTrigger>Route-cff</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

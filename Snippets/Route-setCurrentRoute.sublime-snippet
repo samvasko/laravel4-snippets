@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::setCurrentRoute(${1:\$route})]]></content>
+    <tabTrigger>Route-scr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

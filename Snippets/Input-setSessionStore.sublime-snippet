@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::setSessionStore(${1:\$session})]]></content>
+    <tabTrigger>Input-sss</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

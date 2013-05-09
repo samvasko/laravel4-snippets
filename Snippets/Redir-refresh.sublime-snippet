@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redirect::refresh(${1:\$status}, ${2:\$headers})]]></content>
+    <tabTrigger>Redir-refresh</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

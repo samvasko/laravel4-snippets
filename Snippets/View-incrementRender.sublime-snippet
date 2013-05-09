@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::incrementRender()]]></content>
+    <tabTrigger>View-ir</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

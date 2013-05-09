@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::old(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Req-old</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

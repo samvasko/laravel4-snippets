@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::renderEach(${1:\$view}, ${2:\$data}, ${3:\$iterator}, ${4:\$empty})]]></content>
+    <tabTrigger>View-re</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

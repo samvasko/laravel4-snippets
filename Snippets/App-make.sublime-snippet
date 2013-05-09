@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::make(${1:\$abstract}, ${2:\$parameters})]]></content>
+    <tabTrigger>App-make</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

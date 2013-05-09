@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::setRequest(${1:\$request})]]></content>
+    <tabTrigger>URL-sr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

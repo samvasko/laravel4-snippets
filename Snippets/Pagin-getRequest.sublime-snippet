@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::getRequest()]]></content>
+    <tabTrigger>Pagin-gr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

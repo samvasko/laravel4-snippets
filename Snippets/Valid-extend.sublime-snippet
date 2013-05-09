@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Validator::extend(${1:\$rule}, ${2:\$extension})]]></content>
+    <tabTrigger>Valid-extend</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

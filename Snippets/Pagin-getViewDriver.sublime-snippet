@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::getViewDriver()]]></content>
+    <tabTrigger>Pagin-gvd</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

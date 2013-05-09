@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::flash(${1:\$filter}, ${2:\$keys})]]></content>
+    <tabTrigger>Req-flash</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

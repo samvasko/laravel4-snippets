@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::setContainer(${1:\$container})]]></content>
+    <tabTrigger>Route-sc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::except(${1:\$keys})]]></content>
+    <tabTrigger>Req-except</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

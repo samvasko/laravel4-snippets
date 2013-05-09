@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Crypt::setKey(${1:\$key})]]></content>
+    <tabTrigger>Crypt-sk</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

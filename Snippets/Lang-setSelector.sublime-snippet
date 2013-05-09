@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::setSelector(${1:\$selector})]]></content>
+    <tabTrigger>Lang-ss</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

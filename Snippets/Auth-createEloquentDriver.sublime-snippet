@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::createEloquentDriver()]]></content>
+    <tabTrigger>Auth-ced</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

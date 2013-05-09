@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Log::listen(${1:\$callback})]]></content>
+    <tabTrigger>Log-listen</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

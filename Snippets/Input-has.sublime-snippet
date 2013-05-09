@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::has(${1:\$key})]]></content>
+    <tabTrigger>Input-has</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

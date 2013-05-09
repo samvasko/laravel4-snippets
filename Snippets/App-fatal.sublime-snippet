@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::fatal(${1:\$callback})]]></content>
+    <tabTrigger>App-fatal</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

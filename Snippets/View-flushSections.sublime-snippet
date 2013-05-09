@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::flushSections()]]></content>
+    <tabTrigger>View-fs</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

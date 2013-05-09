@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::except(${1:\$keys})]]></content>
+    <tabTrigger>Input-except</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

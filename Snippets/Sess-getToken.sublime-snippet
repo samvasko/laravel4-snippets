@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::getToken()]]></content>
+    <tabTrigger>Sess-gt</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

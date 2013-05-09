@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::getCurrentPage()]]></content>
+    <tabTrigger>Pagin-gcp</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

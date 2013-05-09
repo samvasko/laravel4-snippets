@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::matchFilter(${1:\$pattern}, ${2:\$names})]]></content>
+    <tabTrigger>Route-mf</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::getGenerator()]]></content>
+    <tabTrigger>URL-gg</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

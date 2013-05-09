@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::getOldInput(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Sess-goi</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

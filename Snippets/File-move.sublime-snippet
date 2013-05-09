@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::move(${1:\$path}, ${2:\$target})]]></content>
+    <tabTrigger>File-move</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

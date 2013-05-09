@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::linkRoute(${1:\$name}, ${2:\$title}, ${3:\$parameters}, ${4:\$attributes})]]></content>
+    <tabTrigger>HTML-lr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

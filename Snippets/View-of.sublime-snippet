@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::of(${1:\$view}, ${2:\$data})]]></content>
+    <tabTrigger>View-of</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::getLoadedProviders()]]></content>
+    <tabTrigger>App-glp</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

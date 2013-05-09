@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::get(${1:\$pattern}, ${2:\$action})]]></content>
+    <tabTrigger>Route-get</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

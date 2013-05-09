@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::missing(${1:\$callback})]]></content>
+    <tabTrigger>App-missing</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

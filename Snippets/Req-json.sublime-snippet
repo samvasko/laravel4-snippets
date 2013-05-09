@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::json(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Req-json</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

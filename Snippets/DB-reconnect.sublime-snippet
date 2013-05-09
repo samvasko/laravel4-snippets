@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::reconnect(${1:\$name})]]></content>
+    <tabTrigger>DB-reconnect</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

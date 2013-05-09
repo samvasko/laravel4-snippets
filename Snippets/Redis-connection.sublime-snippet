@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::connection(${1:\$name})]]></content>
+    <tabTrigger>Redis-connection</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

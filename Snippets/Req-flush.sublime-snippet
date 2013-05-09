@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::flush()]]></content>
+    <tabTrigger>Req-flush</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

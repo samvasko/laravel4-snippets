@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::patch(${1:\$pattern}, ${2:\$action})]]></content>
+    <tabTrigger>Route-patch</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

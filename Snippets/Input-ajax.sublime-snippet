@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::ajax()]]></content>
+    <tabTrigger>Input-ajax</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

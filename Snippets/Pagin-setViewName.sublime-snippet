@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setViewName(${1:\$viewName})]]></content>
+    <tabTrigger>Pagin-svn</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

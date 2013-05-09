@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::server(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Req-server</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

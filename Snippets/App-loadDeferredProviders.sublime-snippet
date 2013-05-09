@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::loadDeferredProviders()]]></content>
+    <tabTrigger>App-ldp</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

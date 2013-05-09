@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::setDefaultConnection(${1:\$name})]]></content>
+    <tabTrigger>DB-sdc</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

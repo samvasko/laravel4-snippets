@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::isJson()]]></content>
+    <tabTrigger>Input-ij</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

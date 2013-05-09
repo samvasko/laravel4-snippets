@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::handleQueuedMessage(${1:\$job}, ${2:\$data})]]></content>
+    <tabTrigger>Mail-hqm</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

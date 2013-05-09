@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::query(${1:\$key}, ${2:\$default})]]></content>
+    <tabTrigger>Req-query</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::getFilter(${1:\$name})]]></content>
+    <tabTrigger>Route-gf</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

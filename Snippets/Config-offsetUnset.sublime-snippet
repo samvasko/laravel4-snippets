@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::offsetUnset(${1:\$key})]]></content>
+    <tabTrigger>Config-ou</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
