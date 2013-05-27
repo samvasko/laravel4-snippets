@@ -6,8 +6,8 @@ Emmet style Laravel snippets for __Sublime Text 2__. I used Laravel source to cr
 Installation
 ---------------
 
-For now just git clone this repo into your Packages folder.
+**Available at Package Manager! just search for Laravel 4**.
+
+Or you can just git clone this repo into your Packages folder.
 
     git clone https://github.com/bliker/laravel4-snippets.git
-
-I am working on package manager. Like right now.
