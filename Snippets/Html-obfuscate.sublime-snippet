@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Html::obfuscate(${1:\$value})]]></content>
+    <tabTrigger>Html-obfuscate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
