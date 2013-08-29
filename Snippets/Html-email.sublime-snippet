@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Html::email(${1:\$email})]]></content>
+    <tabTrigger>Html-email</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

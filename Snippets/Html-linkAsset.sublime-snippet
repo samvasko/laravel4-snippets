@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Html::linkAsset(${1:\$url}, ${2:\$title}, ${3:\$attributes}, ${4:\$secure})]]></content>
+    <tabTrigger>Html-la</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
