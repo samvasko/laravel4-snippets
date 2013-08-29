@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[HTML::attributes(${1:\$attributes})]]></content>
-    <tabTrigger>HTML-attributes</tabTrigger>
+    <content><![CDATA[Html::attributes(${1:\$attributes})]]></content>
+    <tabTrigger>Html-attributes</tabTrigger>
     <scope>source.php</scope>
 </snippet>
