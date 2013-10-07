@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::linkAction(${1:\$action}, ${2:\$title}, ${3:\$parameters}, ${4:\$attributes})]]></content>
+    <tabTrigger>HTML-la</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

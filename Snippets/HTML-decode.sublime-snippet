@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::decode(${1:\$value})]]></content>
+    <tabTrigger>HTML-decode</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

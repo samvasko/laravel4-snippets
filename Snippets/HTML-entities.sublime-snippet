@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::entities(${1:\$value})]]></content>
+    <tabTrigger>HTML-entities</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

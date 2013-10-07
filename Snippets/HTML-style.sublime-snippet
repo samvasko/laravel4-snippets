@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::style(${1:\$url}, ${2:\$attributes})]]></content>
+    <tabTrigger>HTML-style</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
