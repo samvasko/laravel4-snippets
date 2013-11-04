@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::basic($field, $request)]]></content>
+    <tabTrigger>Auth::basic($field, $request)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::add($key, $value, $minutes)]]></content>
+    <tabTrigger>Cache::add($key, $value, $minutes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::stopSection($overwrite)]]></content>
+    <tabTrigger>View::stopSection($overwrite)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

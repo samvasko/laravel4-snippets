@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::select($name, $list, $selected, $options)]]></content>
+    <tabTrigger>Form::select($name, $list, $selected, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

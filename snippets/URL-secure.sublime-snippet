@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::secure($path, $parameters)]]></content>
+    <tabTrigger>URL::secure($path, $parameters)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

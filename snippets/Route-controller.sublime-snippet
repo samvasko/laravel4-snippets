@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::controller($uri, $controller, $names)]]></content>
+    <tabTrigger>Route::controller($uri, $controller, $names)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

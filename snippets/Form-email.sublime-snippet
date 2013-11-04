@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::email($name, $value, $options)]]></content>
+    <tabTrigger>Form::email($name, $value, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

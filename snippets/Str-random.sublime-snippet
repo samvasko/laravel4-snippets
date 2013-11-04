@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::random($length)]]></content>
+    <tabTrigger>Str::random($length)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

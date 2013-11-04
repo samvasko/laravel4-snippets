@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::glob($pattern, $flags)]]></content>
+    <tabTrigger>File::glob($pattern, $flags)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

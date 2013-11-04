@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::attributes($attributes)]]></content>
+    <tabTrigger>HTML::attributes($attributes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

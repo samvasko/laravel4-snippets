@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::withTablePrefix($grammar)]]></content>
+    <tabTrigger>DB::withTablePrefix($grammar)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

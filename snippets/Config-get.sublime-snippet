@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::get($key, $default)]]></content>
+    <tabTrigger>Config::get($key, $default)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

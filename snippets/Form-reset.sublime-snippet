@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::reset($value, $attributes)]]></content>
+    <tabTrigger>Form::reset($value, $attributes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

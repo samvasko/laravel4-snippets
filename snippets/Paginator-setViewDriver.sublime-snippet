@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setViewDriver($view)]]></content>
+    <tabTrigger>Paginator::setViewDriver($view)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

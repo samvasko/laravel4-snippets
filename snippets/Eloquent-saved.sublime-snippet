@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::saved($callback)]]></content>
+    <tabTrigger>Eloquent::saved($callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::image($url, $name, $attributes)]]></content>
+    <tabTrigger>Form::image($url, $name, $attributes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

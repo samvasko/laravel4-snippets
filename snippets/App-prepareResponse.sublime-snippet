@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::prepareResponse($value)]]></content>
+    <tabTrigger>App::prepareResponse($value)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

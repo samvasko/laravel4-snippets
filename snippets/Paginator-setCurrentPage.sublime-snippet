@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setCurrentPage($number)]]></content>
+    <tabTrigger>Paginator::setCurrentPage($number)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

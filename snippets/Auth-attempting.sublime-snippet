@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::attempting($callback)]]></content>
+    <tabTrigger>Auth::attempting($callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

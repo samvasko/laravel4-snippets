@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[ClassLoader::load($class)]]></content>
+    <tabTrigger>ClassLoader::load($class)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

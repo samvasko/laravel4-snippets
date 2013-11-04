@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setBaseUrl($baseUrl)]]></content>
+    <tabTrigger>Paginator::setBaseUrl($baseUrl)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

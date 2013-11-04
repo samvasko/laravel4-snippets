@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::hasOldInput($key)]]></content>
+    <tabTrigger>Session::hasOldInput($key)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::validate($credentials)]]></content>
+    <tabTrigger>Auth::validate($credentials)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::cookie($key, $default)]]></content>
+    <tabTrigger>Input::cookie($key, $default)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

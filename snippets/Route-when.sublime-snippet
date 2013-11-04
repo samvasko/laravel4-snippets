@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::when($pattern, $names, $methods)]]></content>
+    <tabTrigger>Route::when($pattern, $names, $methods)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::singular($value)]]></content>
+    <tabTrigger>Str::singular($value)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

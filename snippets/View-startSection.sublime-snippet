@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::startSection($section, $content)]]></content>
+    <tabTrigger>View::startSection($section, $content)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

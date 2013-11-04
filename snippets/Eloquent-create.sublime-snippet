@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::create($attributes)]]></content>
+    <tabTrigger>Eloquent::create($attributes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

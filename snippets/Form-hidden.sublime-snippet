@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::hidden($name, $value, $options)]]></content>
+    <tabTrigger>Form::hidden($name, $value, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::macro($name, $macro)]]></content>
+    <tabTrigger>Str::macro($name, $macro)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

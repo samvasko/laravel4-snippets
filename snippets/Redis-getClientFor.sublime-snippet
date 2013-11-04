@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::getClientFor($connectionID)]]></content>
+    <tabTrigger>Redis::getClientFor($connectionID)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

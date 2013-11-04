@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::createClassListener($listener)]]></content>
+    <tabTrigger>Event::createClassListener($listener)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

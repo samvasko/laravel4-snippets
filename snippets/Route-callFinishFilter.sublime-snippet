@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::callFinishFilter($request, $response)]]></content>
+    <tabTrigger>Route::callFinishFilter($request, $response)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

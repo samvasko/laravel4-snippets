@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::all()]]></content>
+    <tabTrigger>Request::all()</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::creator($views, $callback)]]></content>
+    <tabTrigger>View::creator($views, $callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::secureAsset($path)]]></content>
+    <tabTrigger>URL::secureAsset($path)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

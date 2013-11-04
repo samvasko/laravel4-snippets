@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::finish($callback)]]></content>
+    <tabTrigger>Route::finish($callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

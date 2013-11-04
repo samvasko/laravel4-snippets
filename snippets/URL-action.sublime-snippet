@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::action($action, $parameters, $absolute)]]></content>
+    <tabTrigger>URL::action($action, $parameters, $absolute)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

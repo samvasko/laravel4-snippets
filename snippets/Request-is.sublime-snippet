@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::is($pattern)]]></content>
+    <tabTrigger>Request::is($pattern)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

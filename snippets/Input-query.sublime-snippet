@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::query($key, $default)]]></content>
+    <tabTrigger>Input::query($key, $default)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

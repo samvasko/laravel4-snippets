@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::firstOrCreate($attributes)]]></content>
+    <tabTrigger>Eloquent::firstOrCreate($attributes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

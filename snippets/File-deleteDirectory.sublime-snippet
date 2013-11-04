@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::deleteDirectory($directory, $preserve)]]></content>
+    <tabTrigger>File::deleteDirectory($directory, $preserve)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

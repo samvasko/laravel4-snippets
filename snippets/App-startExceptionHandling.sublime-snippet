@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::startExceptionHandling()]]></content>
+    <tabTrigger>App::startExceptionHandling()</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

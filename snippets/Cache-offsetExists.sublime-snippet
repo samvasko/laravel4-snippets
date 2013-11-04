@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::offsetExists($key)]]></content>
+    <tabTrigger>Cache::offsetExists($key)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Validator::make($data, $rules, $messages)]]></content>
+    <tabTrigger>Validator::make($data, $rules, $messages)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

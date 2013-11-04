@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::fire($event, $payload, $halt)]]></content>
+    <tabTrigger>Event::fire($event, $payload, $halt)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

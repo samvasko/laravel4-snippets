@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::radio($name, $value, $checked, $options)]]></content>
+    <tabTrigger>Form::radio($name, $value, $checked, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

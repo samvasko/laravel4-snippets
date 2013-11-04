@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::package($package, $hint, $namespace)]]></content>
+    <tabTrigger>Config::package($package, $hint, $namespace)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

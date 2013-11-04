@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::merge($input)]]></content>
+    <tabTrigger>Request::merge($input)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

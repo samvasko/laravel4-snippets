@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::make($name, $value, $minutes, $path, $domain, $secure, $httpOnly)]]></content>
+    <tabTrigger>Cookie::make($name, $value, $minutes, $path, $domain, $secure, $httpOnly)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
