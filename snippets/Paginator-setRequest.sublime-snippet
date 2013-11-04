@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::setRequest($request)]]></content>
+    <tabTrigger>Paginator::setRequest($request)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

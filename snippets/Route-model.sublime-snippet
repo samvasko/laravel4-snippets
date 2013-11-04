@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::model($key, $class, $callback)]]></content>
+    <tabTrigger>Route::model($key, $class, $callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::inject($section, $content)]]></content>
+    <tabTrigger>View::inject($section, $content)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

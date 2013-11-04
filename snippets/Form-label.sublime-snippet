@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::label($name, $value, $options)]]></content>
+    <tabTrigger>Form::label($name, $value, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

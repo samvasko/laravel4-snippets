@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::exists($path)]]></content>
+    <tabTrigger>File::exists($path)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

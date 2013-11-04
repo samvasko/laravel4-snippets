@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::setSelector($selector)]]></content>
+    <tabTrigger>Lang::setSelector($selector)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

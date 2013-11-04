@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::has($key)]]></content>
+    <tabTrigger>Cache::has($key)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

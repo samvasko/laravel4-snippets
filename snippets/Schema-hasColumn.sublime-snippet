@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Schema::hasColumn($table, $column)]]></content>
+    <tabTrigger>Schema::hasColumn($table, $column)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

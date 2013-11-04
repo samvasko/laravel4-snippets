@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::setDefaultPathAndDomain($path, $domain)]]></content>
+    <tabTrigger>Cookie::setDefaultPathAndDomain($path, $domain)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

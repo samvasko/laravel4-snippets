@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Crypt::setCipher($cipher)]]></content>
+    <tabTrigger>Crypt::setCipher($cipher)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

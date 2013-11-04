@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::before($callback)]]></content>
+    <tabTrigger>App::before($callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

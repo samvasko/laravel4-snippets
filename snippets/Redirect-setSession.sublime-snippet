@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redirect::setSession($session)]]></content>
+    <tabTrigger>Redirect::setSession($session)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::file($name, $options)]]></content>
+    <tabTrigger>Form::file($name, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

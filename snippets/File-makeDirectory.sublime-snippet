@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::makeDirectory($path, $mode, $recursive, $force)]]></content>
+    <tabTrigger>File::makeDirectory($path, $mode, $recursive, $force)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

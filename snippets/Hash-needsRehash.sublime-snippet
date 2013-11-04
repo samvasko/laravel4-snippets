@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Hash::needsRehash($hashedValue, $options)]]></content>
+    <tabTrigger>Hash::needsRehash($hashedValue, $options)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Schema::rename($from, $to)]]></content>
+    <tabTrigger>Schema::rename($from, $to)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

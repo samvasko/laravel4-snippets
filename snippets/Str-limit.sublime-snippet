@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::limit($value, $limit, $end)]]></content>
+    <tabTrigger>Str::limit($value, $limit, $end)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

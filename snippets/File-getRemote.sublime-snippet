@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::getRemote($path)]]></content>
+    <tabTrigger>File::getRemote($path)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

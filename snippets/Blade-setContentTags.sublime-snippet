@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Blade::setContentTags($openTag, $closeTag, $escaped)]]></content>
+    <tabTrigger>Blade::setContentTags($openTag, $closeTag, $escaped)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

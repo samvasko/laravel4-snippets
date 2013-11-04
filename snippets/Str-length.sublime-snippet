@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::length($value)]]></content>
+    <tabTrigger>Str::length($value)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

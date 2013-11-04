@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::files($directory)]]></content>
+    <tabTrigger>File::files($directory)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

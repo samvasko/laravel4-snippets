@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::isFile($file)]]></content>
+    <tabTrigger>File::isFile($file)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::lastModified($path)]]></content>
+    <tabTrigger>File::lastModified($path)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

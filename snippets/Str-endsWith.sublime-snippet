@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::endsWith($haystack, $needles)]]></content>
+    <tabTrigger>Str::endsWith($haystack, $needles)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::old($name)]]></content>
+    <tabTrigger>Form::old($name)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

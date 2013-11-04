@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::image($url, $alt, $attributes)]]></content>
+    <tabTrigger>HTML::image($url, $alt, $attributes)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

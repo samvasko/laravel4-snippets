@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::rememberForever($key, $callback)]]></content>
+    <tabTrigger>Cache::rememberForever($key, $callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

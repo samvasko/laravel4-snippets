@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::subscribe($subscriber)]]></content>
+    <tabTrigger>Event::subscribe($subscriber)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

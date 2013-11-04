@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::prepareBindings($bindings)]]></content>
+    <tabTrigger>DB::prepareBindings($bindings)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

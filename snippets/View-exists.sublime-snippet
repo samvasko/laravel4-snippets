@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::exists($view)]]></content>
+    <tabTrigger>View::exists($view)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

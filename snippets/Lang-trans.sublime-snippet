@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::trans($id, $parameters, $domain, $locale)]]></content>
+    <tabTrigger>Lang::trans($id, $parameters, $domain, $locale)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

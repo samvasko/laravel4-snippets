@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::handleQueuedMessage($job, $data)]]></content>
+    <tabTrigger>Mail::handleQueuedMessage($job, $data)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getConfig($option)]]></content>
+    <tabTrigger>DB::getConfig($option)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

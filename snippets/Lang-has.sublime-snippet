@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::has($key, $locale)]]></content>
+    <tabTrigger>Lang::has($key, $locale)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

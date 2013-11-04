@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::close($callback)]]></content>
+    <tabTrigger>App::close($callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

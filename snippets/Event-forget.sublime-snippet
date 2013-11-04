@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::forget($event)]]></content>
+    <tabTrigger>Event::forget($event)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Queue::pop($queue)]]></content>
+    <tabTrigger>Queue::pop($queue)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

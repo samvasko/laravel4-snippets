@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::renderEach($view, $data, $iterator, $empty)]]></content>
+    <tabTrigger>View::renderEach($view, $data, $iterator, $empty)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

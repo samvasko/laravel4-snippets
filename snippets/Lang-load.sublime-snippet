@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::load($namespace, $group, $locale)]]></content>
+    <tabTrigger>Lang::load($namespace, $group, $locale)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

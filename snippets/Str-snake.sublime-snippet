@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::snake($value, $delimiter)]]></content>
+    <tabTrigger>Str::snake($value, $delimiter)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

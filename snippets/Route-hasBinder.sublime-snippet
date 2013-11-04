@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::hasBinder($key)]]></content>
+    <tabTrigger>Route::hasBinder($key)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

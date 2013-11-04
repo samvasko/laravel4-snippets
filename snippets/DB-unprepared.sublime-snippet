@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::unprepared($query)]]></content>
+    <tabTrigger>DB::unprepared($query)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

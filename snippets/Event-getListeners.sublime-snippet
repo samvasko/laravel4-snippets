@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::getListeners($eventName)]]></content>
+    <tabTrigger>Event::getListeners($eventName)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

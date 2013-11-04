@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Queue::push($job, $data, $queue)]]></content>
+    <tabTrigger>Queue::push($job, $data, $queue)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

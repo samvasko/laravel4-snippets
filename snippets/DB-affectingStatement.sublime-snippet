@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::affectingStatement($query, $bindings)]]></content>
+    <tabTrigger>DB::affectingStatement($query, $bindings)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

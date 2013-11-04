@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::finish($value, $cap)]]></content>
+    <tabTrigger>Str::finish($value, $cap)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

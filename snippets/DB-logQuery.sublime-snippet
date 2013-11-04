@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::logQuery($query, $bindings, $time)]]></content>
+    <tabTrigger>DB::logQuery($query, $bindings, $time)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

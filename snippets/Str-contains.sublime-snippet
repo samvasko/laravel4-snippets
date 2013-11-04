@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::contains($haystack, $needle)]]></content>
+    <tabTrigger>Str::contains($haystack, $needle)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[HTML::link($url, $title, $attributes, $secure)]]></content>
+    <tabTrigger>HTML::link($url, $title, $attributes, $secure)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

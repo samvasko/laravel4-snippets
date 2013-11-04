@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::keep($keys)]]></content>
+    <tabTrigger>Session::keep($keys)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::addNamespace($namespace, $hint)]]></content>
+    <tabTrigger>Config::addNamespace($namespace, $hint)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::filter($name, $callback)]]></content>
+    <tabTrigger>Route::filter($name, $callback)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

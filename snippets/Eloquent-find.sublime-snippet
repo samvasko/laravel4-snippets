@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::find($id, $columns)]]></content>
+    <tabTrigger>Eloquent::find($id, $columns)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

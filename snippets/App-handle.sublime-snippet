@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::handle($request, $type, $catch)]]></content>
+    <tabTrigger>App::handle($request, $type, $catch)</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
