@@ -11,3 +11,9 @@ Installation
 Or you can just git clone this repo into your Packages folder.
 
     git clone https://github.com/bliker/laravel4-snippets.git
+
+Building
+-----------
+You can build the snippets yourself by checking out the develop branch and running
+
+    php Start.php
