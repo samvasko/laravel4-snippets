@@ -8,7 +8,7 @@ class Builder
 
     public function run()
     {
-        // $this->initComposer();
+        $this->initComposer();
         $this->initLaravel();
 
         $facades = $this->app['config']['app.aliases'];
