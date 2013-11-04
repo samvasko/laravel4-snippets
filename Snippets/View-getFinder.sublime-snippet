@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[View::getFinder()]]></content>
-    <tabTrigger>View-gf</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::getGlobalFilters()]]></content>
-    <tabTrigger>Route-ggf</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

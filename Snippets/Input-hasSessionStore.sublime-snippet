@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Input::hasSessionStore()]]></content>
-    <tabTrigger>Input-hss</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

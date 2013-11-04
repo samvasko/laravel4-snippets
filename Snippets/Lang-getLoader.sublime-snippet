@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Lang::getLoader()]]></content>
-    <tabTrigger>Lang-gl</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

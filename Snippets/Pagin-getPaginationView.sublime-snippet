@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Paginator::getPaginationView(${1:\$paginator})]]></content>
-    <tabTrigger>Pagin-gpv</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

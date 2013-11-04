@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::getInspector()]]></content>
-    <tabTrigger>Route-gi</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

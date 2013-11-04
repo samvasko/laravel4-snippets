@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::group(${1:\$attributes}, ${2:\$callback})]]></content>
-    <tabTrigger>Route-group</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

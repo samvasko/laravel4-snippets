@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[File::size(${1:\$path})]]></content>
-    <tabTrigger>File-size</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

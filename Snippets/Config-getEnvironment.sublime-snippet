@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Config::getEnvironment()]]></content>
-    <tabTrigger>Config-ge</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

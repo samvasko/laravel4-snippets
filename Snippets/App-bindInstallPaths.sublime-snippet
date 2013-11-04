@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::bindInstallPaths(${1:\$paths})]]></content>
-    <tabTrigger>App-bip</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
