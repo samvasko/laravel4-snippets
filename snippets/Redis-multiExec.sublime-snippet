@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::multiExec()]]></content>
-    <tabTrigger>Redis::multiExec()</tabTrigger>
+    <tabTrigger>Redis-multiExec</tabTrigger>
     <scope>source.php</scope>
 </snippet>

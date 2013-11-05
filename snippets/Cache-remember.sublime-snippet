@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Cache::remember($key, $minutes, $callback)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Cache::remember($key, $minutes, $callback)</tabTrigger>
 =======
     <content><![CDATA[Cache::remember(${1:key}, ${2:minutes}, ${3:callback})]]></content>
     <tabTrigger>Cache-remember</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Cache-remember</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

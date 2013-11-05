@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[HTML::macro($name, $macro)]]></content>
+<<<<<<< HEAD
     <tabTrigger>HTML::macro($name, $macro)</tabTrigger>
 =======
     <content><![CDATA[HTML::macro(${1:name}, ${2:macro})]]></content>
     <tabTrigger>HTML-macro</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>HTML-macro</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

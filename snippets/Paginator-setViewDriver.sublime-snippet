@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Paginator::setViewDriver($view)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Paginator::setViewDriver($view)</tabTrigger>
 =======
     <content><![CDATA[Paginator::setViewDriver(${1:view})]]></content>
     <tabTrigger>Paginator-setViewDriver</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Paginator-setViewDriver</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

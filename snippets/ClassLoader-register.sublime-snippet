@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[ClassLoader::register()]]></content>
-    <tabTrigger>ClassLoader::register()</tabTrigger>
+    <tabTrigger>ClassLoader-register</tabTrigger>
     <scope>source.php</scope>
 </snippet>

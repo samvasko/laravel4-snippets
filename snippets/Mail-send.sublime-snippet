@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Mail::send($view, $data, $callback)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Mail::send($view, $data, $callback)</tabTrigger>
 =======
     <content><![CDATA[Mail::send(${1:view}, ${2:data}, ${3:callback})]]></content>
     <tabTrigger>Mail-send</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Mail-send</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

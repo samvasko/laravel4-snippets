@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::useDefaultSchemaGrammar()]]></content>
-    <tabTrigger>DB::useDefaultSchemaGrammar()</tabTrigger>
+    <tabTrigger>DB-useDefaultSchemaGrammar</tabTrigger>
     <scope>source.php</scope>
 </snippet>

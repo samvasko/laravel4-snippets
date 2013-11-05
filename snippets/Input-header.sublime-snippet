@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Input::header($key, $default)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Input::header($key, $default)</tabTrigger>
 =======
     <content><![CDATA[Input::header(${1:key}, ${2:default})]]></content>
     <tabTrigger>Input-header</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Input-header</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

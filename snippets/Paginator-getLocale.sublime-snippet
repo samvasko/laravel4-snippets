@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Paginator::getLocale()]]></content>
-    <tabTrigger>Paginator::getLocale()</tabTrigger>
+    <tabTrigger>Paginator-getLocale</tabTrigger>
     <scope>source.php</scope>
 </snippet>

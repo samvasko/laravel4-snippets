@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Cookie::unqueue($name)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Cookie::unqueue($name)</tabTrigger>
 =======
     <content><![CDATA[Cookie::unqueue(${1:name})]]></content>
     <tabTrigger>Cookie-unqueue</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Cookie-unqueue</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

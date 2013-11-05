@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::path()]]></content>
-    <tabTrigger>Request::path()</tabTrigger>
+    <tabTrigger>Request-path</tabTrigger>
     <scope>source.php</scope>
 </snippet>

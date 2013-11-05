@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Request::old($key, $default)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Request::old($key, $default)</tabTrigger>
 =======
     <content><![CDATA[Request::old(${1:key}, ${2:default})]]></content>
     <tabTrigger>Request-old</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Request-old</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

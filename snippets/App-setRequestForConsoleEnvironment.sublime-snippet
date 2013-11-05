@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::setRequestForConsoleEnvironment()]]></content>
-    <tabTrigger>App::setRequestForConsoleEnvironment()</tabTrigger>
+    <tabTrigger>App-setRequestForConsoleEnvironment</tabTrigger>
     <scope>source.php</scope>
 </snippet>

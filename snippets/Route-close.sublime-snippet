@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Route::close($callback)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Route::close($callback)</tabTrigger>
 =======
     <content><![CDATA[Route::close(${1:callback})]]></content>
     <tabTrigger>Route-close</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Route-close</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

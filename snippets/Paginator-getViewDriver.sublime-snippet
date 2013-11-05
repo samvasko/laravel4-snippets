@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Paginator::getViewDriver()]]></content>
-    <tabTrigger>Paginator::getViewDriver()</tabTrigger>
+    <tabTrigger>Paginator-getViewDriver</tabTrigger>
     <scope>source.php</scope>
 </snippet>

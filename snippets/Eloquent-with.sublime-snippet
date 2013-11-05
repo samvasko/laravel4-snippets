@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Eloquent::with($relations)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Eloquent::with($relations)</tabTrigger>
 =======
     <content><![CDATA[Eloquent::with(${1:relations})]]></content>
     <tabTrigger>Eloquent-with</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Eloquent-with</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

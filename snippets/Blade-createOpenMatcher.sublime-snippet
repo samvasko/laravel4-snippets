@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Blade::createOpenMatcher($function)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Blade::createOpenMatcher($function)</tabTrigger>
 =======
     <content><![CDATA[Blade::createOpenMatcher(${1:function})]]></content>
     <tabTrigger>Blade-createOpenMatcher</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Blade-createOpenMatcher</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::runningUnitTests()]]></content>
-    <tabTrigger>App::runningUnitTests()</tabTrigger>
+    <tabTrigger>App-runningUnitTests</tabTrigger>
     <scope>source.php</scope>
 </snippet>

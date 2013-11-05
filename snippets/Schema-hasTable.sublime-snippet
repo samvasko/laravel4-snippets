@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Schema::hasTable($table)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Schema::hasTable($table)</tabTrigger>
 =======
     <content><![CDATA[Schema::hasTable(${1:table})]]></content>
     <tabTrigger>Schema-hasTable</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Schema-hasTable</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

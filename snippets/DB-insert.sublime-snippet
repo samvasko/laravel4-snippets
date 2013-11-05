@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[DB::insert($query, $bindings)]]></content>
+<<<<<<< HEAD
     <tabTrigger>DB::insert($query, $bindings)</tabTrigger>
 =======
     <content><![CDATA[DB::insert(${1:query}, ${2:bindings})]]></content>
     <tabTrigger>DB-insert</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>DB-insert</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

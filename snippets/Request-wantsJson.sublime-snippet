@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::wantsJson()]]></content>
-    <tabTrigger>Request::wantsJson()</tabTrigger>
+    <tabTrigger>Request-wantsJson</tabTrigger>
     <scope>source.php</scope>
 </snippet>

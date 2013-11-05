@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[App::before($callback)]]></content>
+<<<<<<< HEAD
     <tabTrigger>App::before($callback)</tabTrigger>
 =======
     <content><![CDATA[App::before(${1:callback})]]></content>
     <tabTrigger>App-before</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>App-before</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

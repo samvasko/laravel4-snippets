@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Config::addNamespace($namespace, $hint)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Config::addNamespace($namespace, $hint)</tabTrigger>
 =======
     <content><![CDATA[Config::addNamespace(${1:namespace}, ${2:hint})]]></content>
     <tabTrigger>Config-addNamespace</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Config-addNamespace</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>

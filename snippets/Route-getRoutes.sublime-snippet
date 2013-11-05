@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::getRoutes()]]></content>
-    <tabTrigger>Route::getRoutes()</tabTrigger>
+    <tabTrigger>Route-getRoutes</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::boot()]]></content>
-    <tabTrigger>App::boot()</tabTrigger>
+    <tabTrigger>App-boot</tabTrigger>
     <scope>source.php</scope>
 </snippet>

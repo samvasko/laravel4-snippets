@@ -1,10 +1,14 @@
 <snippet>
 <<<<<<< HEAD
     <content><![CDATA[Schema::hasColumn($table, $column)]]></content>
+<<<<<<< HEAD
     <tabTrigger>Schema::hasColumn($table, $column)</tabTrigger>
 =======
     <content><![CDATA[Schema::hasColumn(${1:table}, ${2:column})]]></content>
     <tabTrigger>Schema-hasColumn</tabTrigger>
 >>>>>>> 87168f0... Fix for params
+=======
+    <tabTrigger>Schema-hasColumn</tabTrigger>
+>>>>>>> a119b0b... triggers without params
     <scope>source.php</scope>
 </snippet>
