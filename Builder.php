@@ -8,7 +8,9 @@ class Builder
 
     public function run()
     {
-        $this->initComposer();
+        // Helps when testing
+        if (!is_dir('laravel')) $this->initComposer();
+
         $this->initLaravel();
 
         $facades = $this->app['config']['app.aliases'];
@@ -19,8 +21,8 @@ class Builder
             $this->digestAlias($alias);
         }
 
-        // Save
-        \File::makeDirectory('snippets');
+        if (!is_dir('snippets')) \File::makeDirectory('snippets');
+
         foreach ($this->snippets as $i => $s)
         {
             \File::put('snippets/'.$s->filename(), $s->make());
@@ -44,6 +46,8 @@ class Builder
         $this->app = require_once 'laravel/bootstrap/start.php';
         $this->app->boot();
 
+        // Some classes require Database access, this just sets it to
+        // sqlite so no table needs to be present at some mysql somewhere
         \Config::set('database.default', 'sqlite');
     }
 
