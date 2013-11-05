@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::intended($default, $status, $headers, $secure)]]></content>
-    <tabTrigger>Redirect::intended($default, $status, $headers, $secure)</tabTrigger>
+    <tabTrigger>Redirect-intended</tabTrigger>
     <scope>source.php</scope>
 </snippet>

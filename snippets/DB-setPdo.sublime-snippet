@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::setPdo($pdo)]]></content>
-    <tabTrigger>DB::setPdo($pdo)</tabTrigger>
+    <tabTrigger>DB-setPdo</tabTrigger>
     <scope>source.php</scope>
 </snippet>

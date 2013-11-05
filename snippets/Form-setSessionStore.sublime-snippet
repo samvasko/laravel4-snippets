@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::setSessionStore($session)]]></content>
-    <tabTrigger>Form::setSessionStore($session)</tabTrigger>
+    <tabTrigger>Form-setSessionStore</tabTrigger>
     <scope>source.php</scope>
 </snippet>

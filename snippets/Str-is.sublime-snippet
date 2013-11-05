@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::is($pattern, $value)]]></content>
-    <tabTrigger>Str::is($pattern, $value)</tabTrigger>
+    <tabTrigger>Str-is</tabTrigger>
     <scope>source.php</scope>
 </snippet>

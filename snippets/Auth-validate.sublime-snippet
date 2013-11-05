@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::validate($credentials)]]></content>
-    <tabTrigger>Auth::validate($credentials)</tabTrigger>
+    <tabTrigger>Auth-validate</tabTrigger>
     <scope>source.php</scope>
 </snippet>

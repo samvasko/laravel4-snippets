@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Event::forget($event)]]></content>
-    <tabTrigger>Event::forget($event)</tabTrigger>
+    <tabTrigger>Event-forget</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::textarea($name, $value, $options)]]></content>
-    <tabTrigger>Form::textarea($name, $value, $options)</tabTrigger>
+    <tabTrigger>Form-textarea</tabTrigger>
     <scope>source.php</scope>
 </snippet>

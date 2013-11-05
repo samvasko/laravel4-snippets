@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Mail::later($delay, $view, $data, $callback, $queue)]]></content>
-    <tabTrigger>Mail::later($delay, $view, $data, $callback, $queue)</tabTrigger>
+    <tabTrigger>Mail-later</tabTrigger>
     <scope>source.php</scope>
 </snippet>

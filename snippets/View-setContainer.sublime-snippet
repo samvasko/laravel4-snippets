@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::setContainer($container)]]></content>
-    <tabTrigger>View::setContainer($container)</tabTrigger>
+    <tabTrigger>View-setContainer</tabTrigger>
     <scope>source.php</scope>
 </snippet>

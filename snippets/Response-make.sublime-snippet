@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Response::make($content, $status, $headers)]]></content>
-    <tabTrigger>Response::make($content, $status, $headers)</tabTrigger>
+    <tabTrigger>Response-make</tabTrigger>
     <scope>source.php</scope>
 </snippet>

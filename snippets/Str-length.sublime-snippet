@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::length($value)]]></content>
-    <tabTrigger>Str::length($value)</tabTrigger>
+    <tabTrigger>Str-length</tabTrigger>
     <scope>source.php</scope>
 </snippet>

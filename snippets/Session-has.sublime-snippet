@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::has($name)]]></content>
-    <tabTrigger>Session::has($name)</tabTrigger>
+    <tabTrigger>Session-has</tabTrigger>
     <scope>source.php</scope>
 </snippet>

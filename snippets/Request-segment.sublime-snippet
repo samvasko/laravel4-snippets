@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::segment($index, $default)]]></content>
-    <tabTrigger>Request::segment($index, $default)</tabTrigger>
+    <tabTrigger>Request-segment</tabTrigger>
     <scope>source.php</scope>
 </snippet>

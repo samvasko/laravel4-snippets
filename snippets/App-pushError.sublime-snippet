@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::pushError($callback)]]></content>
-    <tabTrigger>App::pushError($callback)</tabTrigger>
+    <tabTrigger>App-pushError</tabTrigger>
     <scope>source.php</scope>
 </snippet>

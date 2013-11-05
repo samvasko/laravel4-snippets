@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::match($method, $pattern, $action)]]></content>
-    <tabTrigger>Route::match($method, $pattern, $action)</tabTrigger>
+    <tabTrigger>Route-match</tabTrigger>
     <scope>source.php</scope>
 </snippet>

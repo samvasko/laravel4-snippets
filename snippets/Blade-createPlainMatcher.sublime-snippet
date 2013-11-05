@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Blade::createPlainMatcher($function)]]></content>
-    <tabTrigger>Blade::createPlainMatcher($function)</tabTrigger>
+    <tabTrigger>Blade-createPlainMatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::group($attributes, $callback)]]></content>
-    <tabTrigger>Route::group($attributes, $callback)</tabTrigger>
+    <tabTrigger>Route-group</tabTrigger>
     <scope>source.php</scope>
 </snippet>

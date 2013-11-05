@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cache::sear($key, $callback)]]></content>
-    <tabTrigger>Cache::sear($key, $callback)</tabTrigger>
+    <tabTrigger>Cache-sear</tabTrigger>
     <scope>source.php</scope>
 </snippet>

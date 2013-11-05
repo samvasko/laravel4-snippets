@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::header($key, $default)]]></content>
-    <tabTrigger>Request::header($key, $default)</tabTrigger>
+    <tabTrigger>Request-header</tabTrigger>
     <scope>source.php</scope>
 </snippet>

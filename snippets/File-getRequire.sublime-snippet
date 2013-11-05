@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::getRequire($path)]]></content>
-    <tabTrigger>File::getRequire($path)</tabTrigger>
+    <tabTrigger>File-getRequire</tabTrigger>
     <scope>source.php</scope>
 </snippet>

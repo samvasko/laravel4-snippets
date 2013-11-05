@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::shared($key, $default)]]></content>
-    <tabTrigger>View::shared($key, $default)</tabTrigger>
+    <tabTrigger>View-shared</tabTrigger>
     <scope>source.php</scope>
 </snippet>

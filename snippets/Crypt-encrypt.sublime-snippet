@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Crypt::encrypt($value)]]></content>
-    <tabTrigger>Crypt::encrypt($value)</tabTrigger>
+    <tabTrigger>Crypt-encrypt</tabTrigger>
     <scope>source.php</scope>
 </snippet>

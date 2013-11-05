@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Mail::pretend($value)]]></content>
-    <tabTrigger>Mail::pretend($value)</tabTrigger>
+    <tabTrigger>Mail-pretend</tabTrigger>
     <scope>source.php</scope>
 </snippet>

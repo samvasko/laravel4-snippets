@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::home($status)]]></content>
-    <tabTrigger>Redirect::home($status)</tabTrigger>
+    <tabTrigger>Redirect-home</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::type($path)]]></content>
-    <tabTrigger>File::type($path)</tabTrigger>
+    <tabTrigger>File-type</tabTrigger>
     <scope>source.php</scope>
 </snippet>

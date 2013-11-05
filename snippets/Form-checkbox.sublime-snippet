@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::checkbox($name, $value, $checked, $options)]]></content>
-    <tabTrigger>Form::checkbox($name, $value, $checked, $options)</tabTrigger>
+    <tabTrigger>Form-checkbox</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::flashInput($value)]]></content>
-    <tabTrigger>Session::flashInput($value)</tabTrigger>
+    <tabTrigger>Session-flashInput</tabTrigger>
     <scope>source.php</scope>
 </snippet>

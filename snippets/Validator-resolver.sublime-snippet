@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Validator::resolver($resolver)]]></content>
-    <tabTrigger>Validator::resolver($resolver)</tabTrigger>
+    <tabTrigger>Validator-resolver</tabTrigger>
     <scope>source.php</scope>
 </snippet>

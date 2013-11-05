@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::register($provider, $options)]]></content>
-    <tabTrigger>App::register($provider, $options)</tabTrigger>
+    <tabTrigger>App-register</tabTrigger>
     <scope>source.php</scope>
 </snippet>

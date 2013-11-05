@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::open($options)]]></content>
-    <tabTrigger>Form::open($options)</tabTrigger>
+    <tabTrigger>Form-open</tabTrigger>
     <scope>source.php</scope>
 </snippet>

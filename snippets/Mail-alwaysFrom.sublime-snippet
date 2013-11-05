@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Mail::alwaysFrom($address, $name)]]></content>
-    <tabTrigger>Mail::alwaysFrom($address, $name)</tabTrigger>
+    <tabTrigger>Mail-alwaysFrom</tabTrigger>
     <scope>source.php</scope>
 </snippet>

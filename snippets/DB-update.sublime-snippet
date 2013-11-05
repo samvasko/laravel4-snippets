@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::update($query, $bindings)]]></content>
-    <tabTrigger>DB::update($query, $bindings)</tabTrigger>
+    <tabTrigger>DB-update</tabTrigger>
     <scope>source.php</scope>
 </snippet>

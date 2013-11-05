@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::json($key, $default)]]></content>
-    <tabTrigger>Input::json($key, $default)</tabTrigger>
+    <tabTrigger>Input-json</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::slug($title, $separator)]]></content>
-    <tabTrigger>Str::slug($title, $separator)</tabTrigger>
+    <tabTrigger>Str-slug</tabTrigger>
     <scope>source.php</scope>
 </snippet>

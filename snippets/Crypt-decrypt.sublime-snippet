@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Crypt::decrypt($payload)]]></content>
-    <tabTrigger>Crypt::decrypt($payload)</tabTrigger>
+    <tabTrigger>Crypt-decrypt</tabTrigger>
     <scope>source.php</scope>
 </snippet>

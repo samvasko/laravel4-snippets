@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::make($view, $data, $mergeData)]]></content>
-    <tabTrigger>View::make($view, $data, $mergeData)</tabTrigger>
+    <tabTrigger>View-make</tabTrigger>
     <scope>source.php</scope>
 </snippet>

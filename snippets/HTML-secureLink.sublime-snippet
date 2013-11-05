@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::secureLink($url, $title, $attributes)]]></content>
-    <tabTrigger>HTML::secureLink($url, $title, $attributes)</tabTrigger>
+    <tabTrigger>HTML-secureLink</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::secure($path, $status, $headers)]]></content>
-    <tabTrigger>Redirect::secure($path, $status, $headers)</tabTrigger>
+    <tabTrigger>Redirect-secure</tabTrigger>
     <scope>source.php</scope>
 </snippet>

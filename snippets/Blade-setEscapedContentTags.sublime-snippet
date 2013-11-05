@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Blade::setEscapedContentTags($openTag, $closeTag)]]></content>
-    <tabTrigger>Blade::setEscapedContentTags($openTag, $closeTag)</tabTrigger>
+    <tabTrigger>Blade-setEscapedContentTags</tabTrigger>
     <scope>source.php</scope>
 </snippet>

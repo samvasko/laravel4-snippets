@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[URL::to($path, $parameters, $secure)]]></content>
-    <tabTrigger>URL::to($path, $parameters, $secure)</tabTrigger>
+    <tabTrigger>URL-to</tabTrigger>
     <scope>source.php</scope>
 </snippet>

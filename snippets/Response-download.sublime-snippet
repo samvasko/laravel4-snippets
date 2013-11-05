@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Response::download($file, $name, $headers)]]></content>
-    <tabTrigger>Response::download($file, $name, $headers)</tabTrigger>
+    <tabTrigger>Response-download</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::setDispatcher($events)]]></content>
-    <tabTrigger>Auth::setDispatcher($events)</tabTrigger>
+    <tabTrigger>Auth-setDispatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

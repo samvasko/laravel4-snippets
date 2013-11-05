@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::prepareRequest($request)]]></content>
-    <tabTrigger>App::prepareRequest($request)</tabTrigger>
+    <tabTrigger>App-prepareRequest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::mailto($email, $title, $attributes)]]></content>
-    <tabTrigger>HTML::mailto($email, $title, $attributes)</tabTrigger>
+    <tabTrigger>HTML-mailto</tabTrigger>
     <scope>source.php</scope>
 </snippet>

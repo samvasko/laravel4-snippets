@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Config::offsetGet($key)]]></content>
-    <tabTrigger>Config::offsetGet($key)</tabTrigger>
+    <tabTrigger>Config-offsetGet</tabTrigger>
     <scope>source.php</scope>
 </snippet>

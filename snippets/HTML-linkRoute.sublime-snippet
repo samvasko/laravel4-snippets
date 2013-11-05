@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::linkRoute($name, $title, $parameters, $attributes)]]></content>
-    <tabTrigger>HTML::linkRoute($name, $title, $parameters, $attributes)</tabTrigger>
+    <tabTrigger>HTML-linkRoute</tabTrigger>
     <scope>source.php</scope>
 </snippet>

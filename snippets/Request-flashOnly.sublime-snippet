@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::flashOnly($keys)]]></content>
-    <tabTrigger>Request::flashOnly($keys)</tabTrigger>
+    <tabTrigger>Request-flashOnly</tabTrigger>
     <scope>source.php</scope>
 </snippet>

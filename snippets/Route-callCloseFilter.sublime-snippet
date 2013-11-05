@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::callCloseFilter($request, $response)]]></content>
-    <tabTrigger>Route::callCloseFilter($request, $response)</tabTrigger>
+    <tabTrigger>Route-callCloseFilter</tabTrigger>
     <scope>source.php</scope>
 </snippet>

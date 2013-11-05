@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::isDirectory($directory)]]></content>
-    <tabTrigger>File::isDirectory($directory)</tabTrigger>
+    <tabTrigger>File-isDirectory</tabTrigger>
     <scope>source.php</scope>
 </snippet>

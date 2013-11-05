@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::getUrlGenerator()]]></content>
-    <tabTrigger>Redirect::getUrlGenerator()</tabTrigger>
+    <tabTrigger>Redirect-getUrlGenerator</tabTrigger>
     <scope>source.php</scope>
 </snippet>

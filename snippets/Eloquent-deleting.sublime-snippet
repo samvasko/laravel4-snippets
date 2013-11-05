@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::deleting($callback)]]></content>
-    <tabTrigger>Eloquent::deleting($callback)</tabTrigger>
+    <tabTrigger>Eloquent-deleting</tabTrigger>
     <scope>source.php</scope>
 </snippet>

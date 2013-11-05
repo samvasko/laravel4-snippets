@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::studly($value)]]></content>
-    <tabTrigger>Str::studly($value)</tabTrigger>
+    <tabTrigger>Str-studly</tabTrigger>
     <scope>source.php</scope>
 </snippet>

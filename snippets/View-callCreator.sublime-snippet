@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::callCreator($view)]]></content>
-    <tabTrigger>View::callCreator($view)</tabTrigger>
+    <tabTrigger>View-callCreator</tabTrigger>
     <scope>source.php</scope>
 </snippet>

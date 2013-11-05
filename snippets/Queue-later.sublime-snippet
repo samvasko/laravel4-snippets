@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Queue::later($delay, $job, $data, $queue)]]></content>
-    <tabTrigger>Queue::later($delay, $job, $data, $queue)</tabTrigger>
+    <tabTrigger>Queue-later</tabTrigger>
     <scope>source.php</scope>
 </snippet>

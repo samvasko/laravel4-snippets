@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Crypt::setMode($mode)]]></content>
-    <tabTrigger>Crypt::setMode($mode)</tabTrigger>
+    <tabTrigger>Crypt-setMode</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::withTablePrefix($grammar)]]></content>
-    <tabTrigger>DB::withTablePrefix($grammar)</tabTrigger>
+    <tabTrigger>DB-withTablePrefix</tabTrigger>
     <scope>source.php</scope>
 </snippet>

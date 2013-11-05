@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::linkAction($action, $title, $parameters, $attributes)]]></content>
-    <tabTrigger>HTML::linkAction($action, $title, $parameters, $attributes)</tabTrigger>
+    <tabTrigger>HTML-linkAction</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[URL::route($name, $parameters, $absolute)]]></content>
-    <tabTrigger>URL::route($name, $parameters, $absolute)</tabTrigger>
+    <tabTrigger>URL-route</tabTrigger>
     <scope>source.php</scope>
 </snippet>

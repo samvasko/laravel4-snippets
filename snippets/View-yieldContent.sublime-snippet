@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::yieldContent($section, $default)]]></content>
-    <tabTrigger>View::yieldContent($section, $default)</tabTrigger>
+    <tabTrigger>View-yieldContent</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::cleanDirectory($directory)]]></content>
-    <tabTrigger>File::cleanDirectory($directory)</tabTrigger>
+    <tabTrigger>File-cleanDirectory</tabTrigger>
     <scope>source.php</scope>
 </snippet>

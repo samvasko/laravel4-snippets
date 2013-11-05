@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::getResourceUri($resource)]]></content>
-    <tabTrigger>Route::getResourceUri($resource)</tabTrigger>
+    <tabTrigger>Route-getResourceUri</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::flashOnly($keys)]]></content>
-    <tabTrigger>Input::flashOnly($keys)</tabTrigger>
+    <tabTrigger>Input-flashOnly</tabTrigger>
     <scope>source.php</scope>
 </snippet>

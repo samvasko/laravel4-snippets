@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cache::remember($key, $minutes, $callback)]]></content>
-    <tabTrigger>Cache::remember($key, $minutes, $callback)</tabTrigger>
+    <tabTrigger>Cache-remember</tabTrigger>
     <scope>source.php</scope>
 </snippet>

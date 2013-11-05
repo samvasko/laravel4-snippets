@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::setTablePrefix($prefix)]]></content>
-    <tabTrigger>DB::setTablePrefix($prefix)</tabTrigger>
+    <tabTrigger>DB-setTablePrefix</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::replace($input)]]></content>
-    <tabTrigger>Request::replace($input)</tabTrigger>
+    <tabTrigger>Request-replace</tabTrigger>
     <scope>source.php</scope>
 </snippet>

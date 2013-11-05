@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::is($pattern)]]></content>
-    <tabTrigger>Request::is($pattern)</tabTrigger>
+    <tabTrigger>Request-is</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::extension($path)]]></content>
-    <tabTrigger>File::extension($path)</tabTrigger>
+    <tabTrigger>File-extension</tabTrigger>
     <scope>source.php</scope>
 </snippet>

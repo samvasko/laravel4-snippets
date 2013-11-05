@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Schema::drop($table)]]></content>
-    <tabTrigger>Schema::drop($table)</tabTrigger>
+    <tabTrigger>Schema-drop</tabTrigger>
     <scope>source.php</scope>
 </snippet>

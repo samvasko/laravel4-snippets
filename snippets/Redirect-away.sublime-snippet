@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::away($path, $status, $headers)]]></content>
-    <tabTrigger>Redirect::away($path, $status, $headers)</tabTrigger>
+    <tabTrigger>Redirect-away</tabTrigger>
     <scope>source.php</scope>
 </snippet>

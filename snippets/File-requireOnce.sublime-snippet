@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::requireOnce($file)]]></content>
-    <tabTrigger>File::requireOnce($file)</tabTrigger>
+    <tabTrigger>File-requireOnce</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -39,7 +39,7 @@ class Snippet
     {
         return "<snippet>\n".
             "    <content><![CDATA[".$this."]]></content>\n".
-            "    <tabTrigger>".$this."</tabTrigger>\n".
+            "    <tabTrigger>".$this->class.'-'.$this->method."</tabTrigger>\n".
             "    <scope>source.php</scope>\n".
             "</snippet>\n";
     }

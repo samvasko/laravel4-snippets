@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::getDoctrineColumn($table, $column)]]></content>
-    <tabTrigger>DB::getDoctrineColumn($table, $column)</tabTrigger>
+    <tabTrigger>DB-getDoctrineColumn</tabTrigger>
     <scope>source.php</scope>
 </snippet>

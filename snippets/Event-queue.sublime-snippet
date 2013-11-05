@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Event::queue($event, $payload)]]></content>
-    <tabTrigger>Event::queue($event, $payload)</tabTrigger>
+    <tabTrigger>Event-queue</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Log::useDailyFiles($path, $days, $level)]]></content>
-    <tabTrigger>Log::useDailyFiles($path, $days, $level)</tabTrigger>
+    <tabTrigger>Log-useDailyFiles</tabTrigger>
     <scope>source.php</scope>
 </snippet>

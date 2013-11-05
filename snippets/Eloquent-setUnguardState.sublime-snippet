@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::setUnguardState($state)]]></content>
-    <tabTrigger>Eloquent::setUnguardState($state)</tabTrigger>
+    <tabTrigger>Eloquent-setUnguardState</tabTrigger>
     <scope>source.php</scope>
 </snippet>

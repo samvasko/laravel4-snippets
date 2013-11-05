@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::action($action, $parameters, $status, $headers)]]></content>
-    <tabTrigger>Redirect::action($action, $parameters, $status, $headers)</tabTrigger>
+    <tabTrigger>Redirect-action</tabTrigger>
     <scope>source.php</scope>
 </snippet>

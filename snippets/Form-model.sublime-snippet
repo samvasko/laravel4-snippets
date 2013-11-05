@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::model($model, $options)]]></content>
-    <tabTrigger>Form::model($model, $options)</tabTrigger>
+    <tabTrigger>Form-model</tabTrigger>
     <scope>source.php</scope>
 </snippet>

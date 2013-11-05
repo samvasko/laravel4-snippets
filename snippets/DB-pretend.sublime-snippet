@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::pretend($callback)]]></content>
-    <tabTrigger>DB::pretend($callback)</tabTrigger>
+    <tabTrigger>DB-pretend</tabTrigger>
     <scope>source.php</scope>
 </snippet>

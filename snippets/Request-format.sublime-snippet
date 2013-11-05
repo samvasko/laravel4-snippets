@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::format($default)]]></content>
-    <tabTrigger>Request::format($default)</tabTrigger>
+    <tabTrigger>Request-format</tabTrigger>
     <scope>source.php</scope>
 </snippet>

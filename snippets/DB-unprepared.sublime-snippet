@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::unprepared($query)]]></content>
-    <tabTrigger>DB::unprepared($query)</tabTrigger>
+    <tabTrigger>DB-unprepared</tabTrigger>
     <scope>source.php</scope>
 </snippet>

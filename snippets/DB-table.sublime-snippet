@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::table($table)]]></content>
-    <tabTrigger>DB::table($table)</tabTrigger>
+    <tabTrigger>DB-table</tabTrigger>
     <scope>source.php</scope>
 </snippet>

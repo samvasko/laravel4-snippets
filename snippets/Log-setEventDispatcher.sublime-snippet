@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Log::setEventDispatcher($dispatcher)]]></content>
-    <tabTrigger>Log::setEventDispatcher($dispatcher)</tabTrigger>
+    <tabTrigger>Log-setEventDispatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

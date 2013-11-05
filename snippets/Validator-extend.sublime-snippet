@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Validator::extend($rule, $extension, $message)]]></content>
-    <tabTrigger>Validator::extend($rule, $extension, $message)</tabTrigger>
+    <tabTrigger>Validator-extend</tabTrigger>
     <scope>source.php</scope>
 </snippet>

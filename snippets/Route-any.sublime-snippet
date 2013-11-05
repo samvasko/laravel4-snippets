@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::any($pattern, $action)]]></content>
-    <tabTrigger>Route::any($pattern, $action)</tabTrigger>
+    <tabTrigger>Route-any</tabTrigger>
     <scope>source.php</scope>
 </snippet>

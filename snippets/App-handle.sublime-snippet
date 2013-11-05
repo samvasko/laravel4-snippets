@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::handle($request, $type, $catch)]]></content>
-    <tabTrigger>App::handle($request, $type, $catch)</tabTrigger>
+    <tabTrigger>App-handle</tabTrigger>
     <scope>source.php</scope>
 </snippet>

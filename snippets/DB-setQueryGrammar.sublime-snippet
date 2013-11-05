@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::setQueryGrammar($grammar)]]></content>
-    <tabTrigger>DB::setQueryGrammar($grammar)</tabTrigger>
+    <tabTrigger>DB-setQueryGrammar</tabTrigger>
     <scope>source.php</scope>
 </snippet>

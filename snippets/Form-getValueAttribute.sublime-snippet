@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::getValueAttribute($name, $value)]]></content>
-    <tabTrigger>Form::getValueAttribute($name, $value)</tabTrigger>
+    <tabTrigger>Form-getValueAttribute</tabTrigger>
     <scope>source.php</scope>
 </snippet>

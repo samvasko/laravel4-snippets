@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::startsWith($haystack, $needles)]]></content>
-    <tabTrigger>Str::startsWith($haystack, $needles)</tabTrigger>
+    <tabTrigger>Str-startsWith</tabTrigger>
     <scope>source.php</scope>
 </snippet>

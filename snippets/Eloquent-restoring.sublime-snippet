@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::restoring($callback)]]></content>
-    <tabTrigger>Eloquent::restoring($callback)</tabTrigger>
+    <tabTrigger>Eloquent-restoring</tabTrigger>
     <scope>source.php</scope>
 </snippet>

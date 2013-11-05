@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::ascii($value)]]></content>
-    <tabTrigger>Str::ascii($value)</tabTrigger>
+    <tabTrigger>Str-ascii</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::prepare($value, $request)]]></content>
-    <tabTrigger>Route::prepare($value, $request)</tabTrigger>
+    <tabTrigger>Route-prepare</tabTrigger>
     <scope>source.php</scope>
 </snippet>

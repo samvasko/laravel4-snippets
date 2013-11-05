@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::post($pattern, $action)]]></content>
-    <tabTrigger>Route::post($pattern, $action)</tabTrigger>
+    <tabTrigger>Route-post</tabTrigger>
     <scope>source.php</scope>
 </snippet>

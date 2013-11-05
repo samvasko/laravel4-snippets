@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::shutdown($callback)]]></content>
-    <tabTrigger>App::shutdown($callback)</tabTrigger>
+    <tabTrigger>App-shutdown</tabTrigger>
     <scope>source.php</scope>
 </snippet>

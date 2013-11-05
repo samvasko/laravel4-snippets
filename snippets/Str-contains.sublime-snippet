@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::contains($haystack, $needle)]]></content>
-    <tabTrigger>Str::contains($haystack, $needle)</tabTrigger>
+    <tabTrigger>Str-contains</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::getCacheManager()]]></content>
-    <tabTrigger>DB::getCacheManager()</tabTrigger>
+    <tabTrigger>DB-getCacheManager</tabTrigger>
     <scope>source.php</scope>
 </snippet>

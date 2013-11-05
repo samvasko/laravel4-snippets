@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::file($key, $default)]]></content>
-    <tabTrigger>Request::file($key, $default)</tabTrigger>
+    <tabTrigger>Request-file</tabTrigger>
     <scope>source.php</scope>
 </snippet>

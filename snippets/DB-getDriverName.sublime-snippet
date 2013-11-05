@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::getDriverName()]]></content>
-    <tabTrigger>DB::getDriverName()</tabTrigger>
+    <tabTrigger>DB-getDriverName</tabTrigger>
     <scope>source.php</scope>
 </snippet>

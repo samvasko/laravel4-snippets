@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Lang::choice($key, $number, $replace, $locale)]]></content>
-    <tabTrigger>Lang::choice($key, $number, $replace, $locale)</tabTrigger>
+    <tabTrigger>Lang-choice</tabTrigger>
     <scope>source.php</scope>
 </snippet>

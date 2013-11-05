@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::make($abstract, $parameters)]]></content>
-    <tabTrigger>App::make($abstract, $parameters)</tabTrigger>
+    <tabTrigger>App-make</tabTrigger>
     <scope>source.php</scope>
 </snippet>

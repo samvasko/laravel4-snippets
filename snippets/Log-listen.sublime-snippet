@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Log::listen($callback)]]></content>
-    <tabTrigger>Log::listen($callback)</tabTrigger>
+    <tabTrigger>Log-listen</tabTrigger>
     <scope>source.php</scope>
 </snippet>

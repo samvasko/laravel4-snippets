@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::getInspector()]]></content>
-    <tabTrigger>Route::getInspector()</tabTrigger>
+    <tabTrigger>Route-getInspector</tabTrigger>
     <scope>source.php</scope>
 </snippet>

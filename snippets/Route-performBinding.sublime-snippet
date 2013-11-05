@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::performBinding($key, $value, $route)]]></content>
-    <tabTrigger>Route::performBinding($key, $value, $route)</tabTrigger>
+    <tabTrigger>Route-performBinding</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::dispatch($request)]]></content>
-    <tabTrigger>App::dispatch($request)</tabTrigger>
+    <tabTrigger>App-dispatch</tabTrigger>
     <scope>source.php</scope>
 </snippet>

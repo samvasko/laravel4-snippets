@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Form::selectMonth($name, $selected, $options)]]></content>
-    <tabTrigger>Form::selectMonth($name, $selected, $options)</tabTrigger>
+    <tabTrigger>Form-selectMonth</tabTrigger>
     <scope>source.php</scope>
 </snippet>

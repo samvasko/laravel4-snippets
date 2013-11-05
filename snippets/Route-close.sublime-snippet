@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::close($callback)]]></content>
-    <tabTrigger>Route::close($callback)</tabTrigger>
+    <tabTrigger>Route-close</tabTrigger>
     <scope>source.php</scope>
 </snippet>

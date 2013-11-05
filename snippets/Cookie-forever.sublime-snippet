@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cookie::forever($name, $value, $path, $domain, $secure, $httpOnly)]]></content>
-    <tabTrigger>Cookie::forever($name, $value, $path, $domain, $secure, $httpOnly)</tabTrigger>
+    <tabTrigger>Cookie-forever</tabTrigger>
     <scope>source.php</scope>
 </snippet>

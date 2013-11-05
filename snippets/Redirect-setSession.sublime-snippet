@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::setSession($session)]]></content>
-    <tabTrigger>Redirect::setSession($session)</tabTrigger>
+    <tabTrigger>Redirect-setSession</tabTrigger>
     <scope>source.php</scope>
 </snippet>

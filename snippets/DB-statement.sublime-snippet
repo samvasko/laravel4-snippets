@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::statement($query, $bindings)]]></content>
-    <tabTrigger>DB::statement($query, $bindings)</tabTrigger>
+    <tabTrigger>DB-statement</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::ol($list, $attributes)]]></content>
-    <tabTrigger>HTML::ol($list, $attributes)</tabTrigger>
+    <tabTrigger>HTML-ol</tabTrigger>
     <scope>source.php</scope>
 </snippet>

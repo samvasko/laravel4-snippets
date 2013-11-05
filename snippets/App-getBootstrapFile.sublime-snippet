@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::getBootstrapFile()]]></content>
-    <tabTrigger>App::getBootstrapFile()</tabTrigger>
+    <tabTrigger>App-getBootstrapFile</tabTrigger>
     <scope>source.php</scope>
 </snippet>

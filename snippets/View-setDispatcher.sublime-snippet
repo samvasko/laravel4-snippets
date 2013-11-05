@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::setDispatcher($events)]]></content>
-    <tabTrigger>View::setDispatcher($events)</tabTrigger>
+    <tabTrigger>View-setDispatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::setPaginator($paginator)]]></content>
-    <tabTrigger>DB::setPaginator($paginator)</tabTrigger>
+    <tabTrigger>DB-setPaginator</tabTrigger>
     <scope>source.php</scope>
 </snippet>

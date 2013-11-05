@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cookie::has($key)]]></content>
-    <tabTrigger>Cookie::has($key)</tabTrigger>
+    <tabTrigger>Cookie-has</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::isWritable($path)]]></content>
-    <tabTrigger>File::isWritable($path)</tabTrigger>
+    <tabTrigger>File-isWritable</tabTrigger>
     <scope>source.php</scope>
 </snippet>
