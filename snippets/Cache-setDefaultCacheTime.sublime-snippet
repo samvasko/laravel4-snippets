@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cache::setDefaultCacheTime($minutes)]]></content>
     <tabTrigger>Cache::setDefaultCacheTime($minutes)</tabTrigger>
+=======
+    <content><![CDATA[Cache::setDefaultCacheTime(${1:minutes})]]></content>
+    <tabTrigger>Cache-setDefaultCacheTime</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

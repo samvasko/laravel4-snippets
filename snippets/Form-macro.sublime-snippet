@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::macro($name, $macro)]]></content>
     <tabTrigger>Form::macro($name, $macro)</tabTrigger>
+=======
+    <content><![CDATA[Form::macro(${1:name}, ${2:macro})]]></content>
+    <tabTrigger>Form-macro</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::getValueAttribute($name, $value)]]></content>
     <tabTrigger>Form::getValueAttribute($name, $value)</tabTrigger>
+=======
+    <content><![CDATA[Form::getValueAttribute(${1:name}, ${2:value})]]></content>
+    <tabTrigger>Form-getValueAttribute</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Lang::choice($key, $number, $replace, $locale)]]></content>
     <tabTrigger>Lang::choice($key, $number, $replace, $locale)</tabTrigger>
+=======
+    <content><![CDATA[Lang::choice(${1:key}, ${2:number}, ${3:replace}, ${4:locale})]]></content>
+    <tabTrigger>Lang-choice</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

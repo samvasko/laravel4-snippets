@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Event::flush($event)]]></content>
     <tabTrigger>Event::flush($event)</tabTrigger>
+=======
+    <content><![CDATA[Event::flush(${1:event})]]></content>
+    <tabTrigger>Event-flush</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

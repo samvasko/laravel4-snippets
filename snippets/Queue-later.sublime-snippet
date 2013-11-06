@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Queue::later($delay, $job, $data, $queue)]]></content>
     <tabTrigger>Queue::later($delay, $job, $data, $queue)</tabTrigger>
+=======
+    <content><![CDATA[Queue::later(${1:delay}, ${2:job}, ${3:data}, ${4:queue})]]></content>
+    <tabTrigger>Queue-later</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cookie::get($key, $default)]]></content>
     <tabTrigger>Cookie::get($key, $default)</tabTrigger>
+=======
+    <content><![CDATA[Cookie::get(${1:key}, ${2:default})]]></content>
+    <tabTrigger>Cookie-get</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

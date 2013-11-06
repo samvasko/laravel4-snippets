@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Str::endsWith($haystack, $needles)]]></content>
     <tabTrigger>Str::endsWith($haystack, $needles)</tabTrigger>
+=======
+    <content><![CDATA[Str::endsWith(${1:haystack}, ${2:needles})]]></content>
+    <tabTrigger>Str-endsWith</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

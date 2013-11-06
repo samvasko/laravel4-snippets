@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::raw($value)]]></content>
     <tabTrigger>DB::raw($value)</tabTrigger>
+=======
+    <content><![CDATA[DB::raw(${1:value})]]></content>
+    <tabTrigger>DB-raw</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

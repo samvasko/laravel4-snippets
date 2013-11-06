@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Schema::table($table, $callback)]]></content>
     <tabTrigger>Schema::table($table, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Schema::table(${1:table}, ${2:callback})]]></content>
+    <tabTrigger>Schema-table</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

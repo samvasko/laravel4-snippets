@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Auth::onceBasic($field, $request)]]></content>
     <tabTrigger>Auth::onceBasic($field, $request)</tabTrigger>
+=======
+    <content><![CDATA[Auth::onceBasic(${1:field}, ${2:request})]]></content>
+    <tabTrigger>Auth-onceBasic</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

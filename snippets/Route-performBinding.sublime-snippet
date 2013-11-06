@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::performBinding($key, $value, $route)]]></content>
     <tabTrigger>Route::performBinding($key, $value, $route)</tabTrigger>
+=======
+    <content><![CDATA[Route::performBinding(${1:key}, ${2:value}, ${3:route})]]></content>
+    <tabTrigger>Route-performBinding</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::resource($resource, $controller, $options)]]></content>
     <tabTrigger>Route::resource($resource, $controller, $options)</tabTrigger>
+=======
+    <content><![CDATA[Route::resource(${1:resource}, ${2:controller}, ${3:options})]]></content>
+    <tabTrigger>Route-resource</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

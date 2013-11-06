@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Crypt::encrypt($value)]]></content>
     <tabTrigger>Crypt::encrypt($value)</tabTrigger>
+=======
+    <content><![CDATA[Crypt::encrypt(${1:value})]]></content>
+    <tabTrigger>Crypt-encrypt</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

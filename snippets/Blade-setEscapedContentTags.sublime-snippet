@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Blade::setEscapedContentTags($openTag, $closeTag)]]></content>
     <tabTrigger>Blade::setEscapedContentTags($openTag, $closeTag)</tabTrigger>
+=======
+    <content><![CDATA[Blade::setEscapedContentTags(${1:openTag}, ${2:closeTag})]]></content>
+    <tabTrigger>Blade-setEscapedContentTags</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

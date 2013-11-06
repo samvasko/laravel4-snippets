@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Redirect::intended($default, $status, $headers, $secure)]]></content>
     <tabTrigger>Redirect::intended($default, $status, $headers, $secure)</tabTrigger>
+=======
+    <content><![CDATA[Redirect::intended(${1:default}, ${2:status}, ${3:headers}, ${4:secure})]]></content>
+    <tabTrigger>Redirect-intended</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

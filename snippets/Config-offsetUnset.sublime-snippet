@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Config::offsetUnset($key)]]></content>
     <tabTrigger>Config::offsetUnset($key)</tabTrigger>
+=======
+    <content><![CDATA[Config::offsetUnset(${1:key})]]></content>
+    <tabTrigger>Config-offsetUnset</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Event::until($event, $payload)]]></content>
     <tabTrigger>Event::until($event, $payload)</tabTrigger>
+=======
+    <content><![CDATA[Event::until(${1:event}, ${2:payload})]]></content>
+    <tabTrigger>Event-until</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

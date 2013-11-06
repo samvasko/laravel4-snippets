@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::setEventDispatcher($events)]]></content>
     <tabTrigger>DB::setEventDispatcher($events)</tabTrigger>
+=======
+    <content><![CDATA[DB::setEventDispatcher(${1:events})]]></content>
+    <tabTrigger>DB-setEventDispatcher</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

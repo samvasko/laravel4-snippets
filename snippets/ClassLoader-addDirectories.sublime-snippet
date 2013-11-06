@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[ClassLoader::addDirectories($directories)]]></content>
     <tabTrigger>ClassLoader::addDirectories($directories)</tabTrigger>
+=======
+    <content><![CDATA[ClassLoader::addDirectories(${1:directories})]]></content>
+    <tabTrigger>ClassLoader-addDirectories</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

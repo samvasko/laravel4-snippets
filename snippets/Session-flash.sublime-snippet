@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Session::flash($key, $value)]]></content>
     <tabTrigger>Session::flash($key, $value)</tabTrigger>
+=======
+    <content><![CDATA[Session::flash(${1:key}, ${2:value})]]></content>
+    <tabTrigger>Session-flash</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

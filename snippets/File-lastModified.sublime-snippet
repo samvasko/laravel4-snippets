@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[File::lastModified($path)]]></content>
     <tabTrigger>File::lastModified($path)</tabTrigger>
+=======
+    <content><![CDATA[File::lastModified(${1:path})]]></content>
+    <tabTrigger>File-lastModified</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

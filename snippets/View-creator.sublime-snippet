@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[View::creator($views, $callback)]]></content>
     <tabTrigger>View::creator($views, $callback)</tabTrigger>
+=======
+    <content><![CDATA[View::creator(${1:views}, ${2:callback})]]></content>
+    <tabTrigger>View-creator</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

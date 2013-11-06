@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Paginator::setPageName($pageName)]]></content>
     <tabTrigger>Paginator::setPageName($pageName)</tabTrigger>
+=======
+    <content><![CDATA[Paginator::setPageName(${1:pageName})]]></content>
+    <tabTrigger>Paginator-setPageName</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

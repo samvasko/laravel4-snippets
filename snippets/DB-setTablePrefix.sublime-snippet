@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::setTablePrefix($prefix)]]></content>
     <tabTrigger>DB::setTablePrefix($prefix)</tabTrigger>
+=======
+    <content><![CDATA[DB::setTablePrefix(${1:prefix})]]></content>
+    <tabTrigger>DB-setTablePrefix</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

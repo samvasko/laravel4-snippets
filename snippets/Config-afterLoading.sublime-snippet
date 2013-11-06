@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Config::afterLoading($namespace, $callback)]]></content>
     <tabTrigger>Config::afterLoading($namespace, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Config::afterLoading(${1:namespace}, ${2:callback})]]></content>
+    <tabTrigger>Config-afterLoading</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

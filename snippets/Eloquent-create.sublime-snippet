@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Eloquent::create($attributes)]]></content>
     <tabTrigger>Eloquent::create($attributes)</tabTrigger>
+=======
+    <content><![CDATA[Eloquent::create(${1:attributes})]]></content>
+    <tabTrigger>Eloquent-create</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

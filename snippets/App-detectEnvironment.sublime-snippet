@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::detectEnvironment($environments)]]></content>
     <tabTrigger>App::detectEnvironment($environments)</tabTrigger>
+=======
+    <content><![CDATA[App::detectEnvironment(${1:environments})]]></content>
+    <tabTrigger>App-detectEnvironment</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

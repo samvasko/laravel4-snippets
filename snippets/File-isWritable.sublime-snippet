@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[File::isWritable($path)]]></content>
     <tabTrigger>File::isWritable($path)</tabTrigger>
+=======
+    <content><![CDATA[File::isWritable(${1:path})]]></content>
+    <tabTrigger>File-isWritable</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

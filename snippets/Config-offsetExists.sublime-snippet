@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Config::offsetExists($key)]]></content>
     <tabTrigger>Config::offsetExists($key)</tabTrigger>
+=======
+    <content><![CDATA[Config::offsetExists(${1:key})]]></content>
+    <tabTrigger>Config-offsetExists</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

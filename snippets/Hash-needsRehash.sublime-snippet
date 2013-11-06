@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Hash::needsRehash($hashedValue, $options)]]></content>
     <tabTrigger>Hash::needsRehash($hashedValue, $options)</tabTrigger>
+=======
+    <content><![CDATA[Hash::needsRehash(${1:hashedValue}, ${2:options})]]></content>
+    <tabTrigger>Hash-needsRehash</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[View::name($view, $name)]]></content>
     <tabTrigger>View::name($view, $name)</tabTrigger>
+=======
+    <content><![CDATA[View::name(${1:view}, ${2:name})]]></content>
+    <tabTrigger>View-name</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cookie::make($name, $value, $minutes, $path, $domain, $secure, $httpOnly)]]></content>
     <tabTrigger>Cookie::make($name, $value, $minutes, $path, $domain, $secure, $httpOnly)</tabTrigger>
+=======
+    <content><![CDATA[Cookie::make(${1:name}, ${2:value}, ${3:minutes}, ${4:path}, ${5:domain}, ${6:secure}, ${7:httpOnly})]]></content>
+    <tabTrigger>Cookie-make</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

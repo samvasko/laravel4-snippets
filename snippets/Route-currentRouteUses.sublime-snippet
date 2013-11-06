@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::currentRouteUses($action)]]></content>
     <tabTrigger>Route::currentRouteUses($action)</tabTrigger>
+=======
+    <content><![CDATA[Route::currentRouteUses(${1:action})]]></content>
+    <tabTrigger>Route-currentRouteUses</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

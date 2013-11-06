@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::register($provider, $options)]]></content>
     <tabTrigger>App::register($provider, $options)</tabTrigger>
+=======
+    <content><![CDATA[App::register(${1:provider}, ${2:options})]]></content>
+    <tabTrigger>App-register</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

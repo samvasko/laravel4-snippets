@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[View::inject($section, $content)]]></content>
     <tabTrigger>View::inject($section, $content)</tabTrigger>
+=======
+    <content><![CDATA[View::inject(${1:section}, ${2:content})]]></content>
+    <tabTrigger>View-inject</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

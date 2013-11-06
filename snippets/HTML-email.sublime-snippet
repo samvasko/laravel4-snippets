@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::email($email)]]></content>
     <tabTrigger>HTML::email($email)</tabTrigger>
+=======
+    <content><![CDATA[HTML::email(${1:email})]]></content>
+    <tabTrigger>HTML-email</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

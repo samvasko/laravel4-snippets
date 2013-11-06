@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::hidden($name, $value, $options)]]></content>
     <tabTrigger>Form::hidden($name, $value, $options)</tabTrigger>
+=======
+    <content><![CDATA[Form::hidden(${1:name}, ${2:value}, ${3:options})]]></content>
+    <tabTrigger>Form-hidden</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

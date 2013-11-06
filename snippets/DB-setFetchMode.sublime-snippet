@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::setFetchMode($fetchMode)]]></content>
     <tabTrigger>DB::setFetchMode($fetchMode)</tabTrigger>
+=======
+    <content><![CDATA[DB::setFetchMode(${1:fetchMode})]]></content>
+    <tabTrigger>DB-setFetchMode</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

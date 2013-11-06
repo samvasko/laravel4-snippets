@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Str::camel($value)]]></content>
     <tabTrigger>Str::camel($value)</tabTrigger>
+=======
+    <content><![CDATA[Str::camel(${1:value})]]></content>
+    <tabTrigger>Str-camel</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

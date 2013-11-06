@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Eloquent::destroy($ids)]]></content>
     <tabTrigger>Eloquent::destroy($ids)</tabTrigger>
+=======
+    <content><![CDATA[Eloquent::destroy(${1:ids})]]></content>
+    <tabTrigger>Eloquent-destroy</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

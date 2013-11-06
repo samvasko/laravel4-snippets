@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cache::sear($key, $callback)]]></content>
     <tabTrigger>Cache::sear($key, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Cache::sear(${1:key}, ${2:callback})]]></content>
+    <tabTrigger>Cache-sear</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

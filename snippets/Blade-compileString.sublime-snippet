@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Blade::compileString($value)]]></content>
     <tabTrigger>Blade::compileString($value)</tabTrigger>
+=======
+    <content><![CDATA[Blade::compileString(${1:value})]]></content>
+    <tabTrigger>Blade-compileString</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

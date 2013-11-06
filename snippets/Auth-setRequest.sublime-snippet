@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Auth::setRequest($request)]]></content>
     <tabTrigger>Auth::setRequest($request)</tabTrigger>
+=======
+    <content><![CDATA[Auth::setRequest(${1:request})]]></content>
+    <tabTrigger>Auth-setRequest</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Queue::push($job, $data, $queue)]]></content>
     <tabTrigger>Queue::push($job, $data, $queue)</tabTrigger>
+=======
+    <content><![CDATA[Queue::push(${1:job}, ${2:data}, ${3:queue})]]></content>
+    <tabTrigger>Queue-push</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

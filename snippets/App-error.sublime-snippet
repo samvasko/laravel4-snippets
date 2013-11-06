@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::error($callback)]]></content>
     <tabTrigger>App::error($callback)</tabTrigger>
+=======
+    <content><![CDATA[App::error(${1:callback})]]></content>
+    <tabTrigger>App-error</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

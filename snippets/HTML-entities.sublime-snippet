@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::entities($value)]]></content>
     <tabTrigger>HTML::entities($value)</tabTrigger>
+=======
+    <content><![CDATA[HTML::entities(${1:value})]]></content>
+    <tabTrigger>HTML-entities</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

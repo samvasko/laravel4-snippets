@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[URL::isValidUrl($path)]]></content>
     <tabTrigger>URL::isValidUrl($path)</tabTrigger>
+=======
+    <content><![CDATA[URL::isValidUrl(${1:path})]]></content>
+    <tabTrigger>URL-isValidUrl</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::setPdo($pdo)]]></content>
     <tabTrigger>DB::setPdo($pdo)</tabTrigger>
+=======
+    <content><![CDATA[DB::setPdo(${1:pdo})]]></content>
+    <tabTrigger>DB-setPdo</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

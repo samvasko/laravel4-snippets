@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::prepareRequest($request)]]></content>
     <tabTrigger>App::prepareRequest($request)</tabTrigger>
+=======
+    <content><![CDATA[App::prepareRequest(${1:request})]]></content>
+    <tabTrigger>App-prepareRequest</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

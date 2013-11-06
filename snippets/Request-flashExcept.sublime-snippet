@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Request::flashExcept($keys)]]></content>
     <tabTrigger>Request::flashExcept($keys)</tabTrigger>
+=======
+    <content><![CDATA[Request::flashExcept(${1:keys})]]></content>
+    <tabTrigger>Request-flashExcept</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

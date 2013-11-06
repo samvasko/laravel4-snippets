@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Redis::executeCommand($command)]]></content>
     <tabTrigger>Redis::executeCommand($command)</tabTrigger>
+=======
+    <content><![CDATA[Redis::executeCommand(${1:command})]]></content>
+    <tabTrigger>Redis-executeCommand</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

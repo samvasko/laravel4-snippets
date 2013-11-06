@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Hash::make($value, $options)]]></content>
     <tabTrigger>Hash::make($value, $options)</tabTrigger>
+=======
+    <content><![CDATA[Hash::make(${1:value}, ${2:options})]]></content>
+    <tabTrigger>Hash-make</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

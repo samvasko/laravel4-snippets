@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::any($pattern, $action)]]></content>
     <tabTrigger>Route::any($pattern, $action)</tabTrigger>
+=======
+    <content><![CDATA[Route::any(${1:pattern}, ${2:action})]]></content>
+    <tabTrigger>Route-any</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

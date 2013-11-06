@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::setPaginator($paginator)]]></content>
     <tabTrigger>DB::setPaginator($paginator)</tabTrigger>
+=======
+    <content><![CDATA[DB::setPaginator(${1:paginator})]]></content>
+    <tabTrigger>DB-setPaginator</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

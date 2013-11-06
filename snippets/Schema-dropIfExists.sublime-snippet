@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Schema::dropIfExists($table)]]></content>
     <tabTrigger>Schema::dropIfExists($table)</tabTrigger>
+=======
+    <content><![CDATA[Schema::dropIfExists(${1:table})]]></content>
+    <tabTrigger>Schema-dropIfExists</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

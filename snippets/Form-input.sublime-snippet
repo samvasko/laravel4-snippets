@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::input($type, $name, $value, $options)]]></content>
     <tabTrigger>Form::input($type, $name, $value, $options)</tabTrigger>
+=======
+    <content><![CDATA[Form::input(${1:type}, ${2:name}, ${3:value}, ${4:options})]]></content>
+    <tabTrigger>Form-input</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

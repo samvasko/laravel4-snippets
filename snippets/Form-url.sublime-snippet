@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::url($name, $value, $options)]]></content>
     <tabTrigger>Form::url($name, $value, $options)</tabTrigger>
+=======
+    <content><![CDATA[Form::url(${1:name}, ${2:value}, ${3:options})]]></content>
+    <tabTrigger>Form-url</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

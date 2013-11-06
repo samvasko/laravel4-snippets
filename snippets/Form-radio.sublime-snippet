@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::radio($name, $value, $checked, $options)]]></content>
     <tabTrigger>Form::radio($name, $value, $checked, $options)</tabTrigger>
+=======
+    <content><![CDATA[Form::radio(${1:name}, ${2:value}, ${3:checked}, ${4:options})]]></content>
+    <tabTrigger>Form-radio</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

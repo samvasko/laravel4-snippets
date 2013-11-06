@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Session::keep($keys)]]></content>
     <tabTrigger>Session::keep($keys)</tabTrigger>
+=======
+    <content><![CDATA[Session::keep(${1:keys})]]></content>
+    <tabTrigger>Session-keep</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Session::getOldInput($key, $default)]]></content>
     <tabTrigger>Session::getOldInput($key, $default)</tabTrigger>
+=======
+    <content><![CDATA[Session::getOldInput(${1:key}, ${2:default})]]></content>
+    <tabTrigger>Session-getOldInput</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

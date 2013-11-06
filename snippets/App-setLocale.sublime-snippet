@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::setLocale($locale)]]></content>
     <tabTrigger>App::setLocale($locale)</tabTrigger>
+=======
+    <content><![CDATA[App::setLocale(${1:locale})]]></content>
+    <tabTrigger>App-setLocale</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

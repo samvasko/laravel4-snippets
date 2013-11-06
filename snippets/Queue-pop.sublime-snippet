@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Queue::pop($queue)]]></content>
     <tabTrigger>Queue::pop($queue)</tabTrigger>
+=======
+    <content><![CDATA[Queue::pop(${1:queue})]]></content>
+    <tabTrigger>Queue-pop</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

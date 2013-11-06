@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::select($name, $list, $selected, $options)]]></content>
     <tabTrigger>Form::select($name, $list, $selected, $options)</tabTrigger>
+=======
+    <content><![CDATA[Form::select(${1:name}, ${2:list}, ${3:selected}, ${4:options})]]></content>
+    <tabTrigger>Form-select</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

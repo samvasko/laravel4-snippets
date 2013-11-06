@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::linkAsset($url, $title, $attributes, $secure)]]></content>
     <tabTrigger>HTML::linkAsset($url, $title, $attributes, $secure)</tabTrigger>
+=======
+    <content><![CDATA[HTML::linkAsset(${1:url}, ${2:title}, ${3:attributes}, ${4:secure})]]></content>
+    <tabTrigger>HTML-linkAsset</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

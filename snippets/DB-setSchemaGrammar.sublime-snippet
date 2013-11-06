@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::setSchemaGrammar($grammar)]]></content>
     <tabTrigger>DB::setSchemaGrammar($grammar)</tabTrigger>
+=======
+    <content><![CDATA[DB::setSchemaGrammar(${1:grammar})]]></content>
+    <tabTrigger>DB-setSchemaGrammar</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

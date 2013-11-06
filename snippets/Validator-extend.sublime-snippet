@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Validator::extend($rule, $extension, $message)]]></content>
     <tabTrigger>Validator::extend($rule, $extension, $message)</tabTrigger>
+=======
+    <content><![CDATA[Validator::extend(${1:rule}, ${2:extension}, ${3:message})]]></content>
+    <tabTrigger>Validator-extend</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

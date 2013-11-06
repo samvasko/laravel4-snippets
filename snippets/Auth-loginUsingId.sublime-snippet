@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Auth::loginUsingId($id, $remember)]]></content>
     <tabTrigger>Auth::loginUsingId($id, $remember)</tabTrigger>
+=======
+    <content><![CDATA[Auth::loginUsingId(${1:id}, ${2:remember})]]></content>
+    <tabTrigger>Auth-loginUsingId</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Lang::setSelector($selector)]]></content>
     <tabTrigger>Lang::setSelector($selector)</tabTrigger>
+=======
+    <content><![CDATA[Lang::setSelector(${1:selector})]]></content>
+    <tabTrigger>Lang-setSelector</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

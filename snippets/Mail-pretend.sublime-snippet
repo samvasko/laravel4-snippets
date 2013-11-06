@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Mail::pretend($value)]]></content>
     <tabTrigger>Mail::pretend($value)</tabTrigger>
+=======
+    <content><![CDATA[Mail::pretend(${1:value})]]></content>
+    <tabTrigger>Mail-pretend</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

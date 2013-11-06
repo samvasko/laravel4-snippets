@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cookie::unqueue($name)]]></content>
     <tabTrigger>Cookie::unqueue($name)</tabTrigger>
+=======
+    <content><![CDATA[Cookie::unqueue(${1:name})]]></content>
+    <tabTrigger>Cookie-unqueue</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

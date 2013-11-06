@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Input::merge($input)]]></content>
     <tabTrigger>Input::merge($input)</tabTrigger>
+=======
+    <content><![CDATA[Input::merge(${1:input})]]></content>
+    <tabTrigger>Input-merge</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Form::button($value, $options)]]></content>
     <tabTrigger>Form::button($value, $options)</tabTrigger>
+=======
+    <content><![CDATA[Form::button(${1:value}, ${2:options})]]></content>
+    <tabTrigger>Form-button</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

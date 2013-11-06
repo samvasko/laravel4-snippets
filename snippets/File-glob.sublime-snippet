@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[File::glob($pattern, $flags)]]></content>
     <tabTrigger>File::glob($pattern, $flags)</tabTrigger>
+=======
+    <content><![CDATA[File::glob(${1:pattern}, ${2:flags})]]></content>
+    <tabTrigger>File-glob</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

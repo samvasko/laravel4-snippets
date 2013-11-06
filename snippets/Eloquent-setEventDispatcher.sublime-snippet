@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Eloquent::setEventDispatcher($dispatcher)]]></content>
     <tabTrigger>Eloquent::setEventDispatcher($dispatcher)</tabTrigger>
+=======
+    <content><![CDATA[Eloquent::setEventDispatcher(${1:dispatcher})]]></content>
+    <tabTrigger>Eloquent-setEventDispatcher</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

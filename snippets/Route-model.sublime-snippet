@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::model($key, $class, $callback)]]></content>
     <tabTrigger>Route::model($key, $class, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Route::model(${1:key}, ${2:class}, ${3:callback})]]></content>
+    <tabTrigger>Route-model</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

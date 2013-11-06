@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Paginator::make($items, $total, $perPage)]]></content>
     <tabTrigger>Paginator::make($items, $total, $perPage)</tabTrigger>
+=======
+    <content><![CDATA[Paginator::make(${1:items}, ${2:total}, ${3:perPage})]]></content>
+    <tabTrigger>Paginator-make</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

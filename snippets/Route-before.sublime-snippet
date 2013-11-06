@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::before($callback)]]></content>
     <tabTrigger>Route::before($callback)</tabTrigger>
+=======
+    <content><![CDATA[Route::before(${1:callback})]]></content>
+    <tabTrigger>Route-before</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

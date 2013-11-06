@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Mail::queueOn($queue, $view, $data, $callback)]]></content>
     <tabTrigger>Mail::queueOn($queue, $view, $data, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Mail::queueOn(${1:queue}, ${2:view}, ${3:data}, ${4:callback})]]></content>
+    <tabTrigger>Mail-queueOn</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

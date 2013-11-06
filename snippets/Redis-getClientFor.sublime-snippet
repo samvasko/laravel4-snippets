@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Redis::getClientFor($connectionID)]]></content>
     <tabTrigger>Redis::getClientFor($connectionID)</tabTrigger>
+=======
+    <content><![CDATA[Redis::getClientFor(${1:connectionID})]]></content>
+    <tabTrigger>Redis-getClientFor</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

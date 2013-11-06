@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::linkAction($action, $title, $parameters, $attributes)]]></content>
     <tabTrigger>HTML::linkAction($action, $title, $parameters, $attributes)</tabTrigger>
+=======
+    <content><![CDATA[HTML::linkAction(${1:action}, ${2:title}, ${3:parameters}, ${4:attributes})]]></content>
+    <tabTrigger>HTML-linkAction</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

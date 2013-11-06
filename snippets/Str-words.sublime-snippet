@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Str::words($value, $words, $end)]]></content>
     <tabTrigger>Str::words($value, $words, $end)</tabTrigger>
+=======
+    <content><![CDATA[Str::words(${1:value}, ${2:words}, ${3:end})]]></content>
+    <tabTrigger>Str-words</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

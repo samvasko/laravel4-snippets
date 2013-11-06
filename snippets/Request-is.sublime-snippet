@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Request::is($pattern)]]></content>
     <tabTrigger>Request::is($pattern)</tabTrigger>
+=======
+    <content><![CDATA[Request::is(${1:pattern})]]></content>
+    <tabTrigger>Request-is</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

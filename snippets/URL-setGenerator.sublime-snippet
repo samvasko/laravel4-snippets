@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[URL::setGenerator($generator)]]></content>
     <tabTrigger>URL::setGenerator($generator)</tabTrigger>
+=======
+    <content><![CDATA[URL::setGenerator(${1:generator})]]></content>
+    <tabTrigger>URL-setGenerator</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

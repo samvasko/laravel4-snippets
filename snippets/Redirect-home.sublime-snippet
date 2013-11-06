@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Redirect::home($status)]]></content>
     <tabTrigger>Redirect::home($status)</tabTrigger>
+=======
+    <content><![CDATA[Redirect::home(${1:status})]]></content>
+    <tabTrigger>Redirect-home</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

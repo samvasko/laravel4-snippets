@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::dispatch($request)]]></content>
     <tabTrigger>Route::dispatch($request)</tabTrigger>
+=======
+    <content><![CDATA[Route::dispatch(${1:request})]]></content>
+    <tabTrigger>Route-dispatch</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

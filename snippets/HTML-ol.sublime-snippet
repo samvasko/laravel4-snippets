@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::ol($list, $attributes)]]></content>
     <tabTrigger>HTML::ol($list, $attributes)</tabTrigger>
+=======
+    <content><![CDATA[HTML::ol(${1:list}, ${2:attributes})]]></content>
+    <tabTrigger>HTML-ol</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

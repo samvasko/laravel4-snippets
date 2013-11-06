@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Eloquent::restoring($callback)]]></content>
     <tabTrigger>Eloquent::restoring($callback)</tabTrigger>
+=======
+    <content><![CDATA[Eloquent::restoring(${1:callback})]]></content>
+    <tabTrigger>Eloquent-restoring</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

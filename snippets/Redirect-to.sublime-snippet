@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Redirect::to($path, $status, $headers, $secure)]]></content>
     <tabTrigger>Redirect::to($path, $status, $headers, $secure)</tabTrigger>
+=======
+    <content><![CDATA[Redirect::to(${1:path}, ${2:status}, ${3:headers}, ${4:secure})]]></content>
+    <tabTrigger>Redirect-to</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

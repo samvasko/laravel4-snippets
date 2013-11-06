@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Auth::attempting($callback)]]></content>
     <tabTrigger>Auth::attempting($callback)</tabTrigger>
+=======
+    <content><![CDATA[Auth::attempting(${1:callback})]]></content>
+    <tabTrigger>Auth-attempting</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

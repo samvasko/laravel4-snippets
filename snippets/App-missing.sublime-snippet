@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::missing($callback)]]></content>
     <tabTrigger>App::missing($callback)</tabTrigger>
+=======
+    <content><![CDATA[App::missing(${1:callback})]]></content>
+    <tabTrigger>App-missing</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

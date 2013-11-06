@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cache::has($key)]]></content>
     <tabTrigger>Cache::has($key)</tabTrigger>
+=======
+    <content><![CDATA[Cache::has(${1:key})]]></content>
+    <tabTrigger>Cache-has</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

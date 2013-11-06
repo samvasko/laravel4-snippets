@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::getDoctrineColumn($table, $column)]]></content>
     <tabTrigger>DB::getDoctrineColumn($table, $column)</tabTrigger>
+=======
+    <content><![CDATA[DB::getDoctrineColumn(${1:table}, ${2:column})]]></content>
+    <tabTrigger>DB-getDoctrineColumn</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

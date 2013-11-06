@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Event::hasListeners($eventName)]]></content>
     <tabTrigger>Event::hasListeners($eventName)</tabTrigger>
+=======
+    <content><![CDATA[Event::hasListeners(${1:eventName})]]></content>
+    <tabTrigger>Event-hasListeners</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

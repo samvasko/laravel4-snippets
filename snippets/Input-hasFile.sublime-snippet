@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Input::hasFile($key)]]></content>
     <tabTrigger>Input::hasFile($key)</tabTrigger>
+=======
+    <content><![CDATA[Input::hasFile(${1:key})]]></content>
+    <tabTrigger>Input-hasFile</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

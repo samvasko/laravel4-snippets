@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Schema::hasTable($table)]]></content>
     <tabTrigger>Schema::hasTable($table)</tabTrigger>
+=======
+    <content><![CDATA[Schema::hasTable(${1:table})]]></content>
+    <tabTrigger>Schema-hasTable</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

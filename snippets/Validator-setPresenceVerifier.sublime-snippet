@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Validator::setPresenceVerifier($presenceVerifier)]]></content>
     <tabTrigger>Validator::setPresenceVerifier($presenceVerifier)</tabTrigger>
+=======
+    <content><![CDATA[Validator::setPresenceVerifier(${1:presenceVerifier})]]></content>
+    <tabTrigger>Validator-setPresenceVerifier</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

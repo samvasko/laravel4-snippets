@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::select($query, $bindings)]]></content>
     <tabTrigger>DB::select($query, $bindings)</tabTrigger>
+=======
+    <content><![CDATA[DB::select(${1:query}, ${2:bindings})]]></content>
+    <tabTrigger>DB-select</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

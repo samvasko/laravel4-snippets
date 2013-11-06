@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Request::except($keys)]]></content>
     <tabTrigger>Request::except($keys)</tabTrigger>
+=======
+    <content><![CDATA[Request::except(${1:keys})]]></content>
+    <tabTrigger>Request-except</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

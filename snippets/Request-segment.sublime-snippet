@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Request::segment($index, $default)]]></content>
     <tabTrigger>Request::segment($index, $default)</tabTrigger>
+=======
+    <content><![CDATA[Request::segment(${1:index}, ${2:default})]]></content>
+    <tabTrigger>Request-segment</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

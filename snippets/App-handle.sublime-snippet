@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::handle($request, $type, $catch)]]></content>
     <tabTrigger>App::handle($request, $type, $catch)</tabTrigger>
+=======
+    <content><![CDATA[App::handle(${1:request}, ${2:type}, ${3:catch})]]></content>
+    <tabTrigger>App-handle</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

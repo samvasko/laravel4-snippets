@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[URL::asset($path, $secure)]]></content>
     <tabTrigger>URL::asset($path, $secure)</tabTrigger>
+=======
+    <content><![CDATA[URL::asset(${1:path}, ${2:secure})]]></content>
+    <tabTrigger>URL-asset</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

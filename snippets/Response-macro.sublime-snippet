@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Response::macro($name, $callback)]]></content>
     <tabTrigger>Response::macro($name, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Response::macro(${1:name}, ${2:callback})]]></content>
+    <tabTrigger>Response-macro</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Mail::laterOn($queue, $delay, $view, $data, $callback)]]></content>
     <tabTrigger>Mail::laterOn($queue, $delay, $view, $data, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Mail::laterOn(${1:queue}, ${2:delay}, ${3:view}, ${4:data}, ${5:callback})]]></content>
+    <tabTrigger>Mail-laterOn</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

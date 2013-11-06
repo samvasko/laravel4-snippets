@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Artisan::call($command, $parameters, $output)]]></content>
     <tabTrigger>Artisan::call($command, $parameters, $output)</tabTrigger>
+=======
+    <content><![CDATA[Artisan::call(${1:command}, ${2:parameters}, ${3:output})]]></content>
+    <tabTrigger>Artisan-call</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

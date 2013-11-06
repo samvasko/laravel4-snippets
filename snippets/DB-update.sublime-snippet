@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::update($query, $bindings)]]></content>
     <tabTrigger>DB::update($query, $bindings)</tabTrigger>
+=======
+    <content><![CDATA[DB::update(${1:query}, ${2:bindings})]]></content>
+    <tabTrigger>DB-update</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

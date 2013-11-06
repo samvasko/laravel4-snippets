@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Log::listen($callback)]]></content>
     <tabTrigger>Log::listen($callback)</tabTrigger>
+=======
+    <content><![CDATA[Log::listen(${1:callback})]]></content>
+    <tabTrigger>Log-listen</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

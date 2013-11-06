@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Auth::setCookieJar($cookie)]]></content>
     <tabTrigger>Auth::setCookieJar($cookie)</tabTrigger>
+=======
+    <content><![CDATA[Auth::setCookieJar(${1:cookie})]]></content>
+    <tabTrigger>Auth-setCookieJar</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

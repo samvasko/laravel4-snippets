@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::callFinishFilter($request, $response)]]></content>
     <tabTrigger>Route::callFinishFilter($request, $response)</tabTrigger>
+=======
+    <content><![CDATA[Route::callFinishFilter(${1:request}, ${2:response})]]></content>
+    <tabTrigger>Route-callFinishFilter</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

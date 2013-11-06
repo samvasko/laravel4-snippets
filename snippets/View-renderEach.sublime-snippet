@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[View::renderEach($view, $data, $iterator, $empty)]]></content>
     <tabTrigger>View::renderEach($view, $data, $iterator, $empty)</tabTrigger>
+=======
+    <content><![CDATA[View::renderEach(${1:view}, ${2:data}, ${3:iterator}, ${4:empty})]]></content>
+    <tabTrigger>View-renderEach</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

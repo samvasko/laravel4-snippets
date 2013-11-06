@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cache::remember($key, $minutes, $callback)]]></content>
     <tabTrigger>Cache::remember($key, $minutes, $callback)</tabTrigger>
+=======
+    <content><![CDATA[Cache::remember(${1:key}, ${2:minutes}, ${3:callback})]]></content>
+    <tabTrigger>Cache-remember</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

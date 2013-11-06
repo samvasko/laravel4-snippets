@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::hasBinder($key)]]></content>
     <tabTrigger>Route::hasBinder($key)</tabTrigger>
+=======
+    <content><![CDATA[Route::hasBinder(${1:key})]]></content>
+    <tabTrigger>Route-hasBinder</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

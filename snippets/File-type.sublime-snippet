@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[File::type($path)]]></content>
     <tabTrigger>File::type($path)</tabTrigger>
+=======
+    <content><![CDATA[File::type(${1:path})]]></content>
+    <tabTrigger>File-type</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

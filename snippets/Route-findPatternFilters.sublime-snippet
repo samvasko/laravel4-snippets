@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::findPatternFilters($method, $path)]]></content>
     <tabTrigger>Route::findPatternFilters($method, $path)</tabTrigger>
+=======
+    <content><![CDATA[Route::findPatternFilters(${1:method}, ${2:path})]]></content>
+    <tabTrigger>Route-findPatternFilters</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

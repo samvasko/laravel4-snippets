@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[DB::logQuery($query, $bindings, $time)]]></content>
     <tabTrigger>DB::logQuery($query, $bindings, $time)</tabTrigger>
+=======
+    <content><![CDATA[DB::logQuery(${1:query}, ${2:bindings}, ${3:time})]]></content>
+    <tabTrigger>DB-logQuery</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

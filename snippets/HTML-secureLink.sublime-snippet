@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::secureLink($url, $title, $attributes)]]></content>
     <tabTrigger>HTML::secureLink($url, $title, $attributes)</tabTrigger>
+=======
+    <content><![CDATA[HTML::secureLink(${1:url}, ${2:title}, ${3:attributes})]]></content>
+    <tabTrigger>HTML-secureLink</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

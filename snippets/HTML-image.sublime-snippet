@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::image($url, $alt, $attributes)]]></content>
     <tabTrigger>HTML::image($url, $alt, $attributes)</tabTrigger>
+=======
+    <content><![CDATA[HTML::image(${1:url}, ${2:alt}, ${3:attributes})]]></content>
+    <tabTrigger>HTML-image</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

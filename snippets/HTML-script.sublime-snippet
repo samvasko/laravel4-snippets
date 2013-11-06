@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[HTML::script($url, $attributes)]]></content>
     <tabTrigger>HTML::script($url, $attributes)</tabTrigger>
+=======
+    <content><![CDATA[HTML::script(${1:url}, ${2:attributes})]]></content>
+    <tabTrigger>HTML-script</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

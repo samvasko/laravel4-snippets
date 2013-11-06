@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Config::package($package, $hint, $namespace)]]></content>
     <tabTrigger>Config::package($package, $hint, $namespace)</tabTrigger>
+=======
+    <content><![CDATA[Config::package(${1:package}, ${2:hint}, ${3:namespace})]]></content>
+    <tabTrigger>Config-package</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

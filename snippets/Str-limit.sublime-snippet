@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Str::limit($value, $limit, $end)]]></content>
     <tabTrigger>Str::limit($value, $limit, $end)</tabTrigger>
+=======
+    <content><![CDATA[Str::limit(${1:value}, ${2:limit}, ${3:end})]]></content>
+    <tabTrigger>Str-limit</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

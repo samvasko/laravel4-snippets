@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Eloquent::saving($callback)]]></content>
     <tabTrigger>Eloquent::saving($callback)</tabTrigger>
+=======
+    <content><![CDATA[Eloquent::saving(${1:callback})]]></content>
+    <tabTrigger>Eloquent-saving</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

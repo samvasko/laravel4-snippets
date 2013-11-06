@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Cache::offsetSet($key, $value)]]></content>
     <tabTrigger>Cache::offsetSet($key, $value)</tabTrigger>
+=======
+    <content><![CDATA[Cache::offsetSet(${1:key}, ${2:value})]]></content>
+    <tabTrigger>Cache-offsetSet</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

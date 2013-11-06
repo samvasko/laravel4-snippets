@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::prepare($value, $request)]]></content>
     <tabTrigger>Route::prepare($value, $request)</tabTrigger>
+=======
+    <content><![CDATA[Route::prepare(${1:value}, ${2:request})]]></content>
+    <tabTrigger>Route-prepare</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

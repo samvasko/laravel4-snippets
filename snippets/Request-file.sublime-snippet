@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Request::file($key, $default)]]></content>
     <tabTrigger>Request::file($key, $default)</tabTrigger>
+=======
+    <content><![CDATA[Request::file(${1:key}, ${2:default})]]></content>
+    <tabTrigger>Request-file</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

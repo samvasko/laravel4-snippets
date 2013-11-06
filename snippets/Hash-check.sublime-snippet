@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Hash::check($value, $hashedValue, $options)]]></content>
     <tabTrigger>Hash::check($value, $hashedValue, $options)</tabTrigger>
+=======
+    <content><![CDATA[Hash::check(${1:value}, ${2:hashedValue}, ${3:options})]]></content>
+    <tabTrigger>Hash-check</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

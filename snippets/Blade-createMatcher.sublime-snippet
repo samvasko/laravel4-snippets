@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Blade::createMatcher($function)]]></content>
     <tabTrigger>Blade::createMatcher($function)</tabTrigger>
+=======
+    <content><![CDATA[Blade::createMatcher(${1:function})]]></content>
+    <tabTrigger>Blade-createMatcher</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

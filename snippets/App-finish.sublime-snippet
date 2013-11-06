@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::finish($callback)]]></content>
     <tabTrigger>App::finish($callback)</tabTrigger>
+=======
+    <content><![CDATA[App::finish(${1:callback})]]></content>
+    <tabTrigger>App-finish</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

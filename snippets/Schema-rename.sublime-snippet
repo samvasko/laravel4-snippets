@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Schema::rename($from, $to)]]></content>
     <tabTrigger>Schema::rename($from, $to)</tabTrigger>
+=======
+    <content><![CDATA[Schema::rename(${1:from}, ${2:to})]]></content>
+    <tabTrigger>Schema-rename</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

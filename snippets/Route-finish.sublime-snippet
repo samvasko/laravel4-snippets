@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::finish($callback)]]></content>
     <tabTrigger>Route::finish($callback)</tabTrigger>
+=======
+    <content><![CDATA[Route::finish(${1:callback})]]></content>
+    <tabTrigger>Route-finish</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

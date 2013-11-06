@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Request::setSessionStore($session)]]></content>
     <tabTrigger>Request::setSessionStore($session)</tabTrigger>
+=======
+    <content><![CDATA[Request::setSessionStore(${1:session})]]></content>
+    <tabTrigger>Request-setSessionStore</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

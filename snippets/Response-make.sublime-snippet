@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Response::make($content, $status, $headers)]]></content>
     <tabTrigger>Response::make($content, $status, $headers)</tabTrigger>
+=======
+    <content><![CDATA[Response::make(${1:content}, ${2:status}, ${3:headers})]]></content>
+    <tabTrigger>Response-make</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

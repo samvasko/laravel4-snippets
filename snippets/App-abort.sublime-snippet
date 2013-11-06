@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[App::abort($code, $message, $headers)]]></content>
     <tabTrigger>App::abort($code, $message, $headers)</tabTrigger>
+=======
+    <content><![CDATA[App::abort(${1:code}, ${2:message}, ${3:headers})]]></content>
+    <tabTrigger>App-abort</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

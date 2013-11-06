@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Paginator::setCurrentPage($number)]]></content>
     <tabTrigger>Paginator::setCurrentPage($number)</tabTrigger>
+=======
+    <content><![CDATA[Paginator::setCurrentPage(${1:number})]]></content>
+    <tabTrigger>Paginator-setCurrentPage</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

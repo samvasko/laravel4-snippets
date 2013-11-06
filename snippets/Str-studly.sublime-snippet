@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Str::studly($value)]]></content>
     <tabTrigger>Str::studly($value)</tabTrigger>
+=======
+    <content><![CDATA[Str::studly(${1:value})]]></content>
+    <tabTrigger>Str-studly</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

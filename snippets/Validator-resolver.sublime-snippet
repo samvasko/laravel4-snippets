@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Validator::resolver($resolver)]]></content>
     <tabTrigger>Validator::resolver($resolver)</tabTrigger>
+=======
+    <content><![CDATA[Validator::resolver(${1:resolver})]]></content>
+    <tabTrigger>Validator-resolver</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

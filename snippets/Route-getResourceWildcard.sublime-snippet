@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Route::getResourceWildcard($value)]]></content>
     <tabTrigger>Route::getResourceWildcard($value)</tabTrigger>
+=======
+    <content><![CDATA[Route::getResourceWildcard(${1:value})]]></content>
+    <tabTrigger>Route-getResourceWildcard</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

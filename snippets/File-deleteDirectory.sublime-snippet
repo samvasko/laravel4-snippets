@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[File::deleteDirectory($directory, $preserve)]]></content>
     <tabTrigger>File::deleteDirectory($directory, $preserve)</tabTrigger>
+=======
+    <content><![CDATA[File::deleteDirectory(${1:directory}, ${2:preserve})]]></content>
+    <tabTrigger>File-deleteDirectory</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,10 @@
 <snippet>
+<<<<<<< HEAD
     <content><![CDATA[Config::set($key, $value)]]></content>
     <tabTrigger>Config::set($key, $value)</tabTrigger>
+=======
+    <content><![CDATA[Config::set(${1:key}, ${2:value})]]></content>
+    <tabTrigger>Config-set</tabTrigger>
+>>>>>>> 87168f0... Fix for params
     <scope>source.php</scope>
 </snippet>
