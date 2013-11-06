@@ -19,7 +19,7 @@ class Snippet
         $out = $this->class.'::'.$this->method.'(';
         foreach ($this->params as $i => $param) {
             if ($i != 0) $out .= ', ';
-            $out .= '$'.$param;
+            $out .= '${'.($i+1).':'.$param.'}';
         }
         $out .= ')';
 
