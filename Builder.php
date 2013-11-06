@@ -5,6 +5,7 @@ class Builder
 
     protected $app;
     public $snippets = [];
+    public $total;
 
     public function run()
     {
@@ -29,6 +30,8 @@ class Builder
         }
 
         $this->app->shutdown();
+        echo "-------------------------------------\n";
+        echo "     Generated ".$this->total." snippets\n";
         exit(0);
     }
 
@@ -53,7 +56,7 @@ class Builder
 
     protected function digestAlias($alias)
     {
-        echo $alias;
+        printf('%11s', $alias);
         $aliasReflection = new \ReflectionClass($alias);
         if ($aliasReflection->hasMethod('getFacadeRoot'))
         {
@@ -78,16 +81,17 @@ class Builder
         if ($alias == 'DB') {
             $this->factory($alias, $ref, true);
         }
-        $this->factory($alias, $aliasReflection);
-        $this->factory($alias, $ref);
-        echo " - OK \n";
+        $count = $this->factory($alias, $aliasReflection);
+        $count += $this->factory($alias, $ref);
+        // echo " - Total: ".$count." - OK \n";
+        printf(" - Total: %2d (Facade)\n", $count);
     }
 
     // The Special ones that are not inheriting from Illuminate\Support\Facades\Facade
     protected function digestClass($alias, $aliasReflection)
     {
-        echo " - Not really a facade \n";
-        $this->factory($alias, $aliasReflection, false, true);
+        $count = $this->factory($alias, $aliasReflection, false, true);
+        printf(" - Total: %2d (Class Alias)\n", $count);
     }
 
     protected function message($text)
@@ -104,6 +108,7 @@ class Builder
                         $allowInherited = false,
                         $onlyStatic = false)
     {
+        $count = 0;
         foreach ($ref->getMethods() as $i => $meth)
         {
             if (
@@ -127,8 +132,12 @@ class Builder
                 foreach ($meth->getParameters() as $i => $param) {
                     array_push($params, $param->name);
                 }
+                $count++;
+                $this->total++;
                 array_push($this->snippets, new Snippet($alias, $meth->name, $params));
             }
         }
+
+        return $count;
     }
 }
