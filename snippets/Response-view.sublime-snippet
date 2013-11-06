@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Response::view($view, $data, $status, $headers)]]></content>
+    <content><![CDATA[Response::view(${1:view}, ${2:data}, ${3:status}, ${4:headers})]]></content>
     <tabTrigger>Response-view</tabTrigger>
     <scope>source.php</scope>
 </snippet>

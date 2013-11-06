@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[DB::insert($query, $bindings)]]></content>
+    <content><![CDATA[DB::insert(${1:query}, ${2:bindings})]]></content>
     <tabTrigger>DB-insert</tabTrigger>
     <scope>source.php</scope>
 </snippet>

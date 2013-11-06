@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Request::flashExcept($keys)]]></content>
+    <content><![CDATA[Request::flashExcept(${1:keys})]]></content>
     <tabTrigger>Request-flashExcept</tabTrigger>
     <scope>source.php</scope>
 </snippet>

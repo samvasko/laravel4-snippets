@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[File::size($path)]]></content>
+    <content><![CDATA[File::size(${1:path})]]></content>
     <tabTrigger>File-size</tabTrigger>
     <scope>source.php</scope>
 </snippet>

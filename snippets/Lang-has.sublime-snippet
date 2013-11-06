@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Lang::has($key, $locale)]]></content>
+    <content><![CDATA[Lang::has(${1:key}, ${2:locale})]]></content>
     <tabTrigger>Lang-has</tabTrigger>
     <scope>source.php</scope>
 </snippet>

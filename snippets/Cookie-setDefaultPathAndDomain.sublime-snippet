@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Cookie::setDefaultPathAndDomain($path, $domain)]]></content>
+    <content><![CDATA[Cookie::setDefaultPathAndDomain(${1:path}, ${2:domain})]]></content>
     <tabTrigger>Cookie-setDefaultPathAndDomain</tabTrigger>
     <scope>source.php</scope>
 </snippet>

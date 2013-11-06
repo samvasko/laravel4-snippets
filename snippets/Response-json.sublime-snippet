@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Response::json($data, $status, $headers)]]></content>
+    <content><![CDATA[Response::json(${1:data}, ${2:status}, ${3:headers})]]></content>
     <tabTrigger>Response-json</tabTrigger>
     <scope>source.php</scope>
 </snippet>

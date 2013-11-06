@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[URL::asset($path, $secure)]]></content>
+    <content><![CDATA[URL::asset(${1:path}, ${2:secure})]]></content>
     <tabTrigger>URL-asset</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Paginator::setRequest($request)]]></content>
+    <content><![CDATA[Paginator::setRequest(${1:request})]]></content>
     <tabTrigger>Paginator-setRequest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

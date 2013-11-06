@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Eloquent::all($columns)]]></content>
+    <content><![CDATA[Eloquent::all(${1:columns})]]></content>
     <tabTrigger>Eloquent-all</tabTrigger>
     <scope>source.php</scope>
 </snippet>

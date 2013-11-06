@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[App::onRequest($method, $parameters)]]></content>
+    <content><![CDATA[App::onRequest(${1:method}, ${2:parameters})]]></content>
     <tabTrigger>App-onRequest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Auth::setProvider($provider)]]></content>
+    <content><![CDATA[Auth::setProvider(${1:provider})]]></content>
     <tabTrigger>Auth-setProvider</tabTrigger>
     <scope>source.php</scope>
 </snippet>

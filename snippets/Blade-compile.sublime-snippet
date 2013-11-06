@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Blade::compile($path)]]></content>
+    <content><![CDATA[Blade::compile(${1:path})]]></content>
     <tabTrigger>Blade-compile</tabTrigger>
     <scope>source.php</scope>
 </snippet>

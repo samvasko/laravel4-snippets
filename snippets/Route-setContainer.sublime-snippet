@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Route::setContainer($container)]]></content>
+    <content><![CDATA[Route::setContainer(${1:container})]]></content>
     <tabTrigger>Route-setContainer</tabTrigger>
     <scope>source.php</scope>
 </snippet>

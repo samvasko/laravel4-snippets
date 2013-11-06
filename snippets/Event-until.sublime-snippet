@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Event::until($event, $payload)]]></content>
+    <content><![CDATA[Event::until(${1:event}, ${2:payload})]]></content>
     <tabTrigger>Event-until</tabTrigger>
     <scope>source.php</scope>
 </snippet>

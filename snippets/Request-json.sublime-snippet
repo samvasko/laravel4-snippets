@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Request::json($key, $default)]]></content>
+    <content><![CDATA[Request::json(${1:key}, ${2:default})]]></content>
     <tabTrigger>Request-json</tabTrigger>
     <scope>source.php</scope>
 </snippet>

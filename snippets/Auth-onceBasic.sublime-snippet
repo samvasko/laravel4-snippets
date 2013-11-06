@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Auth::onceBasic($field, $request)]]></content>
+    <content><![CDATA[Auth::onceBasic(${1:field}, ${2:request})]]></content>
     <tabTrigger>Auth-onceBasic</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[URL::isValidUrl($path)]]></content>
+    <content><![CDATA[URL::isValidUrl(${1:path})]]></content>
     <tabTrigger>URL-isValidUrl</tabTrigger>
     <scope>source.php</scope>
 </snippet>

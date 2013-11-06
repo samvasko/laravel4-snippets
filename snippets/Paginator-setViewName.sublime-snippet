@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Paginator::setViewName($viewName)]]></content>
+    <content><![CDATA[Paginator::setViewName(${1:viewName})]]></content>
     <tabTrigger>Paginator-setViewName</tabTrigger>
     <scope>source.php</scope>
 </snippet>

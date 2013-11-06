@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[View::share($key, $value)]]></content>
+    <content><![CDATA[View::share(${1:key}, ${2:value})]]></content>
     <tabTrigger>View-share</tabTrigger>
     <scope>source.php</scope>
 </snippet>

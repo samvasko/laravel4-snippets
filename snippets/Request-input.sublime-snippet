@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Request::input($key, $default)]]></content>
+    <content><![CDATA[Request::input(${1:key}, ${2:default})]]></content>
     <tabTrigger>Request-input</tabTrigger>
     <scope>source.php</scope>
 </snippet>

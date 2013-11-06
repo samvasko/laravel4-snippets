@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[DB::getConfig($option)]]></content>
+    <content><![CDATA[DB::getConfig(${1:option})]]></content>
     <tabTrigger>DB-getConfig</tabTrigger>
     <scope>source.php</scope>
 </snippet>

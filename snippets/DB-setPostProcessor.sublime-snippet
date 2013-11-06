@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[DB::setPostProcessor($processor)]]></content>
+    <content><![CDATA[DB::setPostProcessor(${1:processor})]]></content>
     <tabTrigger>DB-setPostProcessor</tabTrigger>
     <scope>source.php</scope>
 </snippet>

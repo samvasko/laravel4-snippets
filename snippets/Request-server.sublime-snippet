@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Request::server($key, $default)]]></content>
+    <content><![CDATA[Request::server(${1:key}, ${2:default})]]></content>
     <tabTrigger>Request-server</tabTrigger>
     <scope>source.php</scope>
 </snippet>

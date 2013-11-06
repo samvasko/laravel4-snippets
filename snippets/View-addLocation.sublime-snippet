@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[View::addLocation($location)]]></content>
+    <content><![CDATA[View::addLocation(${1:location})]]></content>
     <tabTrigger>View-addLocation</tabTrigger>
     <scope>source.php</scope>
 </snippet>

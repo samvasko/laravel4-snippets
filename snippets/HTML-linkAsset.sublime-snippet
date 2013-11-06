@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[HTML::linkAsset($url, $title, $attributes, $secure)]]></content>
+    <content><![CDATA[HTML::linkAsset(${1:url}, ${2:title}, ${3:attributes}, ${4:secure})]]></content>
     <tabTrigger>HTML-linkAsset</tabTrigger>
     <scope>source.php</scope>
 </snippet>

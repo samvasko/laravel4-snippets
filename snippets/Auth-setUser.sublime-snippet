@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Auth::setUser($user)]]></content>
+    <content><![CDATA[Auth::setUser(${1:user})]]></content>
     <tabTrigger>Auth-setUser</tabTrigger>
     <scope>source.php</scope>
 </snippet>

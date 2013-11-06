@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Eloquent::on($connection)]]></content>
+    <content><![CDATA[Eloquent::on(${1:connection})]]></content>
     <tabTrigger>Eloquent-on</tabTrigger>
     <scope>source.php</scope>
 </snippet>

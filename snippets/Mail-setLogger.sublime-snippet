@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Mail::setLogger($logger)]]></content>
+    <content><![CDATA[Mail::setLogger(${1:logger})]]></content>
     <tabTrigger>Mail-setLogger</tabTrigger>
     <scope>source.php</scope>
 </snippet>

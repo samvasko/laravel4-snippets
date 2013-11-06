@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Input::hasFile($key)]]></content>
+    <content><![CDATA[Input::hasFile(${1:key})]]></content>
     <tabTrigger>Input-hasFile</tabTrigger>
     <scope>source.php</scope>
 </snippet>

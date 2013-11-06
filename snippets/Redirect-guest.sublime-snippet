@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Redirect::guest($path, $status, $headers, $secure)]]></content>
+    <content><![CDATA[Redirect::guest(${1:path}, ${2:status}, ${3:headers}, ${4:secure})]]></content>
     <tabTrigger>Redirect-guest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

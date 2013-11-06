@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[DB::select($query, $bindings)]]></content>
+    <content><![CDATA[DB::select(${1:query}, ${2:bindings})]]></content>
     <tabTrigger>DB-select</tabTrigger>
     <scope>source.php</scope>
 </snippet>

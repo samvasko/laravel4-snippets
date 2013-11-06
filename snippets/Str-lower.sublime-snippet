@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Str::lower($value)]]></content>
+    <content><![CDATA[Str::lower(${1:value})]]></content>
     <tabTrigger>Str-lower</tabTrigger>
     <scope>source.php</scope>
 </snippet>

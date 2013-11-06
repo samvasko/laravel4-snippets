@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[App::setLocale($locale)]]></content>
+    <content><![CDATA[App::setLocale(${1:locale})]]></content>
     <tabTrigger>App-setLocale</tabTrigger>
     <scope>source.php</scope>
 </snippet>
