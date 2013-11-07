@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Log::getEventDispatcher()]]></content>
-    <tabTrigger>Log-ged</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

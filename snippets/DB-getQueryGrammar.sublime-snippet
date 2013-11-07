@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::getQueryGrammar()]]></content>
-    <tabTrigger>DB-getQueryGrammar</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::enableFilters()]]></content>
-    <tabTrigger>Route-enableFilters</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

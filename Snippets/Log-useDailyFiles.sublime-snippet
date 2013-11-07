@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Log::useDailyFiles(${1:\$path}, ${2:\$days}, ${3:\$level})]]></content>
-    <tabTrigger>Log-udf</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

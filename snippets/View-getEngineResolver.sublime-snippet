@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[View::getEngineResolver()]]></content>
-    <tabTrigger>View-getEngineResolver</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[View::yieldSection()]]></content>
-    <tabTrigger>View-yieldSection</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

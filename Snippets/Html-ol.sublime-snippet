@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Html::ol(${1:\$list}, ${2:\$attributes})]]></content>
-    <tabTrigger>Html-ol</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

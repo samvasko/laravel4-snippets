@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[File::copy(${1:\$path}, ${2:\$target})]]></content>
-    <tabTrigger>File-copy</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

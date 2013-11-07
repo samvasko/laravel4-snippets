@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::isDownForMaintenance()]]></content>
-    <tabTrigger>App-isDownForMaintenance</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

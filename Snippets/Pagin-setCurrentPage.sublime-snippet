@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Paginator::setCurrentPage(${1:\$number})]]></content>
-    <tabTrigger>Pagin-scp</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

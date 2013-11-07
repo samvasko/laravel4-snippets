@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::redirectIfTrailingSlash()]]></content>
-    <tabTrigger>App-redirectIfTrailingSlash</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

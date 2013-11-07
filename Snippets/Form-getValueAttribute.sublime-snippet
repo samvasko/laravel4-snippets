@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Form::getValueAttribute(${1:\$name}, ${2:\$value})]]></content>
-    <tabTrigger>Form-gva</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

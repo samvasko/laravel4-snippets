@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Cookie::getRequest()]]></content>
-    <tabTrigger>Cookie-gr</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

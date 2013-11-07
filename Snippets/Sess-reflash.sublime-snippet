@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::reflash()]]></content>
-    <tabTrigger>Sess-reflash</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

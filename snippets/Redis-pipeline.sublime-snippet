@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Redis::pipeline()]]></content>
-    <tabTrigger>Redis-pipeline</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

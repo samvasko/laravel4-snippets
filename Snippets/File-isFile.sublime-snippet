@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[File::isFile(${1:\$file})]]></content>
-    <tabTrigger>File-if</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

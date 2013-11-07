@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Request::secure()]]></content>
-    <tabTrigger>Req-secure</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

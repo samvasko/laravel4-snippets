@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[View::addLocation(${1:\$location})]]></content>
-    <tabTrigger>View-al</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

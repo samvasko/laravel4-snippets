@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[File::isWritable(${1:\$path})]]></content>
-    <tabTrigger>File-iw</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

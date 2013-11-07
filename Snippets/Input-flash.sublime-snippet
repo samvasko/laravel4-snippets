@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Input::flash(${1:\$filter}, ${2:\$keys})]]></content>
-    <tabTrigger>Input-flash</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

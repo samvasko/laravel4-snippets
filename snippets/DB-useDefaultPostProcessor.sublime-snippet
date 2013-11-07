@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::useDefaultPostProcessor()]]></content>
-    <tabTrigger>DB-useDefaultPostProcessor</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

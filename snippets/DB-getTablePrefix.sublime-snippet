@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::getTablePrefix()]]></content>
-    <tabTrigger>DB-getTablePrefix</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
