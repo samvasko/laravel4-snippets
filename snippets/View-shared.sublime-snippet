@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::shared(${1:key}, ${2:default})]]></content>
+    <tabTrigger>View-shared</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

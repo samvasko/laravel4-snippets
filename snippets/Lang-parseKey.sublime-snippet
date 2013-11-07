@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::parseKey(${1:key})]]></content>
+    <tabTrigger>Lang-parseKey</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

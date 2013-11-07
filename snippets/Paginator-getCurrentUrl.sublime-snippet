@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::getCurrentUrl()]]></content>
+    <tabTrigger>Paginator-getCurrentUrl</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

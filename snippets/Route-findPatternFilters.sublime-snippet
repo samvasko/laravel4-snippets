@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::findPatternFilters(${1:method}, ${2:path})]]></content>
+    <tabTrigger>Route-findPatternFilters</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

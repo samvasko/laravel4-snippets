@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::title(${1:value})]]></content>
+    <tabTrigger>Str-title</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

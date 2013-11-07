@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::getNamespaces()]]></content>
+    <tabTrigger>Config-getNamespaces</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

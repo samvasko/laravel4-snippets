@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::with(${1:relations})]]></content>
+    <tabTrigger>Eloquent-with</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redirect::away(${1:path}, ${2:status}, ${3:headers})]]></content>
+    <tabTrigger>Redirect-away</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

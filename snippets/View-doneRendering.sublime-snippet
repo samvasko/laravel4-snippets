@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::doneRendering()]]></content>
+    <tabTrigger>View-doneRendering</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

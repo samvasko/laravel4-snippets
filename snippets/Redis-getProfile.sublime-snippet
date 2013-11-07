@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::getProfile()]]></content>
+    <tabTrigger>Redis-getProfile</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

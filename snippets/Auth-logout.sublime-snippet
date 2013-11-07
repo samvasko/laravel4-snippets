@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::logout()]]></content>
+    <tabTrigger>Auth-logout</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

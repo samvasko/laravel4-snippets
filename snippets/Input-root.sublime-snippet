@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::root()]]></content>
+    <tabTrigger>Input-root</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

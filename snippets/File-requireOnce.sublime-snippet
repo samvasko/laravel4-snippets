@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::requireOnce(${1:file})]]></content>
+    <tabTrigger>File-requireOnce</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::getName()]]></content>
+    <tabTrigger>Auth-getName</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

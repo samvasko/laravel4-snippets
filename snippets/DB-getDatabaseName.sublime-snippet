@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getDatabaseName()]]></content>
+    <tabTrigger>DB-getDatabaseName</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::pretend(${1:callback})]]></content>
+    <tabTrigger>DB-pretend</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

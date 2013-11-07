@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getFetchMode()]]></content>
+    <tabTrigger>DB-getFetchMode</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

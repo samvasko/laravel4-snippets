@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::getConnectionFactory()]]></content>
+    <tabTrigger>Redis-getConnectionFactory</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

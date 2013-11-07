@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::setEventDispatcher(${1:dispatcher})]]></content>
+    <tabTrigger>Eloquent-setEventDispatcher</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

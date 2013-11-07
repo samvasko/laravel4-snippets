@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::flush()]]></content>
+    <tabTrigger>Input-flush</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

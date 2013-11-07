@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[ClassLoader::getDirectories()]]></content>
+    <tabTrigger>ClassLoader-getDirectories</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::segments()]]></content>
+    <tabTrigger>Input-segments</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

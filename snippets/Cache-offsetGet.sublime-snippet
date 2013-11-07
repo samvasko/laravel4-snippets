@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::offsetGet(${1:key})]]></content>
+    <tabTrigger>Cache-offsetGet</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

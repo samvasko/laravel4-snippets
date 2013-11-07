@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::monitor()]]></content>
+    <tabTrigger>Redis-monitor</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

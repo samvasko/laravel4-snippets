@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::url()]]></content>
+    <tabTrigger>Input-url</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

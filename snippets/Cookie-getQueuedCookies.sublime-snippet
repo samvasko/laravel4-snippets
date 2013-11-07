@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::getQueuedCookies()]]></content>
+    <tabTrigger>Cookie-getQueuedCookies</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
