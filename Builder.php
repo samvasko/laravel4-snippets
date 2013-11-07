@@ -132,9 +132,10 @@ class Builder
                 foreach ($meth->getParameters() as $i => $param) {
                     array_push($params, $param->name);
                 }
+
                 $count++;
                 $this->total++;
-                array_push($this->snippets, new Snippet($alias, $meth->name, $params));
+                array_push($this->snippets, new Snippet($alias, $meth->name, $params, $meth->getDocComment()));
             }
         }
 

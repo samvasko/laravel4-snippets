@@ -2,33 +2,46 @@
 
 class Snippet
 {
-    function __construct($class, $method, $params)
+    function __construct($class, $method, $params, $comment)
     {
         $this->class = $class;
         $this->method = $method;
         $this->params = $params;
+        $comment = preg_replace('/(?<=\n)(\t|(    ))/', '', $comment);
     }
 
     /**
      * Transform the values into something like this
      * Form::email($param, $another)
-     * @return string [description]
+     * or
+     * Form::email(${1:param}, ${1:another})
      */
-    public function __toString()
+    public function full($tabs = false)
     {
-        $out = $this->class.'::'.$this->method.'(';
+        $out = $this->name().'(';
         foreach ($this->params as $i => $param) {
             if ($i != 0) $out .= ', ';
-            $out .= '${'.($i+1).':'.$param.'}';
+
+            // So you can jump over properties
+            if ($tabs) {
+                $out .= '${'.($i+1).':'.$param.'}';
+            } else {
+                $out .= '$'.$param;
+            }
         }
         $out .= ')';
 
         return $out;
     }
 
+    public function name($delim = '::')
+    {
+        return $this->class.$delim.$this->method;
+    }
+
     public function filename()
     {
-        return $this->class.'-'.$this->method.'.sublime-snippet';
+        return $this->name('-').'.sublime-snippet';
     }
 
     /**
@@ -39,7 +52,7 @@ class Snippet
     {
         return "<snippet>\n".
             "    <content><![CDATA[".$this."]]></content>\n".
-            "    <tabTrigger>".$this->class.'-'.$this->method."</tabTrigger>\n".
+            "    <tabTrigger>".$this->name('-')."</tabTrigger>\n".
             "    <scope>source.php</scope>\n".
             "</snippet>\n";
     }
