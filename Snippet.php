@@ -54,6 +54,7 @@ class Snippet
             "    <content><![CDATA[".$this->full(true)."]]></content>\n".
             "    <tabTrigger>".$this->name('-')."</tabTrigger>\n".
             "    <scope>source.php</scope>\n".
+            "    <description>Laravel4</description>\n".
             "</snippet>\n";
     }
 }
