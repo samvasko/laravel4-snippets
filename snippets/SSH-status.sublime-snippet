@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[SSH::status()]]></content>
+    <tabTrigger>SSH-status</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

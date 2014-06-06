@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::viaRemember()]]></content>
+    <tabTrigger>Auth-viaRemember</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

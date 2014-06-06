@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Log::write()]]></content>
+    <tabTrigger>Log-write</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

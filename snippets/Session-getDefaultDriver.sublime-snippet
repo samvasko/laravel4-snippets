@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::getDefaultDriver()]]></content>
+    <tabTrigger>Session-getDefaultDriver</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

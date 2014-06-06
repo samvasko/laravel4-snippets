@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Queue::pushRaw(${1:payload}, ${2:queue}, ${3:options})]]></content>
+    <tabTrigger>Queue-pushRaw</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::set(${1:name}, ${2:value})]]></content>
+    <tabTrigger>Session-set</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

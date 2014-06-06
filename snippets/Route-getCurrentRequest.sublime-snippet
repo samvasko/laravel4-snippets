@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::getCurrentRequest()]]></content>
+    <tabTrigger>Route-getCurrentRequest</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

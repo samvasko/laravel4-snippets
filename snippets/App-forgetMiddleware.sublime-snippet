@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::forgetMiddleware(${1:class})]]></content>
+    <tabTrigger>App-forgetMiddleware</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

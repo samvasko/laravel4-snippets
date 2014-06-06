@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::appendSection()]]></content>
+    <tabTrigger>View-appendSection</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

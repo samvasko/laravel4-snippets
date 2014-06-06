@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::replace(${1:attributes})]]></content>
+    <tabTrigger>Session-replace</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

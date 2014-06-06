@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[App::run()]]></content>
+    <content><![CDATA[App::run(${1:request})]]></content>
     <tabTrigger>App-run</tabTrigger>
     <scope>source.php</scope>
 </snippet>

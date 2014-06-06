@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Response::hasMacro(${1:name})]]></content>
+    <tabTrigger>Response-hasMacro</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

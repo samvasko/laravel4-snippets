@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::getViewFactory()]]></content>
+    <tabTrigger>Mail-getViewFactory</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

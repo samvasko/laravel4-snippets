@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::callRouteBefore(${1:route}, ${2:request})]]></content>
+    <tabTrigger>Route-callRouteBefore</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

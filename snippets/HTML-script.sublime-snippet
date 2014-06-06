@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[HTML::script(${1:url}, ${2:attributes})]]></content>
+    <content><![CDATA[HTML::script(${1:url}, ${2:attributes}, ${3:secure})]]></content>
     <tabTrigger>HTML-script</tabTrigger>
     <scope>source.php</scope>
 </snippet>

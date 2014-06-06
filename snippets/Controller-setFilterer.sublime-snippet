@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Controller::setFilterer(${1:filterer})]]></content>
+    <tabTrigger>Controller-setFilterer</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

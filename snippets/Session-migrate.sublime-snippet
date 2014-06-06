@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::migrate(${1:destroy}, ${2:lifetime})]]></content>
+    <tabTrigger>Session-migrate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

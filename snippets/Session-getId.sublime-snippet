@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::getId()]]></content>
+    <tabTrigger>Session-getId</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

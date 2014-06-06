@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::session()]]></content>
+    <tabTrigger>Request-session</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

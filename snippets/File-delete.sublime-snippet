@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[File::delete(${1:path})]]></content>
+    <content><![CDATA[File::delete(${1:paths})]]></content>
     <tabTrigger>File-delete</tabTrigger>
     <scope>source.php</scope>
 </snippet>

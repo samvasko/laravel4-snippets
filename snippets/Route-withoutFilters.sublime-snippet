@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::withoutFilters(${1:callback})]]></content>
+    <tabTrigger>Route-withoutFilters</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
