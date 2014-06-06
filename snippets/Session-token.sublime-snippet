@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::token()]]></content>
-    <tabTrigger>Session-token</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

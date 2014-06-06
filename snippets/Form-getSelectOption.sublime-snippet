@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Form::getSelectOption(${1:display}, ${2:value}, ${3:selected})]]></content>
-    <tabTrigger>Form-getSelectOption</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

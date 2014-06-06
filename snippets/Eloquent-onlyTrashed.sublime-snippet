@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Eloquent::onlyTrashed()]]></content>
-    <tabTrigger>Eloquent-onlyTrashed</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

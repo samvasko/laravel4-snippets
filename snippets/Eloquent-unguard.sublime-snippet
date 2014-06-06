@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Eloquent::unguard()]]></content>
-    <tabTrigger>Eloquent-unguard</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

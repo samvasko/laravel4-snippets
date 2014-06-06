@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Request::segments()]]></content>
-    <tabTrigger>Request-segments</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

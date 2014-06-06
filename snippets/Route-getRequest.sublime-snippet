@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::getRequest()]]></content>
-    <tabTrigger>Route-getRequest</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

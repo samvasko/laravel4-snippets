@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Input::format(${1:default})]]></content>
-    <tabTrigger>Input-format</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

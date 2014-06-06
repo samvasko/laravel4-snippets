@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Str::is(${1:pattern}, ${2:value})]]></content>
-    <tabTrigger>Str-is</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

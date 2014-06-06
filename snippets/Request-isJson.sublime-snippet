@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Request::isJson()]]></content>
-    <tabTrigger>Request-isJson</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

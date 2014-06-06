@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Config::getItems()]]></content>
-    <tabTrigger>Config-getItems</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

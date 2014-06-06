@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Form::button(${1:value}, ${2:options})]]></content>
-    <tabTrigger>Form-button</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

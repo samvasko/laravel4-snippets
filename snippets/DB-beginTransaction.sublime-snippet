@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::beginTransaction()]]></content>
-    <tabTrigger>DB-beginTransaction</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

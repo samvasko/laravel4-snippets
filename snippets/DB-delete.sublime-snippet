@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::delete(${1:query}, ${2:bindings})]]></content>
-    <tabTrigger>DB-delete</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

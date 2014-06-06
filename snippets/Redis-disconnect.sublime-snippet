@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Redis::disconnect()]]></content>
-    <tabTrigger>Redis-disconnect</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
