@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::model(${1:model}, ${2:options}) }}]]></content>
     <tabTrigger>form-model</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-model</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

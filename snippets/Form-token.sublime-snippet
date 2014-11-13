@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::token() }}]]></content>
     <tabTrigger>form-token</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-token</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

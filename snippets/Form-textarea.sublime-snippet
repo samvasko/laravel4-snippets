@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::textarea(${1:name}, ${2:value}, ${3:options}) }}]]></content>
     <tabTrigger>form-textarea</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-textarea</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

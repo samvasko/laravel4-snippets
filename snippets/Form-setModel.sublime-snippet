@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::setModel(${1:model}) }}]]></content>
     <tabTrigger>form-setModel</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-setModel</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

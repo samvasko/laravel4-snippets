@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::file(${1:name}, ${2:options}) }}]]></content>
     <tabTrigger>form-file</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-file</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

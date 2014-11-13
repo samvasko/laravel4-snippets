@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::close() }}]]></content>
     <tabTrigger>form-close</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-close</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

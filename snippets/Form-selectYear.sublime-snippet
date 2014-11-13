@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::selectYear() }}]]></content>
     <tabTrigger>form-selectYear</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-selectYear</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

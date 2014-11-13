@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::email(${1:name}, ${2:value}, ${3:options}) }}]]></content>
     <tabTrigger>form-email</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-email</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

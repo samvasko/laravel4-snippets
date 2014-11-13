@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::label(${1:name}, ${2:value}, ${3:options}) }}]]></content>
     <tabTrigger>form-label</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-label</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::reset(${1:value}, ${2:attributes}) }}]]></content>
     <tabTrigger>form-reset</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-reset</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

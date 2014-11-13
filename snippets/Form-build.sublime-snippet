@@ -1,19 +1,10 @@
 <snippet>
     <content><![CDATA[
-    	{{ Form::open([${1:key} => ${2:value}${3:, ${4:key} => ${5:value}}]) }}
-
-    	{{ Form::label(${6:for}, ${7:text}) }}
-    	{{ Form::text(${6:name}${9:, ${10:value}}${11:, [${12:attr} => ${13:value}]}) }}
-
-    	${14:{{ Form::label(${15:for}, ${16:text}) }}\}
-		${17:{{ Form::text(${15:name}${18:, ${19:value}}${20:, [${21:attr} => ${22:value}]}) }}\}
-
-    	{{ Form::submit(${23:value}) }}
-
-    	{{ Form::close() }}
-
-
+{{ Form::open([${1:key} => ${2:value}${3:, ${4:key} => ${5:value}}]) }}
+    $0
+{{ Form::close() }}
     	]]></content>
     <tabTrigger>form-build</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-build</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

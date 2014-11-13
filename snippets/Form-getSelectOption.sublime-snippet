@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::getSelectOption(${1:display}, ${2:value}, ${3:selected}) }}]]></content>
     <tabTrigger>form-getSelectOption</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-getSelectOption</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

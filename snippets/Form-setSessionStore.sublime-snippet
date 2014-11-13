@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ Form::setSessionStore(${1:session}) }}]]></content>
     <tabTrigger>form-setSessionStore</tabTrigger>
-    <scope>text.html.laravel-blade</scope>
+  	<description>laravel form-setSessionStore</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>
