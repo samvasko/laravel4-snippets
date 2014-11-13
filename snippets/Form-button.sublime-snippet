@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[{{ Form::button(${1:value}, ${2:options}) }}]]></content>
     <tabTrigger>form-button</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html.laravel-blade</scope>
 </snippet>

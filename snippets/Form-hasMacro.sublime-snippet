@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[{{ Form::hasMacro(${1:name}) }}]]></content>
     <tabTrigger>form-hasMacro</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html.laravel-blade</scope>
 </snippet>

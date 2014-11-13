@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[{{ Form::old(${1:name}) }}]]></content>
     <tabTrigger>form-old</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html.laravel-blade</scope>
 </snippet>

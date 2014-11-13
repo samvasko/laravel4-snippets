@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[{{ Form::getValueAttribute(${1:name}, ${2:value}) }}]]></content>
     <tabTrigger>form-getValueAttribute</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html.laravel-blade</scope>
 </snippet>
