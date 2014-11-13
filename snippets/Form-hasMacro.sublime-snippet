@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Form::hasMacro(${1:name})]]></content>
-    <tabTrigger>Form-hasMacro</tabTrigger>
+    <content><![CDATA[{{ Form::hasMacro(${1:name}) }}]]></content>
+    <tabTrigger>form-hasMacro</tabTrigger>
     <scope>source.php</scope>
 </snippet>

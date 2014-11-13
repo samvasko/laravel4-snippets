@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Form::oldInputIsEmpty()]]></content>
-    <tabTrigger>Form-oldInputIsEmpty</tabTrigger>
+    <content><![CDATA[{{ Form::oldInputIsEmpty() }}]]></content>
+    <tabTrigger>form-oldInputIsEmpty</tabTrigger>
     <scope>source.php</scope>
 </snippet>

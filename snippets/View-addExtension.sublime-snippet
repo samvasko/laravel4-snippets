@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::addExtension(${1:extension}, ${2:engine}, ${3:resolver})]]></content>
-    <tabTrigger>View-addExtension</tabTrigger>
+    <tabTrigger>view-addExtension</tabTrigger>
     <scope>source.php</scope>
 </snippet>

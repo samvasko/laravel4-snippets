@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[URL::setRequest(${1:request})]]></content>
-    <tabTrigger>URL-setRequest</tabTrigger>
+    <tabTrigger>url-setRequest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

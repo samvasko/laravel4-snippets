@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Form::token()]]></content>
-    <tabTrigger>Form-token</tabTrigger>
+    <content><![CDATA[{{ Form::token() }}]]></content>
+    <tabTrigger>form-token</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::ul(${1:list}, ${2:attributes})]]></content>
-    <tabTrigger>HTML-ul</tabTrigger>
+    <tabTrigger>html-ul</tabTrigger>
     <scope>source.php</scope>
 </snippet>

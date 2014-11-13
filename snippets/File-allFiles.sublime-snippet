@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::allFiles(${1:directory})]]></content>
-    <tabTrigger>File-allFiles</tabTrigger>
+    <tabTrigger>file-allFiles</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Crypt::setKey(${1:key})]]></content>
-    <tabTrigger>Crypt-setKey</tabTrigger>
+    <tabTrigger>crypt-setKey</tabTrigger>
     <scope>source.php</scope>
 </snippet>

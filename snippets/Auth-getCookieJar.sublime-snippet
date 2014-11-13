@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::getCookieJar()]]></content>
-    <tabTrigger>Auth-getCookieJar</tabTrigger>
+    <tabTrigger>auth-getCookieJar</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::setControllerDispatcher(${1:dispatcher})]]></content>
-    <tabTrigger>Route-setControllerDispatcher</tabTrigger>
+    <tabTrigger>route-setControllerDispatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

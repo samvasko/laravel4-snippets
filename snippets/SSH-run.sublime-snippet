@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[SSH::run(${1:commands}, ${2:callback})]]></content>
-    <tabTrigger>SSH-run</tabTrigger>
+    <tabTrigger>ssh-run</tabTrigger>
     <scope>source.php</scope>
 </snippet>

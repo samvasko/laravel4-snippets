@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Lang::getLocale()]]></content>
-    <tabTrigger>Lang-getLocale</tabTrigger>
+    <tabTrigger>lang-getLocale</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::isJson()]]></content>
-    <tabTrigger>Input-isJson</tabTrigger>
+    <tabTrigger>input-isJson</tabTrigger>
     <scope>source.php</scope>
 </snippet>

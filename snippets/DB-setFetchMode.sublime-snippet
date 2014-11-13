@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::setFetchMode(${1:fetchMode})]]></content>
-    <tabTrigger>DB-setFetchMode</tabTrigger>
+    <tabTrigger>db-setFetchMode</tabTrigger>
     <scope>source.php</scope>
 </snippet>

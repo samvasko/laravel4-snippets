@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[SSH::getOutput()]]></content>
-    <tabTrigger>SSH-getOutput</tabTrigger>
+    <tabTrigger>ssh-getOutput</tabTrigger>
     <scope>source.php</scope>
 </snippet>

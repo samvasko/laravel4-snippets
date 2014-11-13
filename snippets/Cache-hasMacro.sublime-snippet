@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cache::hasMacro(${1:name})]]></content>
-    <tabTrigger>Cache-hasMacro</tabTrigger>
+    <tabTrigger>cache-hasMacro</tabTrigger>
     <scope>source.php</scope>
 </snippet>

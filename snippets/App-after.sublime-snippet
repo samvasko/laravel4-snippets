@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::after(${1:callback})]]></content>
-    <tabTrigger>App-after</tabTrigger>
+    <tabTrigger>app-after</tabTrigger>
     <scope>source.php</scope>
 </snippet>

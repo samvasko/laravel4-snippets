@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::fullUrl()]]></content>
-    <tabTrigger>Input-fullUrl</tabTrigger>
+    <tabTrigger>input-fullUrl</tabTrigger>
     <scope>source.php</scope>
 </snippet>

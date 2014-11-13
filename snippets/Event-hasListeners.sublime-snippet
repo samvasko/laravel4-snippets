@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Event::hasListeners(${1:eventName})]]></content>
-    <tabTrigger>Event-hasListeners</tabTrigger>
+    <tabTrigger>event-hasListeners</tabTrigger>
     <scope>source.php</scope>
 </snippet>

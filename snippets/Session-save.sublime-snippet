@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::save()]]></content>
-    <tabTrigger>Session-save</tabTrigger>
+    <tabTrigger>session-save</tabTrigger>
     <scope>source.php</scope>
 </snippet>

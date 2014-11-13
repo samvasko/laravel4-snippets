@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[URL::forceRootUrl(${1:root})]]></content>
-    <tabTrigger>URL-forceRootUrl</tabTrigger>
+    <tabTrigger>url-forceRootUrl</tabTrigger>
     <scope>source.php</scope>
 </snippet>

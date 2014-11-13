@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::root()]]></content>
-    <tabTrigger>Request-root</tabTrigger>
+    <tabTrigger>request-root</tabTrigger>
     <scope>source.php</scope>
 </snippet>

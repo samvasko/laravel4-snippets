@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::prepend(${1:path}, ${2:data})]]></content>
-    <tabTrigger>File-prepend</tabTrigger>
+    <tabTrigger>file-prepend</tabTrigger>
     <scope>source.php</scope>
 </snippet>

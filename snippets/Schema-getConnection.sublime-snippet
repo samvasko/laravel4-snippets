@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Schema::getConnection()]]></content>
-    <tabTrigger>Schema-getConnection</tabTrigger>
+    <tabTrigger>schema-getConnection</tabTrigger>
     <scope>source.php</scope>
 </snippet>

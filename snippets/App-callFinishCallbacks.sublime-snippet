@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::callFinishCallbacks(${1:request}, ${2:response})]]></content>
-    <tabTrigger>App-callFinishCallbacks</tabTrigger>
+    <tabTrigger>app-callFinishCallbacks</tabTrigger>
     <scope>source.php</scope>
 </snippet>

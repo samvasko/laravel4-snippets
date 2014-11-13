@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::ageFlashData()]]></content>
-    <tabTrigger>Session-ageFlashData</tabTrigger>
+    <tabTrigger>session-ageFlashData</tabTrigger>
     <scope>source.php</scope>
 </snippet>

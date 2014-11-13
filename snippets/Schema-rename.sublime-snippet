@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Schema::rename(${1:from}, ${2:to})]]></content>
-    <tabTrigger>Schema-rename</tabTrigger>
+    <tabTrigger>schema-rename</tabTrigger>
     <scope>source.php</scope>
 </snippet>

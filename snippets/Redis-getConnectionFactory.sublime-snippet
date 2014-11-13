@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::getConnectionFactory()]]></content>
-    <tabTrigger>Redis-getConnectionFactory</tabTrigger>
+    <tabTrigger>redis-getConnectionFactory</tabTrigger>
     <scope>source.php</scope>
 </snippet>

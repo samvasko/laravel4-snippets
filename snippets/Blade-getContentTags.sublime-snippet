@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Blade::getContentTags()]]></content>
-    <tabTrigger>Blade-getContentTags</tabTrigger>
+    <tabTrigger>blade-getContentTags</tabTrigger>
     <scope>source.php</scope>
 </snippet>

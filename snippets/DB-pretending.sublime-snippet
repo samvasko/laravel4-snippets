@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::pretending()]]></content>
-    <tabTrigger>DB-pretending</tabTrigger>
+    <tabTrigger>db-pretending</tabTrigger>
     <scope>source.php</scope>
 </snippet>

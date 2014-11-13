@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::when(${1:pattern}, ${2:name}, ${3:methods})]]></content>
-    <tabTrigger>Route-when</tabTrigger>
+    <tabTrigger>route-when</tabTrigger>
     <scope>source.php</scope>
 </snippet>

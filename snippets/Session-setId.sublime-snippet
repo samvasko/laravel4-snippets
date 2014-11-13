@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::setId(${1:id})]]></content>
-    <tabTrigger>Session-setId</tabTrigger>
+    <tabTrigger>session-setId</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[SSH::display(${1:line})]]></content>
-    <tabTrigger>SSH-display</tabTrigger>
+    <tabTrigger>ssh-display</tabTrigger>
     <scope>source.php</scope>
 </snippet>

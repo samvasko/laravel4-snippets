@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::commit()]]></content>
-    <tabTrigger>DB-commit</tabTrigger>
+    <tabTrigger>db-commit</tabTrigger>
     <scope>source.php</scope>
 </snippet>

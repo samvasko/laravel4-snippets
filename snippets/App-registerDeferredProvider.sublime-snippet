@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::registerDeferredProvider(${1:provider}, ${2:service})]]></content>
-    <tabTrigger>App-registerDeferredProvider</tabTrigger>
+    <tabTrigger>app-registerDeferredProvider</tabTrigger>
     <scope>source.php</scope>
 </snippet>

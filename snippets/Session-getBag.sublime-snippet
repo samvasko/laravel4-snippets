@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::getBag(${1:name})]]></content>
-    <tabTrigger>Session-getBag</tabTrigger>
+    <tabTrigger>session-getBag</tabTrigger>
     <scope>source.php</scope>
 </snippet>

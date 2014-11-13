@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Log::write()]]></content>
-    <tabTrigger>Log-write</tabTrigger>
+    <tabTrigger>log-write</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[File::isFile(${1:file})]]></content>
-    <tabTrigger>File-isFile</tabTrigger>
+    <tabTrigger>file-isFile</tabTrigger>
     <scope>source.php</scope>
 </snippet>

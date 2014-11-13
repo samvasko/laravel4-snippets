@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::macro(${1:name}, ${2:macro})]]></content>
-    <tabTrigger>Str-macro</tabTrigger>
+    <tabTrigger>str-macro</tabTrigger>
     <scope>source.php</scope>
 </snippet>

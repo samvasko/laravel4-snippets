@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::unsetConnectionResolver()]]></content>
-    <tabTrigger>Eloquent-unsetConnectionResolver</tabTrigger>
+    <tabTrigger>eloquent-unsetConnectionResolver</tabTrigger>
     <scope>source.php</scope>
 </snippet>

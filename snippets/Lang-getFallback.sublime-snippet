@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Lang::getFallback()]]></content>
-    <tabTrigger>Lang-getFallback</tabTrigger>
+    <tabTrigger>lang-getFallback</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Str::parseCallback(${1:callback}, ${2:default})]]></content>
-    <tabTrigger>Str-parseCallback</tabTrigger>
+    <tabTrigger>str-parseCallback</tabTrigger>
     <scope>source.php</scope>
 </snippet>

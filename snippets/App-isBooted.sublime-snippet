@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::isBooted()]]></content>
-    <tabTrigger>App-isBooted</tabTrigger>
+    <tabTrigger>app-isBooted</tabTrigger>
     <scope>source.php</scope>
 </snippet>

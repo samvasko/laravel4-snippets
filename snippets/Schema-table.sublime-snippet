@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Schema::table(${1:table}, ${2:callback})]]></content>
-    <tabTrigger>Schema-table</tabTrigger>
+    <tabTrigger>schema-table</tabTrigger>
     <scope>source.php</scope>
 </snippet>

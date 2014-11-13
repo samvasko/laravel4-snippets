@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::getEventDispatcher()]]></content>
-    <tabTrigger>DB-getEventDispatcher</tabTrigger>
+    <tabTrigger>db-getEventDispatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

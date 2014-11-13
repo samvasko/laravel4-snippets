@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::isConnected()]]></content>
-    <tabTrigger>Redis-isConnected</tabTrigger>
+    <tabTrigger>redis-isConnected</tabTrigger>
     <scope>source.php</scope>
 </snippet>

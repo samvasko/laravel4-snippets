@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[SSH::get(${1:remote}, ${2:local})]]></content>
-    <tabTrigger>SSH-get</tabTrigger>
+    <tabTrigger>ssh-get</tabTrigger>
     <scope>source.php</scope>
 </snippet>

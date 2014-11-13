@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::setRequest(${1:request})]]></content>
-    <tabTrigger>Auth-setRequest</tabTrigger>
+    <tabTrigger>auth-setRequest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Lang::getLoader()]]></content>
-    <tabTrigger>Lang-getLoader</tabTrigger>
+    <tabTrigger>lang-getLoader</tabTrigger>
     <scope>source.php</scope>
 </snippet>

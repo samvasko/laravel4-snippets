@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[SoftDeletingTrait::restoring(${1:callback})]]></content>
-    <tabTrigger>SoftDeletingTrait-restoring</tabTrigger>
+    <tabTrigger>softDeletingTrait-restoring</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redirect::back(${1:status}, ${2:headers})]]></content>
-    <tabTrigger>Redirect-back</tabTrigger>
+    <tabTrigger>redirect-back</tabTrigger>
     <scope>source.php</scope>
 </snippet>

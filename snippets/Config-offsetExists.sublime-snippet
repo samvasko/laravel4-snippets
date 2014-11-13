@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Config::offsetExists(${1:key})]]></content>
-    <tabTrigger>Config-offsetExists</tabTrigger>
+    <tabTrigger>config-offsetExists</tabTrigger>
     <scope>source.php</scope>
 </snippet>

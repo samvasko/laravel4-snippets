@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::getClientFor(${1:connectionID})]]></content>
-    <tabTrigger>Redis-getClientFor</tabTrigger>
+    <tabTrigger>redis-getClientFor</tabTrigger>
     <scope>source.php</scope>
 </snippet>

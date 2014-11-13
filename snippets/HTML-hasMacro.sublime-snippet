@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::hasMacro(${1:name})]]></content>
-    <tabTrigger>HTML-hasMacro</tabTrigger>
+    <tabTrigger>html-hasMacro</tabTrigger>
     <scope>source.php</scope>
 </snippet>

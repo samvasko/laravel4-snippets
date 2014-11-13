@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::is()]]></content>
-    <tabTrigger>Input-is</tabTrigger>
+    <tabTrigger>input-is</tabTrigger>
     <scope>source.php</scope>
 </snippet>

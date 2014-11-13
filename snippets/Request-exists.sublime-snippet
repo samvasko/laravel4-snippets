@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::exists(${1:key})]]></content>
-    <tabTrigger>Request-exists</tabTrigger>
+    <tabTrigger>request-exists</tabTrigger>
     <scope>source.php</scope>
 </snippet>

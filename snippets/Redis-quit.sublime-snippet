@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::quit()]]></content>
-    <tabTrigger>Redis-quit</tabTrigger>
+    <tabTrigger>redis-quit</tabTrigger>
     <scope>source.php</scope>
 </snippet>

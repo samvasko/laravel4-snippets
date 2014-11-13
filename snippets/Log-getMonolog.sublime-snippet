@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Log::getMonolog()]]></content>
-    <tabTrigger>Log-getMonolog</tabTrigger>
+    <tabTrigger>log-getMonolog</tabTrigger>
     <scope>source.php</scope>
 </snippet>

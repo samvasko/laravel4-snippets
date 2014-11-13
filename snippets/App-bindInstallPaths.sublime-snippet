@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::bindInstallPaths(${1:paths})]]></content>
-    <tabTrigger>App-bindInstallPaths</tabTrigger>
+    <tabTrigger>app-bindInstallPaths</tabTrigger>
     <scope>source.php</scope>
 </snippet>

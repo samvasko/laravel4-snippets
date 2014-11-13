@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::getDoctrineSchemaManager()]]></content>
-    <tabTrigger>DB-getDoctrineSchemaManager</tabTrigger>
+    <tabTrigger>db-getDoctrineSchemaManager</tabTrigger>
     <scope>source.php</scope>
 </snippet>

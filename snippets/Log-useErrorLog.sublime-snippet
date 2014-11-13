@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Log::useErrorLog(${1:level}, ${2:messageType})]]></content>
-    <tabTrigger>Log-useErrorLog</tabTrigger>
+    <tabTrigger>log-useErrorLog</tabTrigger>
     <scope>source.php</scope>
 </snippet>

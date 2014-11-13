@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cache::pull(${1:key}, ${2:default})]]></content>
-    <tabTrigger>Cache-pull</tabTrigger>
+    <tabTrigger>cache-pull</tabTrigger>
     <scope>source.php</scope>
 </snippet>

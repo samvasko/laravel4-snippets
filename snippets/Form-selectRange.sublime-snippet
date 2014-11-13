@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Form::selectRange(${1:name}, ${2:begin}, ${3:end}, ${4:selected}, ${5:options})]]></content>
-    <tabTrigger>Form-selectRange</tabTrigger>
+    <content><![CDATA[{{ Form::selectRange(${1:name}, ${2:begin}, ${3:end}, ${4:selected}, ${5:options}) }}]]></content>
+    <tabTrigger>form-selectRange</tabTrigger>
     <scope>source.php</scope>
 </snippet>

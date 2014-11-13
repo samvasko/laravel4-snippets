@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::keep(${1:keys})]]></content>
-    <tabTrigger>Session-keep</tabTrigger>
+    <tabTrigger>session-keep</tabTrigger>
     <scope>source.php</scope>
 </snippet>

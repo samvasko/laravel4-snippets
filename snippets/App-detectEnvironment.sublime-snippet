@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::detectEnvironment(${1:envs})]]></content>
-    <tabTrigger>App-detectEnvironment</tabTrigger>
+    <tabTrigger>app-detectEnvironment</tabTrigger>
     <scope>source.php</scope>
 </snippet>

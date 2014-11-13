@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::setDefaultDriver(${1:name})]]></content>
-    <tabTrigger>Auth-setDefaultDriver</tabTrigger>
+    <tabTrigger>auth-setDefaultDriver</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Mail::failures()]]></content>
-    <tabTrigger>Mail-failures</tabTrigger>
+    <tabTrigger>mail-failures</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::reguard()]]></content>
-    <tabTrigger>Eloquent-reguard</tabTrigger>
+    <tabTrigger>eloquent-reguard</tabTrigger>
     <scope>source.php</scope>
 </snippet>

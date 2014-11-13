@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Form::selectYear()]]></content>
-    <tabTrigger>Form-selectYear</tabTrigger>
+    <content><![CDATA[{{ Form::selectYear() }}]]></content>
+    <tabTrigger>form-selectYear</tabTrigger>
     <scope>source.php</scope>
 </snippet>

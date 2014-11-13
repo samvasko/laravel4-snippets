@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Config::addNamespace(${1:namespace}, ${2:hint})]]></content>
-    <tabTrigger>Config-addNamespace</tabTrigger>
+    <tabTrigger>config-addNamespace</tabTrigger>
     <scope>source.php</scope>
 </snippet>

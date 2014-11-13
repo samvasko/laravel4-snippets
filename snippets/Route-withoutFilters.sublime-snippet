@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Route::withoutFilters(${1:callback})]]></content>
-    <tabTrigger>Route-withoutFilters</tabTrigger>
+    <tabTrigger>route-withoutFilters</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Form::email(${1:name}, ${2:value}, ${3:options})]]></content>
-    <tabTrigger>Form-email</tabTrigger>
+    <content><![CDATA[{{ Form::email(${1:name}, ${2:value}, ${3:options}) }}]]></content>
+    <tabTrigger>form-email</tabTrigger>
     <scope>source.php</scope>
 </snippet>

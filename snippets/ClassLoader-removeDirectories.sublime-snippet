@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[ClassLoader::removeDirectories(${1:directories})]]></content>
-    <tabTrigger>ClassLoader-removeDirectories</tabTrigger>
+    <tabTrigger>classLoader-removeDirectories</tabTrigger>
     <scope>source.php</scope>
 </snippet>

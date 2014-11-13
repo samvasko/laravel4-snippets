@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::flush()]]></content>
-    <tabTrigger>Session-flush</tabTrigger>
+    <tabTrigger>session-flush</tabTrigger>
     <scope>source.php</scope>
 </snippet>

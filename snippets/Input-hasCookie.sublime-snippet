@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::hasCookie(${1:key})]]></content>
-    <tabTrigger>Input-hasCookie</tabTrigger>
+    <tabTrigger>input-hasCookie</tabTrigger>
     <scope>source.php</scope>
 </snippet>

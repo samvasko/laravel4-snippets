@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::requestClass(${1:class})]]></content>
-    <tabTrigger>App-requestClass</tabTrigger>
+    <tabTrigger>app-requestClass</tabTrigger>
     <scope>source.php</scope>
 </snippet>

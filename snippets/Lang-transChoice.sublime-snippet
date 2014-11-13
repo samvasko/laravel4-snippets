@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Lang::transChoice(${1:id}, ${2:number}, ${3:parameters}, ${4:domain}, ${5:locale})]]></content>
-    <tabTrigger>Lang-transChoice</tabTrigger>
+    <tabTrigger>lang-transChoice</tabTrigger>
     <scope>source.php</scope>
 </snippet>

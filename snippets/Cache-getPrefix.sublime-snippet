@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cache::getPrefix()]]></content>
-    <tabTrigger>Cache-getPrefix</tabTrigger>
+    <tabTrigger>cache-getPrefix</tabTrigger>
     <scope>source.php</scope>
 </snippet>

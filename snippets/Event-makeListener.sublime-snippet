@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Event::makeListener(${1:listener})]]></content>
-    <tabTrigger>Event-makeListener</tabTrigger>
+    <tabTrigger>event-makeListener</tabTrigger>
     <scope>source.php</scope>
 </snippet>

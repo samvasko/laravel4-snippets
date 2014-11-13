@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::booting(${1:callback})]]></content>
-    <tabTrigger>App-booting</tabTrigger>
+    <tabTrigger>app-booting</tabTrigger>
     <scope>source.php</scope>
 </snippet>

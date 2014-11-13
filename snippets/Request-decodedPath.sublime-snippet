@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::decodedPath()]]></content>
-    <tabTrigger>Request-decodedPath</tabTrigger>
+    <tabTrigger>request-decodedPath</tabTrigger>
     <scope>source.php</scope>
 </snippet>

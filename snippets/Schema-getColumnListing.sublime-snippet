@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Schema::getColumnListing(${1:table})]]></content>
-    <tabTrigger>Schema-getColumnListing</tabTrigger>
+    <tabTrigger>schema-getColumnListing</tabTrigger>
     <scope>source.php</scope>
 </snippet>

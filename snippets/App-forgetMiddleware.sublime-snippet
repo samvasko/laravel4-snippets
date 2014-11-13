@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[App::forgetMiddleware(${1:class})]]></content>
-    <tabTrigger>App-forgetMiddleware</tabTrigger>
+    <tabTrigger>app-forgetMiddleware</tabTrigger>
     <scope>source.php</scope>
 </snippet>

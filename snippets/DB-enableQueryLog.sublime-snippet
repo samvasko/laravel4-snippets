@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::enableQueryLog()]]></content>
-    <tabTrigger>DB-enableQueryLog</tabTrigger>
+    <tabTrigger>db-enableQueryLog</tabTrigger>
     <scope>source.php</scope>
 </snippet>

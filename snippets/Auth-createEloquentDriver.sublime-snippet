@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::createEloquentDriver()]]></content>
-    <tabTrigger>Auth-createEloquentDriver</tabTrigger>
+    <tabTrigger>auth-createEloquentDriver</tabTrigger>
     <scope>source.php</scope>
 </snippet>

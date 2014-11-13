@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::appendSection()]]></content>
-    <tabTrigger>View-appendSection</tabTrigger>
+    <tabTrigger>view-appendSection</tabTrigger>
     <scope>source.php</scope>
 </snippet>

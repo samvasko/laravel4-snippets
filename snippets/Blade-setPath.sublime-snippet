@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Blade::setPath(${1:path})]]></content>
-    <tabTrigger>Blade-setPath</tabTrigger>
+    <tabTrigger>blade-setPath</tabTrigger>
     <scope>source.php</scope>
 </snippet>

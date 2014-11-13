@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Session::setExists(${1:value})]]></content>
-    <tabTrigger>Session-setExists</tabTrigger>
+    <tabTrigger>session-setExists</tabTrigger>
     <scope>source.php</scope>
 </snippet>

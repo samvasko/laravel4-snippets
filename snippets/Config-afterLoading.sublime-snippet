@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Config::afterLoading(${1:namespace}, ${2:callback})]]></content>
-    <tabTrigger>Config-afterLoading</tabTrigger>
+    <tabTrigger>config-afterLoading</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::secure()]]></content>
-    <tabTrigger>Request-secure</tabTrigger>
+    <tabTrigger>request-secure</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::transactionLevel()]]></content>
-    <tabTrigger>DB-transactionLevel</tabTrigger>
+    <tabTrigger>db-transactionLevel</tabTrigger>
     <scope>source.php</scope>
 </snippet>

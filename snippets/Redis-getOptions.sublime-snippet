@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::getOptions()]]></content>
-    <tabTrigger>Redis-getOptions</tabTrigger>
+    <tabTrigger>redis-getOptions</tabTrigger>
     <scope>source.php</scope>
 </snippet>

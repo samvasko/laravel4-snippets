@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::ajax()]]></content>
-    <tabTrigger>Request-ajax</tabTrigger>
+    <tabTrigger>request-ajax</tabTrigger>
     <scope>source.php</scope>
 </snippet>

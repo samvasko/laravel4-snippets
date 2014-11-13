@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[URL::setGenerator(${1:generator})]]></content>
-    <tabTrigger>URL-setGenerator</tabTrigger>
+    <tabTrigger>url-setGenerator</tabTrigger>
     <scope>source.php</scope>
 </snippet>

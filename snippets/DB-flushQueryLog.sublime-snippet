@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::flushQueryLog()]]></content>
-    <tabTrigger>DB-flushQueryLog</tabTrigger>
+    <tabTrigger>db-flushQueryLog</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::connect()]]></content>
-    <tabTrigger>Redis-connect</tabTrigger>
+    <tabTrigger>redis-connect</tabTrigger>
     <scope>source.php</scope>
 </snippet>

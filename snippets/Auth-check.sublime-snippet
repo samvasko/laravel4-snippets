@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::check()]]></content>
-    <tabTrigger>Auth-check</tabTrigger>
+    <tabTrigger>auth-check</tabTrigger>
     <scope>source.php</scope>
 </snippet>

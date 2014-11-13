@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::fullUrl()]]></content>
-    <tabTrigger>Request-fullUrl</tabTrigger>
+    <tabTrigger>request-fullUrl</tabTrigger>
     <scope>source.php</scope>
 </snippet>

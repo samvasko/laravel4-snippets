@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Blade::getPath()]]></content>
-    <tabTrigger>Blade-getPath</tabTrigger>
+    <tabTrigger>blade-getPath</tabTrigger>
     <scope>source.php</scope>
 </snippet>

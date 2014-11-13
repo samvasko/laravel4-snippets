@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Event::listen(${1:events}, ${2:listener}, ${3:priority})]]></content>
-    <tabTrigger>Event-listen</tabTrigger>
+    <tabTrigger>event-listen</tabTrigger>
     <scope>source.php</scope>
 </snippet>

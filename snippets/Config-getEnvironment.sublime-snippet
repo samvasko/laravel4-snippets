@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Config::getEnvironment()]]></content>
-    <tabTrigger>Config-getEnvironment</tabTrigger>
+    <tabTrigger>config-getEnvironment</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Input::flashExcept(${1:keys})]]></content>
-    <tabTrigger>Input-flashExcept</tabTrigger>
+    <tabTrigger>input-flashExcept</tabTrigger>
     <scope>source.php</scope>
 </snippet>

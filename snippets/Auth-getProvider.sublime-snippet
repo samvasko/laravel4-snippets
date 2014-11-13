@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Auth::getProvider()]]></content>
-    <tabTrigger>Auth-getProvider</tabTrigger>
+    <tabTrigger>auth-getProvider</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::incrementRender()]]></content>
-    <tabTrigger>View-incrementRender</tabTrigger>
+    <tabTrigger>view-incrementRender</tabTrigger>
     <scope>source.php</scope>
 </snippet>

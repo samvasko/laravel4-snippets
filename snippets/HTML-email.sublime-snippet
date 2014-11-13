@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[HTML::email(${1:email})]]></content>
-    <tabTrigger>HTML-email</tabTrigger>
+    <tabTrigger>html-email</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Cookie::getRequest()]]></content>
-    <tabTrigger>Cookie-getRequest</tabTrigger>
+    <tabTrigger>cookie-getRequest</tabTrigger>
     <scope>source.php</scope>
 </snippet>

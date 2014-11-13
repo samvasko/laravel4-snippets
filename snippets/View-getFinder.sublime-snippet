@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[View::getFinder()]]></content>
-    <tabTrigger>View-getFinder</tabTrigger>
+    <tabTrigger>view-getFinder</tabTrigger>
     <scope>source.php</scope>
 </snippet>

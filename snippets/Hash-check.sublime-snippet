@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Hash::check(${1:value}, ${2:hashedValue}, ${3:options})]]></content>
-    <tabTrigger>Hash-check</tabTrigger>
+    <tabTrigger>hash-check</tabTrigger>
     <scope>source.php</scope>
 </snippet>

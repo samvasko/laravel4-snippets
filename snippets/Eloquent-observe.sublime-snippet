@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::observe(${1:class})]]></content>
-    <tabTrigger>Eloquent-observe</tabTrigger>
+    <tabTrigger>eloquent-observe</tabTrigger>
     <scope>source.php</scope>
 </snippet>

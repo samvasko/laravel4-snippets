@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[SSH::status()]]></content>
-    <tabTrigger>SSH-status</tabTrigger>
+    <tabTrigger>ssh-status</tabTrigger>
     <scope>source.php</scope>
 </snippet>

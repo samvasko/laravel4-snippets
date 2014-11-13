@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::firstOrCreate(${1:attributes})]]></content>
-    <tabTrigger>Eloquent-firstOrCreate</tabTrigger>
+    <tabTrigger>eloquent-firstOrCreate</tabTrigger>
     <scope>source.php</scope>
 </snippet>

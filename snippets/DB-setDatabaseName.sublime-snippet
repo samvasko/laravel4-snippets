@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[DB::setDatabaseName(${1:database})]]></content>
-    <tabTrigger>DB-setDatabaseName</tabTrigger>
+    <tabTrigger>db-setDatabaseName</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Request::hasSessionStore()]]></content>
-    <tabTrigger>Request-hasSessionStore</tabTrigger>
+    <tabTrigger>request-hasSessionStore</tabTrigger>
     <scope>source.php</scope>
 </snippet>

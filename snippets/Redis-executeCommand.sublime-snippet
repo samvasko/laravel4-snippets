@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Redis::executeCommand(${1:command})]]></content>
-    <tabTrigger>Redis-executeCommand</tabTrigger>
+    <tabTrigger>redis-executeCommand</tabTrigger>
     <scope>source.php</scope>
 </snippet>

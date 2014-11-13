@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Config::getAfterLoadCallbacks()]]></content>
-    <tabTrigger>Config-getAfterLoadCallbacks</tabTrigger>
+    <tabTrigger>config-getAfterLoadCallbacks</tabTrigger>
     <scope>source.php</scope>
 </snippet>
