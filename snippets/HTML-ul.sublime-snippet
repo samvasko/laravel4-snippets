@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[HTML::ul(${1:list}, ${2:attributes})]]></content>
+    <content><![CDATA[{{ HTML::ul(${1:list}, ${2:attributes}) }}]]></content>
     <tabTrigger>html-ul</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html.laravel-blade</scope>
 </snippet>

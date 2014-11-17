@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::linkAction(${1:action}, ${2:title}, ${3:parameters}, ${4:attributes})]]></content>
+    <content><![CDATA[{{ HTML::linkAction(${1:action}, ${2:title}, ${3:parameters}, ${4:attributes}) }}]]></content>
     <tabTrigger>html-linkAction</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-linkAction</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::secureLink(${1:url}, ${2:title}, ${3:attributes})]]></content>
+    <content><![CDATA[{{ HTML::secureLink(${1:url}, ${2:title}, ${3:attributes}) }}]]></content>
     <tabTrigger>html-secureLink</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-secLink</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

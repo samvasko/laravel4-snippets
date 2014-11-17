@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::macro(${1:name}, ${2:macro})]]></content>
+    <content><![CDATA[{{ HTML::macro(${1:name}, ${2:macro}) }}]]></content>
     <tabTrigger>html-macro</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-macro</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

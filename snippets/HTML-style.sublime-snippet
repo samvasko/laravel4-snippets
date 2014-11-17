@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::style(${1:url}, ${2:attributes}, ${3:secure})]]></content>
+    <content><![CDATA[{{ HTML::style(${1:url}, ${2:attributes}, ${3:secure}) }}]]></content>
     <tabTrigger>html-style</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-style</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

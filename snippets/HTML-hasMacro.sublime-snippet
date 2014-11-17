@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::hasMacro(${1:name})]]></content>
+    <content><![CDATA[{{ HTML::hasMacro(${1:name}) }}]]></content>
     <tabTrigger>html-hasMacro</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-hasMacro</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::email(${1:email})]]></content>
+    <content><![CDATA[{{ HTML::email(${1:email}) }}]]></content>
     <tabTrigger>html-email</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-email</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>

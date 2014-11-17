@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::ol(${1:list}, ${2:attributes})]]></content>
+    <content><![CDATA[{{ HTML::ol(${1:list}, ${2:attributes}) }}]]></content>
     <tabTrigger>html-ol</tabTrigger>
-    <scope>source.php</scope>
+  	<description>laravel html-ol</description>
+  	<scope>text.html.laravel-blade</scope>
 </snippet>
