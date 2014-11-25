@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->withInput($0)]]></content>
+    <tabTrigger>withinput</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
