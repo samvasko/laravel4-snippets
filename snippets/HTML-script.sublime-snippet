@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[{{ HTML::script(${1:url}, ${2:attributes}, ${3:secure}) }}]]></content>
+    <content><![CDATA[{{ HTML::script('${1:url}') }}]]></content>
     <tabTrigger>html-script</tabTrigger>
   	<description>laravel html-script</description>
   	<scope>text.html.laravel-blade</scope>
