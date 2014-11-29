@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->decimal('${1:}', num, num );]]></content>
+    <tabTrigger>tdecimal</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

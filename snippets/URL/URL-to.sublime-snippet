@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::to(${1:path}, ${2:extra}, ${3:secure})]]></content>
+    <tabTrigger>url-to</tabTrigger>
+    <scope>source.php, text.html.laravel-blade</scope>
+</snippet>

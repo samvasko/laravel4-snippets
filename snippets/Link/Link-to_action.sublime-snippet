@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ link_to_action('${1:Controller@method}', ${2:title}, ${3:['param'=>'value']}, ${4:['attr'=>'value']}) }}]]></content>
+    <tabTrigger>linktoaction</tabTrigger>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

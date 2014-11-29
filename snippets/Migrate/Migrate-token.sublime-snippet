@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->rememberToken();]]></content>
+    <tabTrigger>ttoken</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

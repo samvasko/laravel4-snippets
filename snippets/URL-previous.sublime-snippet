@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[URL::previous()]]></content>
-    <tabTrigger>url-previous</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

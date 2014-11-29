@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[URL::full()]]></content>
-    <tabTrigger>url-full</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

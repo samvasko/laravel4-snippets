@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->bigInteger('${1:}');]]></content>
+    <tabTrigger>tbigint</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

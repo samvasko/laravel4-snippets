@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->integer('${1:}');]]></content>
+    <tabTrigger>tint</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ link_to_route('${1:route.name}', ${2:title}, ${3:['param'=>'value']}, ${4:['attr'=>'value']}) }}]]></content>
+    <tabTrigger>linktoroute</tabTrigger>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

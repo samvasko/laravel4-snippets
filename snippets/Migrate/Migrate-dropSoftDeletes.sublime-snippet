@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->dropSoftDeletes();]]></content>
+    <tabTrigger>tdropsdel</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::isValidUrl(${1:path})]]></content>
+    <tabTrigger>url-isValidUrl</tabTrigger>
+    <scope>source.php, text.html.laravel-blade</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->dropIndex('${1:}');]]></content>
+    <tabTrigger>tdropindex</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

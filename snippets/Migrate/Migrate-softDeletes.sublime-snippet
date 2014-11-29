@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->softDeletes();]]></content>
+    <tabTrigger>tsoftdel</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

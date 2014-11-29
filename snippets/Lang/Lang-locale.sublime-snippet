@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::locale()]]></content>
+    <tabTrigger>lang-locale</tabTrigger>
+    <scope>source.php, text.html.laravel-blade</scope>
+</snippet>

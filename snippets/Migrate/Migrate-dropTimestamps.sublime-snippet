@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->dropTimestamps();]]></content>
+    <tabTrigger>tdroptstamp</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

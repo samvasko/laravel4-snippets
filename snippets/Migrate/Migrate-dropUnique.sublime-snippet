@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->dropUnique('${1:users_email_unique}');]]></content>
+    <tabTrigger>tdropunique</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

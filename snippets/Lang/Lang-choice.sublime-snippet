@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::choice(${1:key}, ${2:number}, ${3:replace}, ${4:locale})]]></content>
+    <tabTrigger>lang-choice</tabTrigger>
+    <scope>source.php, text.html.laravel-blade</scope>
+</snippet>

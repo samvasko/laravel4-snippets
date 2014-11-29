@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->engine = ${1:'InnoDB'};]]></content>
+    <tabTrigger>tengine</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

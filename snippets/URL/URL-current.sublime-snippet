@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::current()]]></content>
+    <tabTrigger>url-current</tabTrigger>
+    <scope>source.php, text.html.laravel-blade</scope>
+</snippet>

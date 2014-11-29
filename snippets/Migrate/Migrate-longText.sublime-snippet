@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->longText('${1:}');]]></content>
+    <tabTrigger>tlongtxt</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

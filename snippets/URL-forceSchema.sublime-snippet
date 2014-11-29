@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[URL::forceSchema(${1:schema})]]></content>
-    <tabTrigger>url-forceSchema</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
