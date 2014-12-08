@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->orderBy('${1:}', ${2:'Desc'})]]></content>
+    <tabTrigger>orderBy</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

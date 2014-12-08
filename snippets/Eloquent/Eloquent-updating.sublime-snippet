@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::updating(${1:callback})]]></content>
-    <tabTrigger>eloquent-updating</tabTrigger>
+    <tabTrigger>elo-updating</tabTrigger>
     <scope>source.php</scope>
 </snippet>

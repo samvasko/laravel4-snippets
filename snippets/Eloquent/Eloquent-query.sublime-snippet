@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::query()]]></content>
-    <tabTrigger>eloquent-query</tabTrigger>
+    <tabTrigger>elo-query</tabTrigger>
     <scope>source.php</scope>
 </snippet>

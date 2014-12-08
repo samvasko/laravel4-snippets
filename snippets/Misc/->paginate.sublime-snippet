@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->paginate('${1:}')]]></content>
+    <tabTrigger>paginate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

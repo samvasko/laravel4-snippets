@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->before('${1:}')]]></content>
+    <tabTrigger>before</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

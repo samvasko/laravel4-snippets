@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[->nullable()]]></content>
-    <tabTrigger>tnull</tabTrigger>
+    <tabTrigger>tnull()</tabTrigger>
     <scope>source.php</scope>
 </snippet>

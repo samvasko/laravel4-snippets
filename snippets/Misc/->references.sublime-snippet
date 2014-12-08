@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->references('${1:from}');]]></content>
+    <tabTrigger>references</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

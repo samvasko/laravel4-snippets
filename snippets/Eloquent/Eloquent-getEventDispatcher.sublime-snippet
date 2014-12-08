@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::getEventDispatcher()]]></content>
-    <tabTrigger>eloquent-getEventDispatcher</tabTrigger>
+    <tabTrigger>elo-getEventDispatcher</tabTrigger>
     <scope>source.php</scope>
 </snippet>

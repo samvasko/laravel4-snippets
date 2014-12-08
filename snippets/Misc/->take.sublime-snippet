@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->take(${1:})]]></content>
+    <tabTrigger>take</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

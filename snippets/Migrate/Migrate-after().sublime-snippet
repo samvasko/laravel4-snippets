@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[->after('${1:}')]]></content>
-    <tabTrigger>tafter</tabTrigger>
+    <tabTrigger>tafter()</tabTrigger>
     <scope>source.php</scope>
 </snippet>

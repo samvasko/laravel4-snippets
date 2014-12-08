@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::withTrashed()]]></content>
-    <tabTrigger>eloquent-withTrashed</tabTrigger>
+    <tabTrigger>elo-withTrashed</tabTrigger>
     <scope>source.php</scope>
 </snippet>

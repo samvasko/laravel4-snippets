@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->skip('${1:}')]]></content>
+    <tabTrigger>skip</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

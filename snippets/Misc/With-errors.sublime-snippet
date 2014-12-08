@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[->withErrors($0)]]></content>
+    <content><![CDATA[->withErrors(\$${0:})]]></content>
     <tabTrigger>witherrors</tabTrigger>
     <scope>source.php</scope>
 </snippet>

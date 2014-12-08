@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[->unsigned()]]></content>
-    <tabTrigger>tunsign</tabTrigger>
+    <tabTrigger>tunsign()</tabTrigger>
     <scope>source.php</scope>
 </snippet>

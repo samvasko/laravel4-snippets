@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->first()]]></content>
+    <tabTrigger>first</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

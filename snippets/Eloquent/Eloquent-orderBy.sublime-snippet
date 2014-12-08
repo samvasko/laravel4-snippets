@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Eloquent::orderBy('${1:}', ${2:'Desc'})->get()]]></content>
+    <tabTrigger>elo-orderBy</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->subject('${1:}')]]></content>
+    <tabTrigger>subject</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::findOrFail(${1:id}, ${2:columns})]]></content>
-    <tabTrigger>eloquent-findOrFail</tabTrigger>
+    <tabTrigger>elo-findOrFail</tabTrigger>
     <scope>source.php</scope>
 </snippet>

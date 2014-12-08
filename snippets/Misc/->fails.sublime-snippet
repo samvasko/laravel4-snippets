@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->fails())]]></content>
+    <tabTrigger>vfails</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

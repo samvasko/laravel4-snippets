@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::forever(${1:key}, ${2:value})]]></content>
+    <tabTrigger>cache-forever</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

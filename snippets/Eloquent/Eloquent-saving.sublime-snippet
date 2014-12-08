@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Eloquent::saving(${1:callback})]]></content>
-    <tabTrigger>eloquent-saving</tabTrigger>
+    <tabTrigger>elo-saving</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Artisan::resolve('${1:command}')]]></content>
+    <tabTrigger>artisan-res</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[->default()]]></content>
-    <tabTrigger>tdef</tabTrigger>
+    <tabTrigger>tdef()</tabTrigger>
     <scope>source.php</scope>
 </snippet>

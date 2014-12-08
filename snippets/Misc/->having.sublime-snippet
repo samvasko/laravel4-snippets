@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->having('${1:what}', '${2:>}', '${3:value}')]]></content>
+    <tabTrigger>having</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
