@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::has(${2:scope})]]></content>
+    <tabTrigger>elo-has</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return $this->morphMany('${1:the_able_table}', '${1:the_able_table}able');]]></content>
+    <tabTrigger>morphmany</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

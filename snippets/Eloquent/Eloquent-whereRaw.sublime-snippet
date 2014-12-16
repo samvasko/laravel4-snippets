@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[${1:Eloquent}::whereRaw()]]></content>
-    <tabTrigger>elo-whereRaw</tabTrigger>
+    <tabTrigger>elo-whereraw</tabTrigger>
     <scope>source.php</scope>
 </snippet>

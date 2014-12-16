@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return $this->hasManyThrough('${1:from_table}', '${2:through_table}', '${3:through_foreign_column}', '${4:from_foreign_column}');]]></content>
+    <tabTrigger>hasmanythrough</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

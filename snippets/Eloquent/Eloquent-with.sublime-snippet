@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:Eloquent}::with(${1:relations})]]></content>
+    <content><![CDATA[${1:Eloquent}::with(${2:relations})]]></content>
     <tabTrigger>elo-with</tabTrigger>
     <scope>source.php</scope>
 </snippet>

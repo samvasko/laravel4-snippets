@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:Eloquent}::hydrateRaw(${1:query}, ${2:bindings}, ${3:connection})]]></content>
+    <content><![CDATA[${1:Eloquent}::hydrateRaw(${2:query}, ${3:bindings}, ${4:connection})]]></content>
     <tabTrigger>elo-hydrateRaw</tabTrigger>
     <scope>source.php</scope>
 </snippet>

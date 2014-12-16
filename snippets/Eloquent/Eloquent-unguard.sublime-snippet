@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:Eloquent}::unguard()]]></content>
+    <content><![CDATA[Eloquent::unguard();]]></content>
     <tabTrigger>elo-unguard</tabTrigger>
     <scope>source.php</scope>
 </snippet>

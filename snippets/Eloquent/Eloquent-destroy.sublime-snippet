@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:Eloquent}::destroy(${1:ids})]]></content>
+    <content><![CDATA[${1:Eloquent}::destroy(${2:ids})]]></content>
     <tabTrigger>elo-destroy</tabTrigger>
     <scope>source.php</scope>
 </snippet>
