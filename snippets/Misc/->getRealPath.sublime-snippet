@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getRealPath()]]></content>
+    <tabTrigger>getRealPath</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

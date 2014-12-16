@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getMimeType()]]></content>
+    <tabTrigger>getMimeType</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getClientSize()]]></content>
+    <tabTrigger>getClientSize</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

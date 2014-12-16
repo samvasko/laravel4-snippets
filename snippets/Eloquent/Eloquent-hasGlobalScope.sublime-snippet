@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Eloquent::hasGlobalScope(${1:scope})]]></content>
+    <content><![CDATA[${1:Eloquent}::hasGlobalScope(${1:scope})]]></content>
     <tabTrigger>elo-hasGlobalScope</tabTrigger>
     <scope>source.php</scope>
 </snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getSize()]]></content>
+    <tabTrigger>getSize</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->isValid()]]></content>
+    <tabTrigger>isValid</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

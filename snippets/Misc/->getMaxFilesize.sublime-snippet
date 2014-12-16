@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getMaxFilesize()]]></content>
+    <tabTrigger>getMaxFilesize</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

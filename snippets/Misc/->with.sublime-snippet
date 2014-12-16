@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->with]]></content>
+    <tabTrigger>with</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

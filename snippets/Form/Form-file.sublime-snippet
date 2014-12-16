@@ -1,5 +1,8 @@
 <snippet>
-    <content><![CDATA[{{ Form::file(${1:name}, ${2:options}) }}]]></content>
+    <content><![CDATA[
+    	{{ Form::hidden('MAX_FILE_SIZE', ${1:value}) }}
+    	{{ Form::file(${2:name}, null, ${3:['multiple'=>'multiple']}) }}
+    	]]></content>
     <tabTrigger>form-file</tabTrigger>
   	<description>laravel form-file</description>
   	<scope>text.html.laravel-blade</scope>

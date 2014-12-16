@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[protected \$incrementing= false;]]></content>
+    <tabTrigger>incrementing</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

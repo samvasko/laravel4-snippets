@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Eloquent::findOrNew(${1:id}, ${2:columns})]]></content>
+    <content><![CDATA[${1:Eloquent}::findOrNew(${1:id}, ${2:columns})]]></content>
     <tabTrigger>elo-findOrNew</tabTrigger>
     <scope>source.php</scope>
 </snippet>

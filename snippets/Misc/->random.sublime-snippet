@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->random('${1:}')]]></content>
+    <tabTrigger>random</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

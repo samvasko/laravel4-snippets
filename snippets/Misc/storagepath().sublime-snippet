@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[storage_path()]]></content>
+    <tabTrigger>storpath</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
