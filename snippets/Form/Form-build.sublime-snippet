@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-{{ Form::open([${1:key} => ${2:value}${3:, ${4:key} => ${5:value}}]) }}
+{{ Form::open([${1:route} => ${2:name}${3:, ${4:method} => ${5:PUT}}]) }}
     $0
 {{ Form::close() }}
     	]]></content>

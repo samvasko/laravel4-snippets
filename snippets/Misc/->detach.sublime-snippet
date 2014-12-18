@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->detach('${1:}')]]></content>
+    <tabTrigger>detach</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

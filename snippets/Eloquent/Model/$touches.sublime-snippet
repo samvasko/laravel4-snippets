@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[protected \$touches=['${1:}'];]]></content>
+    <tabTrigger>touches</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
