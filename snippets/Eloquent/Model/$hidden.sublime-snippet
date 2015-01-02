@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[protected \$hidden=[];]]></content>
+    <tabTrigger>hidden</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->truncate()]]></content>
+    <tabTrigger>truncate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

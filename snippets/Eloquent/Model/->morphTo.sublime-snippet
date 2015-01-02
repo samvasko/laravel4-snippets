@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[return $this->morphTo();]]></content>
+    <content><![CDATA[return \$this->morphTo();]]></content>
     <tabTrigger>morphto</tabTrigger>
     <scope>source.php</scope>
 </snippet>

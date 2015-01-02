@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Response::stream(${1:callback}, ${2:status}, ${3:headers})]]></content>
+    <content><![CDATA[return Response::stream(${1:callback}, ${2:status}, ${3:headers})]]></content>
     <tabTrigger>response-stream</tabTrigger>
     <scope>source.php</scope>
 </snippet>

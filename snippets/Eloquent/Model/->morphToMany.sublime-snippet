@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[return $this->morphToMany('${1:the_able_table}', '${1:the_able_table}able');]]></content>
+    <content><![CDATA[return \$this->morphToMany('${1:the_able_table}', '${1:the_able_table}able');]]></content>
     <tabTrigger>morphtomany</tabTrigger>
     <scope>source.php</scope>
 </snippet>

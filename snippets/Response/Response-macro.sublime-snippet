@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Response::macro(${1:name}, ${2:macro})]]></content>
+    <content><![CDATA[return Response::macro(${1:name}, ${2:macro})]]></content>
     <tabTrigger>response-macro</tabTrigger>
     <scope>source.php</scope>
 </snippet>
