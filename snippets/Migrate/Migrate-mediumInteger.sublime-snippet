@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->mediumInteger('${1:}');]]></content>
+    <tabTrigger>tmedint</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

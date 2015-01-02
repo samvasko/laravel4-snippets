@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->float('${1:}');]]></content>
+    <tabTrigger>tfloat</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

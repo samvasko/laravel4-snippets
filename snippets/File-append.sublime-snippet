@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[File::append(${1:path}, ${2:data})]]></content>
-    <tabTrigger>File-append</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

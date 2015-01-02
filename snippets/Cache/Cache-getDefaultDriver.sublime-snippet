@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::getDefaultDriver()]]></content>
+    <tabTrigger>cache-getDefaultDriver</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

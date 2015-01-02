@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[public_path()]]></content>
+    <tabTrigger>pubpath</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

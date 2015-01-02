@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::getProviderRepository()]]></content>
+    <tabTrigger>app-getProviderRepository</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

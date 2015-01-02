@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::registerBag(${1:bag})]]></content>
+    <tabTrigger>session-registerBag</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

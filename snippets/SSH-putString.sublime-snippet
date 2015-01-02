@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[SSH::putString(${1:remote}, ${2:contents})]]></content>
-    <tabTrigger>SSH-putString</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

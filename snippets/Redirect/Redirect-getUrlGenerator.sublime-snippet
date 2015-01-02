@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return Redirect::getUrlGenerator()]]></content>
+    <tabTrigger>redirect-getUrlGenerator</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->associate('${1:}')]]></content>
+    <tabTrigger>associate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

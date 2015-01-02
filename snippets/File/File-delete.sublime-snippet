@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[File::delete(${1:paths})]]></content>
+    <tabTrigger>file-delete</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

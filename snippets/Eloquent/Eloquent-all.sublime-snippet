@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::all()]]></content>
+    <tabTrigger>elo-all</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

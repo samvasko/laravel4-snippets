@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::flush(${1:event})]]></content>
+    <tabTrigger>event-flush</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

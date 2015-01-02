@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->double('${1:}', num, num );]]></content>
+    <tabTrigger>tdouble</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

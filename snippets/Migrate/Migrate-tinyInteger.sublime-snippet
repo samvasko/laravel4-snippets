@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->tinyInteger('${1:}');]]></content>
+    <tabTrigger>ttinyint</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::getDispatcher()]]></content>
+    <tabTrigger>auth-getDispatcher</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Blade::getPath()]]></content>
-    <tabTrigger>Blade-getPath</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

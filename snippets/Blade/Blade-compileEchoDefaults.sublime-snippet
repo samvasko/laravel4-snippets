@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Blade::compileEchoDefaults(${1:value})]]></content>
+    <tabTrigger>blade-compileEchoDefaults</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

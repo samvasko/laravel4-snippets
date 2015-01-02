@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cookie::get(${1:key}, ${2:default})]]></content>
+    <tabTrigger>cookie-get</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

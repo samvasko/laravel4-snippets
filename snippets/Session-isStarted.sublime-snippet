@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::isStarted()]]></content>
-    <tabTrigger>Session-isStarted</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

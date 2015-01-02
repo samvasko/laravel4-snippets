@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::clear()]]></content>
+    <tabTrigger>session-clear</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

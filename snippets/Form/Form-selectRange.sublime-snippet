@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ Form::selectRange(${1:name}, ${2:begin}, ${3:end}, ${4:selected}, ${5:options}) }}]]></content>
+    <tabTrigger>form-selectRange</tabTrigger>
+  	<description>laravel form-selectRange</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

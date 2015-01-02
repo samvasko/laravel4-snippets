@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::getContainer()]]></content>
+    <tabTrigger>route-getContainer</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

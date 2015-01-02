@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Request::only(${1:keys})]]></content>
-    <tabTrigger>Request-only</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

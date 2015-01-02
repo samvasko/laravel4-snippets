@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::setTablePrefix(${1:prefix})]]></content>
+    <tabTrigger>db-setTablePrefix</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

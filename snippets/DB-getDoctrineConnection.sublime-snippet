@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::getDoctrineConnection()]]></content>
-    <tabTrigger>DB-getDoctrineConnection</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

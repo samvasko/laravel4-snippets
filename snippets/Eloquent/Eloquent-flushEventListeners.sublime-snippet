@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::flushEventListeners()]]></content>
+    <tabTrigger>elo-flushEventListeners</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::destroy(${2:ids})]]></content>
+    <tabTrigger>elo-destroy</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Redis::transaction()]]></content>
-    <tabTrigger>Redis-transaction</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

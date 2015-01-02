@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->links()]]></content>
+    <tabTrigger>links</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

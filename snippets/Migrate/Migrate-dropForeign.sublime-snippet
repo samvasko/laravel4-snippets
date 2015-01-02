@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->dropForeign('${1:user_id_foreign}');]]></content>
+    <tabTrigger>tdropforeign</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

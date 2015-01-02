@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Cache::remember(${1:key}, ${2:minutes}, ${3:callback})]]></content>
-    <tabTrigger>Cache-remember</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

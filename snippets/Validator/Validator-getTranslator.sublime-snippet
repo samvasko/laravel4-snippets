@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Validator::getTranslator()]]></content>
+    <tabTrigger>validator-getTranslator</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::getSessionConfig()]]></content>
-    <tabTrigger>Session-getSessionConfig</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

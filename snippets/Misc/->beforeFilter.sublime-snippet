@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->beforeFilter('${1:}',['${2:on}' => ['${3:what}']]);]]></content>
+    <tabTrigger>beforefilter</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

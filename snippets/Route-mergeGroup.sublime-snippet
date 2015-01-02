@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::mergeGroup(${1:new}, ${2:old})]]></content>
-    <tabTrigger>Route-mergeGroup</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

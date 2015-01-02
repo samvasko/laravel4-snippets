@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Mail::setSwiftMailer(${1:swift})]]></content>
+    <tabTrigger>mail-setSwiftMailer</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

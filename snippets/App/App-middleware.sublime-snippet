@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::middleware(${1:class}, ${2:parameters})]]></content>
+    <tabTrigger>app-middleware</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

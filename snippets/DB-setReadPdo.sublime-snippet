@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::setReadPdo(${1:pdo})]]></content>
-    <tabTrigger>DB-setReadPdo</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Auth::guest()]]></content>
-    <tabTrigger>Auth-guest</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::orderByRaw(${2:class})]]></content>
+    <tabTrigger>elo-orderbyraw</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

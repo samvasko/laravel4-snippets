@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::setFinder(${1:finder})]]></content>
+    <tabTrigger>view-setFinder</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

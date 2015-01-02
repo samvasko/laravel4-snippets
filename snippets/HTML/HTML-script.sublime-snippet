@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::script('${1:url}') }}]]></content>
+    <tabTrigger>html-script</tabTrigger>
+  	<description>laravel html-script</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

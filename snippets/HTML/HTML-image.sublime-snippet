@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::image(${1:url}, ${2:alt}, ${3:attributes}, ${4:secure}) }}]]></content>
+    <tabTrigger>html-image</tabTrigger>
+  	<description>laravel html-image</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

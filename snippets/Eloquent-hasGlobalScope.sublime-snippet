@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Eloquent::hasGlobalScope(${1:scope})]]></content>
-    <tabTrigger>Eloquent-hasGlobalScope</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

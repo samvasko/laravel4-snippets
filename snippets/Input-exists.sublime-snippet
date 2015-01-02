@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Input::exists(${1:key})]]></content>
-    <tabTrigger>Input-exists</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

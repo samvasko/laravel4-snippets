@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::getLastAttempted()]]></content>
+    <tabTrigger>auth-getLastAttempted</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

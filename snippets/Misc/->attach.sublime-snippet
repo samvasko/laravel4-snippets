@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->attach('${1:}')]]></content>
+    <tabTrigger>attach</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

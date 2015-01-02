@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::delete(${1:uri}, ${2:action})]]></content>
+    <tabTrigger>route-delete</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

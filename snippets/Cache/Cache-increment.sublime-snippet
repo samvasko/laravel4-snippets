@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::increment(${1:key}, ${2:amount})]]></content>
+    <tabTrigger>cache-increment</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

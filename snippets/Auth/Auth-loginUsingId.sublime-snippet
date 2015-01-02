@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::loginUsingId(${1:id}, ${2:remember})]]></content>
+    <tabTrigger>auth-loginUsingId</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

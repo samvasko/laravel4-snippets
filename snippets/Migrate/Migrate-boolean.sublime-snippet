@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->boolean('${1:}');]]></content>
+    <tabTrigger>tbool</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

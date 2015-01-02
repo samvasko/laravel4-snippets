@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::getDefaultCacheTime()]]></content>
+    <tabTrigger>cache-getDefaultCacheTime</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

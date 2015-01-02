@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+// Accessor for ${1:}
+public function get${1:}Attribute(\$value)
+{
+	return ${2:}(\$value);
+}
+    	]]></content>
+    <tabTrigger>getattr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

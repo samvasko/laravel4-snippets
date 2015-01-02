@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->passes())]]></content>
+    <tabTrigger>vpasses</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

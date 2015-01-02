@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::decodedPath()]]></content>
+    <tabTrigger>request-decodedPath</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

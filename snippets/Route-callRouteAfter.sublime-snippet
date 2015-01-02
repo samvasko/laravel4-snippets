@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::callRouteAfter(${1:route}, ${2:request}, ${3:response})]]></content>
-    <tabTrigger>Route-callRouteAfter</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

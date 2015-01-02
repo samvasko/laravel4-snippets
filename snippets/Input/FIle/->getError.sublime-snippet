@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getError()]]></content>
+    <tabTrigger>getError</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

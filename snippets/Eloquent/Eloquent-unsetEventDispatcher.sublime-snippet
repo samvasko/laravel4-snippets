@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::unsetEventDispatcher()]]></content>
+    <tabTrigger>elo-unsetEventDispatcher</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

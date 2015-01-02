@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::terminate(${1:request}, ${2:response})]]></content>
-    <tabTrigger>App-terminate</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

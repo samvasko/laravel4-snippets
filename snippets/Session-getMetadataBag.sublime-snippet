@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::getMetadataBag()]]></content>
-    <tabTrigger>Session-getMetadataBag</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

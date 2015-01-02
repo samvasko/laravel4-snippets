@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::setCacheManager(${1:cache})]]></content>
+    <tabTrigger>db-setCacheManager</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Route::matched(${1:callback})]]></content>
-    <tabTrigger>Route-matched</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

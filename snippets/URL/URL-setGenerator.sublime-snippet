@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[URL::setGenerator(${1:generator})]]></content>
+    <tabTrigger>url-setGenerator</tabTrigger>
+    <scope>source.php, text.html.laravel-blade</scope>
+</snippet>

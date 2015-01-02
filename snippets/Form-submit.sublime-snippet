@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Form::submit(${1:value}, ${2:options})]]></content>
-    <tabTrigger>Form-submit</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

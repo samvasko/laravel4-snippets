@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Schema::setConnection(${1:connection})]]></content>
-    <tabTrigger>Schema-setConnection</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

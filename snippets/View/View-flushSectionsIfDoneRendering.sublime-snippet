@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::flushSectionsIfDoneRendering()]]></content>
+    <tabTrigger>view-flushSectionsIfDoneRendering</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

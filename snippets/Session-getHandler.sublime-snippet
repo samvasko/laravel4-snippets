@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::getHandler()]]></content>
-    <tabTrigger>Session-getHandler</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

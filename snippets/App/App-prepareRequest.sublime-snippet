@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::prepareRequest(${1:request})]]></content>
+    <tabTrigger>app-prepareRequest</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

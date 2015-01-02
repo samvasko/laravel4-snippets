@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Validator::setPresenceVerifier(${1:presenceVerifier})]]></content>
+    <tabTrigger>validator-setPresenceVerifier</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::withTrashed()]]></content>
+    <tabTrigger>elo-withTrashed</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

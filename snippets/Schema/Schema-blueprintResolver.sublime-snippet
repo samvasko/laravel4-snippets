@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Schema::blueprintResolver(${1:resolver})]]></content>
+    <tabTrigger>schema-blueprintResolver</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

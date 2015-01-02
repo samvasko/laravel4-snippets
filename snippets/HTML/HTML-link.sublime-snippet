@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::link(${1:url}, ${2:title}, ${3:attributes}, ${4:secure}) }}]]></content>
+    <tabTrigger>html-link</tabTrigger>
+  	<description>laravel html-link</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

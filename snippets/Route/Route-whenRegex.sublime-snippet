@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::whenRegex(${1:pattern}, ${2:name}, ${3:methods})]]></content>
+    <tabTrigger>route-whenRegex</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

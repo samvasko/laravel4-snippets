@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::setLocale(${1:locale})]]></content>
+    <tabTrigger>lang-setLocale</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

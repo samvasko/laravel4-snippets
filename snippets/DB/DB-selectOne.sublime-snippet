@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::selectOne(${1:query}, ${2:bindings})]]></content>
+    <tabTrigger>db-selectOne</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

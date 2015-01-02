@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Mail::failures()]]></content>
-    <tabTrigger>Mail-failures</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

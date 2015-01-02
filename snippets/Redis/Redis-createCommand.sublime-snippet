@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::createCommand(${1:commandID}, ${2:arguments})]]></content>
+    <tabTrigger>redis-createCommand</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

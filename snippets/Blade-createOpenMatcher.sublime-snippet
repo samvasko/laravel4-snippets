@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Blade::createOpenMatcher(${1:function})]]></content>
-    <tabTrigger>Blade-createOpenMatcher</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

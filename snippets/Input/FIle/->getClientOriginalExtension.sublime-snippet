@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getClientOriginalExtension()]]></content>
+    <tabTrigger>getClientOriginalExtension</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Validator::replacer(${1:rule}, ${2:replacer})]]></content>
-    <tabTrigger>Validator-replacer</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

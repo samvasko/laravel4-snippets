@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::firstOrNew(${2:attributes})]]></content>
+    <tabTrigger>elo-firstOrNew</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

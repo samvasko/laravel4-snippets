@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Input::createFromBase(${1:request})]]></content>
-    <tabTrigger>Input-createFromBase</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

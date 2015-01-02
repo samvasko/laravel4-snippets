@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::getLocale()]]></content>
+    <tabTrigger>app-getLocale</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

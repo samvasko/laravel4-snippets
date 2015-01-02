@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ Form::getIdAttribute(${1:name}, ${2:attributes}) }}]]></content>
+    <tabTrigger>form-getIdAttribute</tabTrigger>
+  	<description>laravel form-getIdAttribute</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::update(${1:query}, ${2:bindings})]]></content>
+    <tabTrigger>db-update</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

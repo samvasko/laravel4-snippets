@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::startsWith(${1:haystack}, ${2:needles})]]></content>
+    <tabTrigger>str-startsWith</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

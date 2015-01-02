@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::instance()]]></content>
+    <tabTrigger>input-instance</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

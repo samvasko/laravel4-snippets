@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::id()]]></content>
+    <tabTrigger>auth-id</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

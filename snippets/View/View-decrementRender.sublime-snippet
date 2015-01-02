@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::decrementRender()]]></content>
+    <tabTrigger>view-decrementRender</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

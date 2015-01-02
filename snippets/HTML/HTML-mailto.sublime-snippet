@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::mailto(${1:email}, ${2:title}, ${3:attributes}) }}]]></content>
+    <tabTrigger>html-mailto</tabTrigger>
+  	<description>laravel html-mailTo</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

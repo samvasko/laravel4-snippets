@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::getEnvironmentVariablesLoader()]]></content>
-    <tabTrigger>App-getEnvironmentVariablesLoader</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

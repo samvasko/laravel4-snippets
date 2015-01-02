@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Input::wantsJson()]]></content>
+    <tabTrigger>input-wantsJson</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

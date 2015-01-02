@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::getEventDispatcher()]]></content>
-    <tabTrigger>DB-getEventDispatcher</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ Form::submit(${1:value}, ${2:options}) }}]]></content>
+    <tabTrigger>form-submit</tabTrigger>
+  	<description>laravel form-submit</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getSchemaGrammar()]]></content>
+    <tabTrigger>db-getSchemaGrammar</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

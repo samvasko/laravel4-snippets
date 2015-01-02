@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::linkRoute(${1:name}, ${2:title}, ${3:parameters}, ${4:attributes}) }}]]></content>
+    <tabTrigger>html-linkRoute</tabTrigger>
+  	<description>laravel html-linkRoute</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

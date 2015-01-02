@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::linkAsset(${1:url}, ${2:title}, ${3:attributes}, ${4:secure}) }}]]></content>
+    <tabTrigger>html-linkAsset</tabTrigger>
+  	<description>laravel html-linkAsset</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

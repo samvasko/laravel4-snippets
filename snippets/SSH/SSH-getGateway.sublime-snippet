@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[SSH::getGateway()]]></content>
+    <tabTrigger>ssh-getGateway</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

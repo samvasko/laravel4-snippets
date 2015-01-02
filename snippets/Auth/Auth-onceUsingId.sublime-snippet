@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::onceUsingId(${1:id})]]></content>
+    <tabTrigger>auth-onceUsingId</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

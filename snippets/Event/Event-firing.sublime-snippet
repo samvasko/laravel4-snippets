@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Event::firing()]]></content>
+    <tabTrigger>event-firing</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

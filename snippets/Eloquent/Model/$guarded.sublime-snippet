@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[protected \$guarded=[];]]></content>
+    <tabTrigger>guarded</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

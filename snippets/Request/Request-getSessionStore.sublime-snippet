@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::getSessionStore()]]></content>
+    <tabTrigger>request-getSessionStore</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

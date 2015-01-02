@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Cache::getStore()]]></content>
-    <tabTrigger>Cache-getStore</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

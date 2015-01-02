@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->enum('${1:}', ['${2:}','${3:}'] );]]></content>
+    <tabTrigger>tenum</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

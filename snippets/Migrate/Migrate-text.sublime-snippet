@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->text('${1:}');]]></content>
+    <tabTrigger>ttext</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[SoftDeletingTrait::onlyTrashed()]]></content>
+    <tabTrigger>softDeletingTrait-onlyTrashed</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

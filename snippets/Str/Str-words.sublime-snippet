@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::words(${1:value}, ${2:words}, ${3:end})]]></content>
+    <tabTrigger>str-words</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

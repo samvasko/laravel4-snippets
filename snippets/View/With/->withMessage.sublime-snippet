@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->withMessage('${0:}')]]></content>
+    <tabTrigger>withmessage</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

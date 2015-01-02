@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[SSH::define(${1:task}, ${2:commands})]]></content>
-    <tabTrigger>SSH-define</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

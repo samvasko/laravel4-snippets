@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->select('${1:column1}', '${2:column2}')]]></content>
+    <tabTrigger>select</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

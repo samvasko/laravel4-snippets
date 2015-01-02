@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::setDefaultDriver(${1:name})]]></content>
+    <tabTrigger>auth-setDefaultDriver</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

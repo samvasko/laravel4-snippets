@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[public \$timestamps=false;]]></content>
+    <tabTrigger>timestamps</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

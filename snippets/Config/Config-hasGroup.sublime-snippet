@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::hasGroup(${1:key})]]></content>
+    <tabTrigger>config-hasGroup</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::getConfigLoader()]]></content>
+    <tabTrigger>app-getConfigLoader</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

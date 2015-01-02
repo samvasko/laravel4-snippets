@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::isLocal()]]></content>
-    <tabTrigger>App-isLocal</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

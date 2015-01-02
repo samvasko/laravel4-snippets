@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::options(${1:uri}, ${2:action})]]></content>
+    <tabTrigger>route-options</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

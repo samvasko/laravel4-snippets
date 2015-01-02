@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getSchemaBuilder()]]></content>
+    <tabTrigger>db-getSchemaBuilder</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

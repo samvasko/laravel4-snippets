@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->leftJoin('${1:contacts}', '${2:users.id}', '=', '${3:contacts.user_id}')]]></content>
+    <tabTrigger>leftJoin</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

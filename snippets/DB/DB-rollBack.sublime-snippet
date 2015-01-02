@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::rollBack()]]></content>
+    <tabTrigger>db-rollBack</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

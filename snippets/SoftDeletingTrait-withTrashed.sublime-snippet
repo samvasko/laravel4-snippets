@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[SoftDeletingTrait::withTrashed()]]></content>
-    <tabTrigger>SoftDeletingTrait-withTrashed</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

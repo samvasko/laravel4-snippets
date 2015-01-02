@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return \$this->hasMany('${1:}');]]></content>
+    <tabTrigger>hasmany</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

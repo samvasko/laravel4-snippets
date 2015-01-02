@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::handle(${1:request}, ${2:type}, ${3:catch})]]></content>
+    <tabTrigger>route-handle</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

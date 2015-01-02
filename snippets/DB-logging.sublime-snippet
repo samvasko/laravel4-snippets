@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::logging()]]></content>
-    <tabTrigger>DB-logging</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

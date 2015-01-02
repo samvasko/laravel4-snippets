@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Log::useFiles(${1:path}, ${2:level})]]></content>
+    <tabTrigger>log-useFiles</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

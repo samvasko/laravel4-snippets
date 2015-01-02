@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return \$this->hasOne('${1:}');]]></content>
+    <tabTrigger>hasone</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

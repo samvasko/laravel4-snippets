@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->remember('${1:}')]]></content>
+    <tabTrigger>remember</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

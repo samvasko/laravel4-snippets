@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ link_to_asset('${1:file}', ${2:title}, ${3:['attr'=>'value']}, ${4:secure}) }}]]></content>
+    <tabTrigger>linktoasset</tabTrigger>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

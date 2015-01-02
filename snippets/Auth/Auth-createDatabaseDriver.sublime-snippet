@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::createDatabaseDriver()]]></content>
+    <tabTrigger>auth-createDatabaseDriver</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

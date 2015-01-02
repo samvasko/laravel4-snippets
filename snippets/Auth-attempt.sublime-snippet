@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Auth::attempt(${1:credentials}, ${2:remember}, ${3:login})]]></content>
-    <tabTrigger>Auth-attempt</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[View::setDispatcher(${1:events})]]></content>
+    <tabTrigger>view-setDispatcher</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

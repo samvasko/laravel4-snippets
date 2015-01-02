@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::getRecallerName()]]></content>
+    <tabTrigger>auth-getRecallerName</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

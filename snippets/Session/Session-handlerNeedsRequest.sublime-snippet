@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::handlerNeedsRequest()]]></content>
+    <tabTrigger>session-handlerNeedsRequest</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

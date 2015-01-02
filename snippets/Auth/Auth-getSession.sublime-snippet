@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::getSession()]]></content>
+    <tabTrigger>auth-getSession</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

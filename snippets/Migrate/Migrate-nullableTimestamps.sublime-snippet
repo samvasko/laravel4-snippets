@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->nullableTimestamps();]]></content>
+    <tabTrigger>tnullstamp</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

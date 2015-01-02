@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::all()]]></content>
+    <tabTrigger>session-all</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{{ Form::open([${1:route} => ${2:name}${3:, ${4:method} => ${5:PUT}}]) }}
+    $0
+{{ Form::close() }}
+    	]]></content>
+    <tabTrigger>form-build</tabTrigger>
+  	<description>laravel form-build</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

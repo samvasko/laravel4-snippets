@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::plural(${1:value}, ${2:count})]]></content>
+    <tabTrigger>str-plural</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

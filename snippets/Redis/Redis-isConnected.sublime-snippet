@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::isConnected()]]></content>
+    <tabTrigger>redis-isConnected</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

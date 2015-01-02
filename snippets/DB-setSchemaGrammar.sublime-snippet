@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[DB::setSchemaGrammar(${1:grammar})]]></content>
-    <tabTrigger>DB-setSchemaGrammar</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

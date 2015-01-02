@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Paginator::getPaginationView(${1:paginator}, ${2:view})]]></content>
+    <tabTrigger>paginator-getPaginationView</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

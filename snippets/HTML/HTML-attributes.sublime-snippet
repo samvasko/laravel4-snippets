@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::attributes(${1:attributes}) }}]]></content>
+    <tabTrigger>html-attributes</tabTrigger>
+  	<description>laravel html-attr</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

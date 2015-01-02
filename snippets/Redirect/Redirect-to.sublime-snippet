@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return Redirect::to(${1:path}, ${2:status}, ${3:headers}, ${4:secure})]]></content>
+    <tabTrigger>redirect-to</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

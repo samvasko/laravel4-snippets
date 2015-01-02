@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::mergeWithLastGroup(${1:new})]]></content>
+    <tabTrigger>route-mergeWithLastGroup</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

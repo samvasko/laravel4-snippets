@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::getCookieJar()]]></content>
+    <tabTrigger>auth-getCookieJar</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

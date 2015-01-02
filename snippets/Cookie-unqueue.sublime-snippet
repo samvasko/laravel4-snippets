@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Cookie::unqueue(${1:name})]]></content>
-    <tabTrigger>Cookie-unqueue</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

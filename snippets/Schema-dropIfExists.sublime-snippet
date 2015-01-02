@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Schema::dropIfExists(${1:table})]]></content>
-    <tabTrigger>Schema-dropIfExists</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

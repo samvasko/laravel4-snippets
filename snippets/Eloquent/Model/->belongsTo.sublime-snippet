@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return \$this->belongsTo('${1:}');]]></content>
+    <tabTrigger>belongsto</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

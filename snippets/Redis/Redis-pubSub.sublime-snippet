@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Redis::pubSub()]]></content>
+    <tabTrigger>redis-pubSub</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

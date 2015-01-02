@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->morphs('${1:}');]]></content>
+    <tabTrigger>tmorph</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

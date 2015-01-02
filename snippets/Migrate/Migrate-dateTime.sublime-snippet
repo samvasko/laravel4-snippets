@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->dateTime('${1:}');]]></content>
+    <tabTrigger>tdatetime</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

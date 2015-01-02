@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::ul(${1:list}, ${2:attributes}) }}]]></content>
+    <tabTrigger>html-ul</tabTrigger>
+  	<description>laravel html-ul</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

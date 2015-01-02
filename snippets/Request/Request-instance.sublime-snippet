@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Request::instance()]]></content>
+    <tabTrigger>request-instance</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

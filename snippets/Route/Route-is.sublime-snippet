@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::is()]]></content>
+    <tabTrigger>route-is</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Str::upper(${1:value})]]></content>
-    <tabTrigger>Str-upper</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getDoctrineSchemaManager()]]></content>
+    <tabTrigger>db-getDoctrineSchemaManager</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

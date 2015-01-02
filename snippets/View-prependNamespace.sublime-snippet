@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[View::prependNamespace(${1:namespace}, ${2:hints})]]></content>
-    <tabTrigger>View-prependNamespace</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

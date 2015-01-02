@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Auth::once(${1:credentials})]]></content>
+    <tabTrigger>auth-once</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

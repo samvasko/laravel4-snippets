@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[SSH::getOutput()]]></content>
+    <tabTrigger>ssh-getOutput</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

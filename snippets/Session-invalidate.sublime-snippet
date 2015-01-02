@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::invalidate(${1:lifetime})]]></content>
-    <tabTrigger>Session-invalidate</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

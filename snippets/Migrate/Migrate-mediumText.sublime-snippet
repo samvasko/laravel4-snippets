@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->mediumText('${1:}');]]></content>
+    <tabTrigger>tmedtxt</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

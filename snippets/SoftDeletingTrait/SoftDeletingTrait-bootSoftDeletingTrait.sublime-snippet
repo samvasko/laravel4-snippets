@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[SoftDeletingTrait::bootSoftDeletingTrait()]]></content>
+    <tabTrigger>softDeletingTrait-bootSoftDeletingTrait</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->unique()]]></content>
+    <tabTrigger>tunique()</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

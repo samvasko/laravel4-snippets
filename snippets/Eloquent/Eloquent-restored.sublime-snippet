@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::restored(${2:callback})]]></content>
+    <tabTrigger>elo-restored</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

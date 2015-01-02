@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Session::pull(${1:key}, ${2:default})]]></content>
+    <tabTrigger>session-pull</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

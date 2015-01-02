@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::disableQueryLog()]]></content>
+    <tabTrigger>db-disableQueryLog</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

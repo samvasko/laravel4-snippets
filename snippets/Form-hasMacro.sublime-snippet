@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Form::hasMacro(${1:name})]]></content>
-    <tabTrigger>Form-hasMacro</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

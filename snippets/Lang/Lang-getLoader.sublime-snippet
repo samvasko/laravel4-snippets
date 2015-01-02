@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Lang::getLoader()]]></content>
+    <tabTrigger>lang-getLoader</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

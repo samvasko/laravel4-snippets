@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Validator::extendImplicit(${1:rule}, ${2:extension}, ${3:message})]]></content>
-    <tabTrigger>Validator-extendImplicit</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

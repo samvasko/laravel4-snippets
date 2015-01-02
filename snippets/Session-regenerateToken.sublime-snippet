@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::regenerateToken()]]></content>
-    <tabTrigger>Session-regenerateToken</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

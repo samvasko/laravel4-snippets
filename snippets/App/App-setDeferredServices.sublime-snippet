@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::setDeferredServices(${1:services})]]></content>
+    <tabTrigger>app-setDeferredServices</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

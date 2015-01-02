@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getPostProcessor()]]></content>
+    <tabTrigger>db-getPostProcessor</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

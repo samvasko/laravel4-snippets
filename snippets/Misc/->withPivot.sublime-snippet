@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->withPivot('${1:}','${2:}')]]></content>
+    <tabTrigger>withpivot</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

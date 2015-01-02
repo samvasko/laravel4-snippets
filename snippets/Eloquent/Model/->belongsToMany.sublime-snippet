@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return \$this->belongsToMany('${1:}');]]></content>
+    <tabTrigger>belongstomany</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

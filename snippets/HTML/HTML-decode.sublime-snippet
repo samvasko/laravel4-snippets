@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::decode(${1:value}) }}]]></content>
+    <tabTrigger>html-decode</tabTrigger>
+  	<description>laravel html-decode</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

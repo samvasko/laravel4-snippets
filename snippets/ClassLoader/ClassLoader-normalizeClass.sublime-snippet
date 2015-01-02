@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[ClassLoader::normalizeClass(${1:class})]]></content>
+    <tabTrigger>classLoader-normalizeClass</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

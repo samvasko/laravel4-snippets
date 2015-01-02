@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::input(${1:key}, ${2:default})]]></content>
+    <tabTrigger>route-input</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Blade::getContentTags()]]></content>
+    <tabTrigger>blade-getContentTags</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

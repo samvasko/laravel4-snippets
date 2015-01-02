@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Str::hasMacro(${1:name})]]></content>
-    <tabTrigger>Str-hasMacro</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

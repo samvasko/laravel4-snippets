@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::requestClass(${1:class})]]></content>
+    <tabTrigger>app-requestClass</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

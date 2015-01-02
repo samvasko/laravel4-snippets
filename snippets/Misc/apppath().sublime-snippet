@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[app_path()]]></content>
+    <tabTrigger>apppath</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

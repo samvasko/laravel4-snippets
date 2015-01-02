@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->getClientOriginalName()]]></content>
+    <tabTrigger>getClientOriginalName</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

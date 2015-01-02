@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[View::flushSections()]]></content>
-    <tabTrigger>View-flushSections</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

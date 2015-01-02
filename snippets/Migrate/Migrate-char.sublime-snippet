@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->char('${1:}', num);]]></content>
+    <tabTrigger>tchar</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

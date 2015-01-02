@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+// Mutator for ${1:}
+public function set${1:}Attribute(\$value)
+{
+	\$this->attributes['${1:}'] = ${2:}(\$value);
+}
+    	]]></content>
+    <tabTrigger>setattr</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

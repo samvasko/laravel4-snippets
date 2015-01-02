@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::query()]]></content>
+    <tabTrigger>elo-query</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ link_to('${1:uri}', ${2:title}, ${3:['attr'=>'value']}, ${4:secure}) }}]]></content>
+    <tabTrigger>linkto</tabTrigger>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

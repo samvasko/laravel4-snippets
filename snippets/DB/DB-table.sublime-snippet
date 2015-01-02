@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::table(${1:table})]]></content>
+    <tabTrigger>db-table</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

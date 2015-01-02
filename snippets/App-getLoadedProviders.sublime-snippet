@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::getLoadedProviders()]]></content>
-    <tabTrigger>App-getLoadedProviders</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

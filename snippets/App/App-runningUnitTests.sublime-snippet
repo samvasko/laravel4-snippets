@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[App::runningUnitTests()]]></content>
+    <tabTrigger>app-runningUnitTests</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[\$table->binary('${1:}');]]></content>
+    <tabTrigger>tbinary</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

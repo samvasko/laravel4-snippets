@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::currentRouteAction()]]></content>
+    <tabTrigger>route-currentRouteAction</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

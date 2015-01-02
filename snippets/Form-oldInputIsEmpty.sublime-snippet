@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Form::oldInputIsEmpty()]]></content>
-    <tabTrigger>Form-oldInputIsEmpty</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

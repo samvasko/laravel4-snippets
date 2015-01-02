@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Eloquent}::hydrate(${2:items}, ${3:connection})]]></content>
+    <tabTrigger>elo-hydrate</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

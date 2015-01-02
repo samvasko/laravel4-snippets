@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::studly(${1:value})]]></content>
+    <tabTrigger>str-studly</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

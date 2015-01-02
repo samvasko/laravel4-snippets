@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ Form::radio(${1:name}, ${2:value}, ${3:checked}, ${4:options}) }}]]></content>
+    <tabTrigger>form-radio</tabTrigger>
+  	<description>laravel form-radio</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

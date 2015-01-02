@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Session::regenerate(${1:destroy})]]></content>
-    <tabTrigger>Session-regenerate</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

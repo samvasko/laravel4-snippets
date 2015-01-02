@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Mail::laterOn(${1:queue}, ${2:delay}, ${3:view}, ${4:data}, ${5:callback})]]></content>
-    <tabTrigger>Mail-laterOn</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ HTML::style('${1:url}') }}]]></content>
+    <tabTrigger>html-style</tabTrigger>
+  	<description>laravel html-style</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

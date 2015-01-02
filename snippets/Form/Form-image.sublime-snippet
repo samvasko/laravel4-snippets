@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[{{ Form::image(${1:url}, ${2:name}, ${3:attributes}) }}]]></content>
+    <tabTrigger>form-image</tabTrigger>
+  	<description>laravel form-image</description>
+  	<scope>text.html.laravel-blade</scope>
+</snippet>

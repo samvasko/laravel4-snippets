@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->toSql()]]></content>
+    <tabTrigger>tosql</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

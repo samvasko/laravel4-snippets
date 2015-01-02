@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[DB::getQueryLog()]]></content>
+    <tabTrigger>db-getQueryLog</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

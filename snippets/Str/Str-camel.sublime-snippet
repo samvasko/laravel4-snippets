@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Str::camel(${1:value})]]></content>
+    <tabTrigger>str-camel</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[protected \$softDelete=true;]]></content>
+    <tabTrigger>softdelete</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

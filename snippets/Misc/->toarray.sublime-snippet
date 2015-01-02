@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[->toArray()]]></content>
+    <tabTrigger>toarray</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

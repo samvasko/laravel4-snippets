@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Route::getResourceWildcard(${1:value})]]></content>
+    <tabTrigger>route-getResourceWildcard</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

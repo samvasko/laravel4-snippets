@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[App::getRegistered(${1:provider})]]></content>
-    <tabTrigger>App-getRegistered</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
