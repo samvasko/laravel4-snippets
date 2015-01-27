@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->primary('${1:id}');]]></content>
+    <tabTrigger>table-primary</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Adding a primary key</discription>
+</snippet>

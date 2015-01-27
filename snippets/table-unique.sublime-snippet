@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->unique('${1:email}');]]></content>
+    <tabTrigger>table-unique</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Adding a unique key</discription>
+</snippet>
