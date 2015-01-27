@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->boolean('${1:confirmed}')${2:${3:->default(${4:value})}${5:->nullable()}};]]></content>
+    <tabTrigger>table-boolean</tabTrigger>
+    <scope>source.php</scope>
+    <discription>BOOLEAN equivalent to the table</discription>
+</snippet>

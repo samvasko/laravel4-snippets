@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->text('${1:description}')${2:${3:->default(${4:value})}${5:->nullable()}};]]></content>
+    <tabTrigger>table-text</tabTrigger>
+    <scope>source.php</scope>
+    <discription>TEXT equivalent to the table</discription>
+</snippet>

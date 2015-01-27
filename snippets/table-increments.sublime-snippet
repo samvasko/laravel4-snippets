@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->increments('${1:votes}')${3:->unsigned()};]]></content>
+    <tabTrigger>table-increments</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Incrementing ID to the table (primary key).</discription>
+</snippet>

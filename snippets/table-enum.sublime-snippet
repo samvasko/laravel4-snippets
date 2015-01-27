@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->enum('${1:choices}', ['${2:allowed'])${3:${4:->default(${5:value})}};]]></content>
+    <tabTrigger>table-enum</tabTrigger>
+    <scope>source.php</scope>
+    <discription>ENUM equivalent to the table</discription>
+</snippet>

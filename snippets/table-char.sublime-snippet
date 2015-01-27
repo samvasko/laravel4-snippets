@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->char('${1:name}'${2:, ${3:length}})${4:${5:->default(${6:value})}${7:->nullable()}};]]></content>
+    <tabTrigger>table-char</tabTrigger>
+    <scope>source.php</scope>
+    <discription>CHAR equivalent with a length</discription>
+</snippet>
