@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->foreign('${1:foreign_id}')->references('${2:id}')->on('${3:table}')${4:->onDelete('${5:restrict|cascade}')};]]></content>
+    <tabTrigger>table-foreign</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Adding a primary key</discription>
+</snippet>

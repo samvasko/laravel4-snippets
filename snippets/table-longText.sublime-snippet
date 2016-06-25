@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->longText('${1:description}')${2:${3:->default(${4:value})}${5:->nullable()}};]]></content>
+    <tabTrigger>table-longText</tabTrigger>
+    <scope>source.php</scope>
+    <discription>LONGTEXT equivalent to the table</discription>
+</snippet>

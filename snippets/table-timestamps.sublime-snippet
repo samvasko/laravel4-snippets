@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->timestamps();]]></content>
+    <tabTrigger>table-timestamps</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Adds created_at and updated_at columns</discription>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->morphs('${1:taggable}')${2:${3:->default(${4:value})}};]]></content>
+    <tabTrigger>table-morphs</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Adds INTEGER taggable_id and STRING taggable_type</discription>
+</snippet>

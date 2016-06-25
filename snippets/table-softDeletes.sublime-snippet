@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->softDeletes();]]></content>
+    <tabTrigger>table-softDeletes</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Adds deleted_at column for soft deletes</discription>
+</snippet>

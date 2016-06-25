@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->decimal('${1:amount}'${2:, ${3:total}}${4:, ${5:places}}})${6:${7:->unsigned()}${8:->default(${9:value})}${10:->nullable()}};]]></content>
+    <tabTrigger>table-decimal</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Create a new decimal column on the table.</discription>
+</snippet>

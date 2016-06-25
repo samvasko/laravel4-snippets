@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->nullableTimestamps()${2:${3:->default(${4:value})}};]]></content>
+    <tabTrigger>table-nullableTimestamps</tabTrigger>
+    <scope>source.php</scope>
+    <discription>Same as timestamps(), except allows NULLs</discription>
+</snippet>

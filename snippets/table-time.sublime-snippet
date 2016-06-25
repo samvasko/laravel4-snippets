@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->time('${1:sunrise}')${2:${3:->default(${4:value})}${5:->nullable()}};]]></content>
+    <tabTrigger>table-time</tabTrigger>
+    <scope>source.php</scope>
+    <discription>TIME equivalent to the table</discription>
+</snippet>

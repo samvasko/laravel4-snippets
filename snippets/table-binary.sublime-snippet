@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table->binary('${1:data}')${2:${3:->nullable()}};]]></content>
+    <tabTrigger>table-binary</tabTrigger>
+    <scope>source.php</scope>
+    <discription>BLOB equivalent to the table</discription>
+</snippet>
